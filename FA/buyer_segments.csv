@@ -1,0 +1,2001 @@
+client_id,Cluster,buyer_segment
+C0001,1,Personal-Use Buyers
+C0002,2,Corporate Investment Buyers
+C0003,2,Corporate Investment Buyers
+C0004,2,Corporate Investment Buyers
+C0005,3,Mixed-Purpose Buyers
+C0006,2,Corporate Investment Buyers
+C0007,2,Corporate Investment Buyers
+C0008,1,Personal-Use Buyers
+C0009,2,Corporate Investment Buyers
+C0010,2,Corporate Investment Buyers
+C0011,1,Personal-Use Buyers
+C0012,3,Mixed-Purpose Buyers
+C0013,2,Corporate Investment Buyers
+C0014,3,Mixed-Purpose Buyers
+C0015,1,Personal-Use Buyers
+C0016,1,Personal-Use Buyers
+C0017,2,Corporate Investment Buyers
+C0018,2,Corporate Investment Buyers
+C0019,2,Corporate Investment Buyers
+C0020,1,Personal-Use Buyers
+C0021,2,Corporate Investment Buyers
+C0022,2,Corporate Investment Buyers
+C0023,2,Corporate Investment Buyers
+C0024,2,Corporate Investment Buyers
+C0025,2,Corporate Investment Buyers
+C0026,2,Corporate Investment Buyers
+C0027,2,Corporate Investment Buyers
+C0028,1,Personal-Use Buyers
+C0029,1,Personal-Use Buyers
+C0030,1,Personal-Use Buyers
+C0031,2,Corporate Investment Buyers
+C0032,2,Corporate Investment Buyers
+C0033,1,Personal-Use Buyers
+C0034,1,Personal-Use Buyers
+C0035,2,Corporate Investment Buyers
+C0036,2,Corporate Investment Buyers
+C0037,1,Personal-Use Buyers
+C0038,1,Personal-Use Buyers
+C0039,1,Personal-Use Buyers
+C0040,2,Corporate Investment Buyers
+C0041,2,Corporate Investment Buyers
+C0042,1,Personal-Use Buyers
+C0043,2,Corporate Investment Buyers
+C0044,1,Personal-Use Buyers
+C0045,2,Corporate Investment Buyers
+C0046,1,Personal-Use Buyers
+C0047,2,Corporate Investment Buyers
+C0048,2,Corporate Investment Buyers
+C0049,1,Personal-Use Buyers
+C0050,2,Corporate Investment Buyers
+C0051,1,Personal-Use Buyers
+C0052,1,Personal-Use Buyers
+C0053,2,Corporate Investment Buyers
+C0054,3,Mixed-Purpose Buyers
+C0055,1,Personal-Use Buyers
+C0056,2,Corporate Investment Buyers
+C0057,2,Corporate Investment Buyers
+C0058,3,Mixed-Purpose Buyers
+C0059,2,Corporate Investment Buyers
+C0060,1,Personal-Use Buyers
+C0061,2,Corporate Investment Buyers
+C0062,2,Corporate Investment Buyers
+C0063,1,Personal-Use Buyers
+C0064,2,Corporate Investment Buyers
+C0065,2,Corporate Investment Buyers
+C0066,1,Personal-Use Buyers
+C0067,2,Corporate Investment Buyers
+C0068,1,Personal-Use Buyers
+C0069,2,Corporate Investment Buyers
+C0070,1,Personal-Use Buyers
+C0071,2,Corporate Investment Buyers
+C0072,2,Corporate Investment Buyers
+C0073,1,Personal-Use Buyers
+C0074,1,Personal-Use Buyers
+C0075,1,Personal-Use Buyers
+C0076,2,Corporate Investment Buyers
+C0077,2,Corporate Investment Buyers
+C0078,1,Personal-Use Buyers
+C0079,2,Corporate Investment Buyers
+C0080,1,Personal-Use Buyers
+C0081,1,Personal-Use Buyers
+C0082,1,Personal-Use Buyers
+C0083,2,Corporate Investment Buyers
+C0084,2,Corporate Investment Buyers
+C0085,2,Corporate Investment Buyers
+C0086,1,Personal-Use Buyers
+C0087,1,Personal-Use Buyers
+C0088,2,Corporate Investment Buyers
+C0089,2,Corporate Investment Buyers
+C0090,2,Corporate Investment Buyers
+C0091,1,Personal-Use Buyers
+C0092,2,Corporate Investment Buyers
+C0093,2,Corporate Investment Buyers
+C0094,1,Personal-Use Buyers
+C0095,2,Corporate Investment Buyers
+C0096,2,Corporate Investment Buyers
+C0097,2,Corporate Investment Buyers
+C0098,1,Personal-Use Buyers
+C0099,2,Corporate Investment Buyers
+C0100,2,Corporate Investment Buyers
+C0101,1,Personal-Use Buyers
+C0102,2,Corporate Investment Buyers
+C0103,2,Corporate Investment Buyers
+C0104,2,Corporate Investment Buyers
+C0105,1,Personal-Use Buyers
+C0106,2,Corporate Investment Buyers
+C0107,2,Corporate Investment Buyers
+C0108,2,Corporate Investment Buyers
+C0109,1,Personal-Use Buyers
+C0110,1,Personal-Use Buyers
+C0111,2,Corporate Investment Buyers
+C0112,1,Personal-Use Buyers
+C0113,2,Corporate Investment Buyers
+C0114,1,Personal-Use Buyers
+C0115,1,Personal-Use Buyers
+C0116,1,Personal-Use Buyers
+C0117,2,Corporate Investment Buyers
+C0118,1,Personal-Use Buyers
+C0119,1,Personal-Use Buyers
+C0120,1,Personal-Use Buyers
+C0121,2,Corporate Investment Buyers
+C0122,1,Personal-Use Buyers
+C0123,1,Personal-Use Buyers
+C0124,1,Personal-Use Buyers
+C0125,2,Corporate Investment Buyers
+C0126,1,Personal-Use Buyers
+C0127,2,Corporate Investment Buyers
+C0128,3,Mixed-Purpose Buyers
+C0129,2,Corporate Investment Buyers
+C0130,2,Corporate Investment Buyers
+C0131,2,Corporate Investment Buyers
+C0132,2,Corporate Investment Buyers
+C0133,2,Corporate Investment Buyers
+C0134,1,Personal-Use Buyers
+C0135,2,Corporate Investment Buyers
+C0136,2,Corporate Investment Buyers
+C0137,1,Personal-Use Buyers
+C0138,1,Personal-Use Buyers
+C0139,1,Personal-Use Buyers
+C0140,1,Personal-Use Buyers
+C0141,1,Personal-Use Buyers
+C0142,1,Personal-Use Buyers
+C0143,2,Corporate Investment Buyers
+C0144,2,Corporate Investment Buyers
+C0145,1,Personal-Use Buyers
+C0146,2,Corporate Investment Buyers
+C0147,2,Corporate Investment Buyers
+C0148,2,Corporate Investment Buyers
+C0149,2,Corporate Investment Buyers
+C0150,2,Corporate Investment Buyers
+C0151,1,Personal-Use Buyers
+C0152,1,Personal-Use Buyers
+C0153,1,Personal-Use Buyers
+C0154,1,Personal-Use Buyers
+C0155,3,Mixed-Purpose Buyers
+C0156,1,Personal-Use Buyers
+C0157,2,Corporate Investment Buyers
+C0158,1,Personal-Use Buyers
+C0159,2,Corporate Investment Buyers
+C0160,1,Personal-Use Buyers
+C0161,2,Corporate Investment Buyers
+C0162,2,Corporate Investment Buyers
+C0163,2,Corporate Investment Buyers
+C0164,2,Corporate Investment Buyers
+C0165,1,Personal-Use Buyers
+C0166,1,Personal-Use Buyers
+C0167,1,Personal-Use Buyers
+C0168,1,Personal-Use Buyers
+C0169,2,Corporate Investment Buyers
+C0170,2,Corporate Investment Buyers
+C0171,1,Personal-Use Buyers
+C0172,1,Personal-Use Buyers
+C0173,1,Personal-Use Buyers
+C0174,1,Personal-Use Buyers
+C0175,2,Corporate Investment Buyers
+C0176,1,Personal-Use Buyers
+C0177,1,Personal-Use Buyers
+C0178,1,Personal-Use Buyers
+C0179,1,Personal-Use Buyers
+C0180,2,Corporate Investment Buyers
+C0181,2,Corporate Investment Buyers
+C0182,1,Personal-Use Buyers
+C0183,2,Corporate Investment Buyers
+C0184,2,Corporate Investment Buyers
+C0185,1,Personal-Use Buyers
+C0186,1,Personal-Use Buyers
+C0187,1,Personal-Use Buyers
+C0188,2,Corporate Investment Buyers
+C0189,1,Personal-Use Buyers
+C0190,1,Personal-Use Buyers
+C0191,1,Personal-Use Buyers
+C0192,1,Personal-Use Buyers
+C0193,1,Personal-Use Buyers
+C0194,2,Corporate Investment Buyers
+C0195,2,Corporate Investment Buyers
+C0196,2,Corporate Investment Buyers
+C0197,2,Corporate Investment Buyers
+C0198,1,Personal-Use Buyers
+C0199,2,Corporate Investment Buyers
+C0200,1,Personal-Use Buyers
+C0201,1,Personal-Use Buyers
+C0202,2,Corporate Investment Buyers
+C0203,1,Personal-Use Buyers
+C0204,1,Personal-Use Buyers
+C0205,1,Personal-Use Buyers
+C0206,1,Personal-Use Buyers
+C0207,2,Corporate Investment Buyers
+C0208,2,Corporate Investment Buyers
+C0209,2,Corporate Investment Buyers
+C0210,1,Personal-Use Buyers
+C0211,1,Personal-Use Buyers
+C0212,2,Corporate Investment Buyers
+C0213,2,Corporate Investment Buyers
+C0214,1,Personal-Use Buyers
+C0215,1,Personal-Use Buyers
+C0216,2,Corporate Investment Buyers
+C0217,1,Personal-Use Buyers
+C0218,1,Personal-Use Buyers
+C0219,2,Corporate Investment Buyers
+C0220,2,Corporate Investment Buyers
+C0221,3,Mixed-Purpose Buyers
+C0222,2,Corporate Investment Buyers
+C0223,2,Corporate Investment Buyers
+C0224,2,Corporate Investment Buyers
+C0225,1,Personal-Use Buyers
+C0226,1,Personal-Use Buyers
+C0227,1,Personal-Use Buyers
+C0228,1,Personal-Use Buyers
+C0229,2,Corporate Investment Buyers
+C0230,3,Mixed-Purpose Buyers
+C0231,2,Corporate Investment Buyers
+C0232,1,Personal-Use Buyers
+C0233,2,Corporate Investment Buyers
+C0234,1,Personal-Use Buyers
+C0235,2,Corporate Investment Buyers
+C0236,0,Investment-Oriented Buyers
+C0237,2,Corporate Investment Buyers
+C0238,1,Personal-Use Buyers
+C0239,1,Personal-Use Buyers
+C0240,1,Personal-Use Buyers
+C0241,1,Personal-Use Buyers
+C0242,2,Corporate Investment Buyers
+C0243,1,Personal-Use Buyers
+C0244,1,Personal-Use Buyers
+C0245,2,Corporate Investment Buyers
+C0246,2,Corporate Investment Buyers
+C0247,2,Corporate Investment Buyers
+C0248,2,Corporate Investment Buyers
+C0249,1,Personal-Use Buyers
+C0250,2,Corporate Investment Buyers
+C0251,1,Personal-Use Buyers
+C0252,1,Personal-Use Buyers
+C0253,1,Personal-Use Buyers
+C0254,1,Personal-Use Buyers
+C0255,1,Personal-Use Buyers
+C0256,2,Corporate Investment Buyers
+C0257,2,Corporate Investment Buyers
+C0258,2,Corporate Investment Buyers
+C0259,1,Personal-Use Buyers
+C0260,1,Personal-Use Buyers
+C0261,3,Mixed-Purpose Buyers
+C0262,2,Corporate Investment Buyers
+C0263,2,Corporate Investment Buyers
+C0264,1,Personal-Use Buyers
+C0265,3,Mixed-Purpose Buyers
+C0266,2,Corporate Investment Buyers
+C0267,1,Personal-Use Buyers
+C0268,1,Personal-Use Buyers
+C0269,2,Corporate Investment Buyers
+C0270,1,Personal-Use Buyers
+C0271,1,Personal-Use Buyers
+C0272,1,Personal-Use Buyers
+C0273,2,Corporate Investment Buyers
+C0274,2,Corporate Investment Buyers
+C0275,2,Corporate Investment Buyers
+C0276,1,Personal-Use Buyers
+C0277,2,Corporate Investment Buyers
+C0278,1,Personal-Use Buyers
+C0279,1,Personal-Use Buyers
+C0280,2,Corporate Investment Buyers
+C0281,1,Personal-Use Buyers
+C0282,1,Personal-Use Buyers
+C0283,1,Personal-Use Buyers
+C0284,2,Corporate Investment Buyers
+C0285,2,Corporate Investment Buyers
+C0286,2,Corporate Investment Buyers
+C0287,1,Personal-Use Buyers
+C0288,2,Corporate Investment Buyers
+C0289,1,Personal-Use Buyers
+C0290,2,Corporate Investment Buyers
+C0291,2,Corporate Investment Buyers
+C0292,1,Personal-Use Buyers
+C0293,1,Personal-Use Buyers
+C0294,2,Corporate Investment Buyers
+C0295,2,Corporate Investment Buyers
+C0296,0,Investment-Oriented Buyers
+C0297,1,Personal-Use Buyers
+C0298,1,Personal-Use Buyers
+C0299,1,Personal-Use Buyers
+C0300,2,Corporate Investment Buyers
+C0301,1,Personal-Use Buyers
+C0302,1,Personal-Use Buyers
+C0303,1,Personal-Use Buyers
+C0304,2,Corporate Investment Buyers
+C0305,1,Personal-Use Buyers
+C0306,2,Corporate Investment Buyers
+C0307,2,Corporate Investment Buyers
+C0308,1,Personal-Use Buyers
+C0309,1,Personal-Use Buyers
+C0310,2,Corporate Investment Buyers
+C0311,2,Corporate Investment Buyers
+C0312,2,Corporate Investment Buyers
+C0313,3,Mixed-Purpose Buyers
+C0314,2,Corporate Investment Buyers
+C0315,2,Corporate Investment Buyers
+C0316,2,Corporate Investment Buyers
+C0317,1,Personal-Use Buyers
+C0318,1,Personal-Use Buyers
+C0319,3,Mixed-Purpose Buyers
+C0320,2,Corporate Investment Buyers
+C0321,2,Corporate Investment Buyers
+C0322,1,Personal-Use Buyers
+C0323,1,Personal-Use Buyers
+C0324,2,Corporate Investment Buyers
+C0325,1,Personal-Use Buyers
+C0326,2,Corporate Investment Buyers
+C0327,1,Personal-Use Buyers
+C0328,2,Corporate Investment Buyers
+C0329,1,Personal-Use Buyers
+C0330,2,Corporate Investment Buyers
+C0331,1,Personal-Use Buyers
+C0332,2,Corporate Investment Buyers
+C0333,1,Personal-Use Buyers
+C0334,2,Corporate Investment Buyers
+C0335,2,Corporate Investment Buyers
+C0336,1,Personal-Use Buyers
+C0337,2,Corporate Investment Buyers
+C0338,2,Corporate Investment Buyers
+C0339,2,Corporate Investment Buyers
+C0340,2,Corporate Investment Buyers
+C0341,2,Corporate Investment Buyers
+C0342,2,Corporate Investment Buyers
+C0343,1,Personal-Use Buyers
+C0344,2,Corporate Investment Buyers
+C0345,1,Personal-Use Buyers
+C0346,1,Personal-Use Buyers
+C0347,2,Corporate Investment Buyers
+C0348,2,Corporate Investment Buyers
+C0349,2,Corporate Investment Buyers
+C0350,2,Corporate Investment Buyers
+C0351,1,Personal-Use Buyers
+C0352,1,Personal-Use Buyers
+C0353,1,Personal-Use Buyers
+C0354,1,Personal-Use Buyers
+C0355,2,Corporate Investment Buyers
+C0356,1,Personal-Use Buyers
+C0357,1,Personal-Use Buyers
+C0358,1,Personal-Use Buyers
+C0359,1,Personal-Use Buyers
+C0360,1,Personal-Use Buyers
+C0361,2,Corporate Investment Buyers
+C0362,1,Personal-Use Buyers
+C0363,1,Personal-Use Buyers
+C0364,2,Corporate Investment Buyers
+C0365,2,Corporate Investment Buyers
+C0366,2,Corporate Investment Buyers
+C0367,2,Corporate Investment Buyers
+C0368,1,Personal-Use Buyers
+C0369,1,Personal-Use Buyers
+C0370,1,Personal-Use Buyers
+C0371,2,Corporate Investment Buyers
+C0372,1,Personal-Use Buyers
+C0373,1,Personal-Use Buyers
+C0374,1,Personal-Use Buyers
+C0375,2,Corporate Investment Buyers
+C0376,1,Personal-Use Buyers
+C0377,2,Corporate Investment Buyers
+C0378,1,Personal-Use Buyers
+C0379,3,Mixed-Purpose Buyers
+C0380,1,Personal-Use Buyers
+C0381,2,Corporate Investment Buyers
+C0382,2,Corporate Investment Buyers
+C0383,3,Mixed-Purpose Buyers
+C0384,1,Personal-Use Buyers
+C0385,2,Corporate Investment Buyers
+C0386,1,Personal-Use Buyers
+C0387,1,Personal-Use Buyers
+C0388,2,Corporate Investment Buyers
+C0389,2,Corporate Investment Buyers
+C0390,2,Corporate Investment Buyers
+C0391,1,Personal-Use Buyers
+C0392,1,Personal-Use Buyers
+C0393,1,Personal-Use Buyers
+C0394,1,Personal-Use Buyers
+C0395,1,Personal-Use Buyers
+C0396,2,Corporate Investment Buyers
+C0397,1,Personal-Use Buyers
+C0398,1,Personal-Use Buyers
+C0399,2,Corporate Investment Buyers
+C0400,2,Corporate Investment Buyers
+C0401,2,Corporate Investment Buyers
+C0402,1,Personal-Use Buyers
+C0403,1,Personal-Use Buyers
+C0404,1,Personal-Use Buyers
+C0405,3,Mixed-Purpose Buyers
+C0406,1,Personal-Use Buyers
+C0407,1,Personal-Use Buyers
+C0408,2,Corporate Investment Buyers
+C0409,2,Corporate Investment Buyers
+C0410,1,Personal-Use Buyers
+C0411,1,Personal-Use Buyers
+C0412,1,Personal-Use Buyers
+C0413,2,Corporate Investment Buyers
+C0414,2,Corporate Investment Buyers
+C0415,1,Personal-Use Buyers
+C0416,3,Mixed-Purpose Buyers
+C0417,2,Corporate Investment Buyers
+C0418,2,Corporate Investment Buyers
+C0419,2,Corporate Investment Buyers
+C0420,1,Personal-Use Buyers
+C0421,2,Corporate Investment Buyers
+C0422,3,Mixed-Purpose Buyers
+C0423,1,Personal-Use Buyers
+C0424,1,Personal-Use Buyers
+C0425,2,Corporate Investment Buyers
+C0426,1,Personal-Use Buyers
+C0427,1,Personal-Use Buyers
+C0428,1,Personal-Use Buyers
+C0429,1,Personal-Use Buyers
+C0430,2,Corporate Investment Buyers
+C0431,2,Corporate Investment Buyers
+C0432,3,Mixed-Purpose Buyers
+C0433,1,Personal-Use Buyers
+C0434,1,Personal-Use Buyers
+C0435,1,Personal-Use Buyers
+C0436,2,Corporate Investment Buyers
+C0437,1,Personal-Use Buyers
+C0438,2,Corporate Investment Buyers
+C0439,2,Corporate Investment Buyers
+C0440,2,Corporate Investment Buyers
+C0441,1,Personal-Use Buyers
+C0442,1,Personal-Use Buyers
+C0443,2,Corporate Investment Buyers
+C0444,1,Personal-Use Buyers
+C0445,1,Personal-Use Buyers
+C0446,2,Corporate Investment Buyers
+C0447,1,Personal-Use Buyers
+C0448,2,Corporate Investment Buyers
+C0449,2,Corporate Investment Buyers
+C0450,2,Corporate Investment Buyers
+C0451,2,Corporate Investment Buyers
+C0452,2,Corporate Investment Buyers
+C0453,2,Corporate Investment Buyers
+C0454,3,Mixed-Purpose Buyers
+C0455,1,Personal-Use Buyers
+C0456,1,Personal-Use Buyers
+C0457,2,Corporate Investment Buyers
+C0458,2,Corporate Investment Buyers
+C0459,2,Corporate Investment Buyers
+C0460,1,Personal-Use Buyers
+C0461,2,Corporate Investment Buyers
+C0462,2,Corporate Investment Buyers
+C0463,2,Corporate Investment Buyers
+C0464,2,Corporate Investment Buyers
+C0465,2,Corporate Investment Buyers
+C0466,1,Personal-Use Buyers
+C0467,1,Personal-Use Buyers
+C0468,2,Corporate Investment Buyers
+C0469,2,Corporate Investment Buyers
+C0470,1,Personal-Use Buyers
+C0471,2,Corporate Investment Buyers
+C0472,2,Corporate Investment Buyers
+C0473,1,Personal-Use Buyers
+C0474,2,Corporate Investment Buyers
+C0475,2,Corporate Investment Buyers
+C0476,2,Corporate Investment Buyers
+C0477,2,Corporate Investment Buyers
+C0478,1,Personal-Use Buyers
+C0479,1,Personal-Use Buyers
+C0480,2,Corporate Investment Buyers
+C0481,2,Corporate Investment Buyers
+C0482,1,Personal-Use Buyers
+C0483,2,Corporate Investment Buyers
+C0484,1,Personal-Use Buyers
+C0485,1,Personal-Use Buyers
+C0486,2,Corporate Investment Buyers
+C0487,1,Personal-Use Buyers
+C0488,1,Personal-Use Buyers
+C0489,2,Corporate Investment Buyers
+C0490,1,Personal-Use Buyers
+C0491,2,Corporate Investment Buyers
+C0492,2,Corporate Investment Buyers
+C0493,2,Corporate Investment Buyers
+C0494,1,Personal-Use Buyers
+C0495,2,Corporate Investment Buyers
+C0496,2,Corporate Investment Buyers
+C0497,1,Personal-Use Buyers
+C0498,1,Personal-Use Buyers
+C0499,1,Personal-Use Buyers
+C0500,2,Corporate Investment Buyers
+C0501,2,Corporate Investment Buyers
+C0502,1,Personal-Use Buyers
+C0503,2,Corporate Investment Buyers
+C0504,2,Corporate Investment Buyers
+C0505,1,Personal-Use Buyers
+C0506,2,Corporate Investment Buyers
+C0507,2,Corporate Investment Buyers
+C0508,1,Personal-Use Buyers
+C0509,2,Corporate Investment Buyers
+C0510,1,Personal-Use Buyers
+C0511,1,Personal-Use Buyers
+C0512,1,Personal-Use Buyers
+C0513,2,Corporate Investment Buyers
+C0514,1,Personal-Use Buyers
+C0515,1,Personal-Use Buyers
+C0516,2,Corporate Investment Buyers
+C0517,2,Corporate Investment Buyers
+C0518,3,Mixed-Purpose Buyers
+C0519,1,Personal-Use Buyers
+C0520,1,Personal-Use Buyers
+C0521,1,Personal-Use Buyers
+C0522,1,Personal-Use Buyers
+C0523,1,Personal-Use Buyers
+C0524,2,Corporate Investment Buyers
+C0525,2,Corporate Investment Buyers
+C0526,2,Corporate Investment Buyers
+C0527,2,Corporate Investment Buyers
+C0528,2,Corporate Investment Buyers
+C0529,2,Corporate Investment Buyers
+C0530,1,Personal-Use Buyers
+C0531,1,Personal-Use Buyers
+C0532,1,Personal-Use Buyers
+C0533,2,Corporate Investment Buyers
+C0534,2,Corporate Investment Buyers
+C0535,1,Personal-Use Buyers
+C0536,1,Personal-Use Buyers
+C0537,2,Corporate Investment Buyers
+C0538,2,Corporate Investment Buyers
+C0539,2,Corporate Investment Buyers
+C0540,1,Personal-Use Buyers
+C0541,2,Corporate Investment Buyers
+C0542,3,Mixed-Purpose Buyers
+C0543,1,Personal-Use Buyers
+C0544,2,Corporate Investment Buyers
+C0545,2,Corporate Investment Buyers
+C0546,0,Investment-Oriented Buyers
+C0547,1,Personal-Use Buyers
+C0548,2,Corporate Investment Buyers
+C0549,2,Corporate Investment Buyers
+C0550,3,Mixed-Purpose Buyers
+C0551,2,Corporate Investment Buyers
+C0552,2,Corporate Investment Buyers
+C0553,2,Corporate Investment Buyers
+C0554,2,Corporate Investment Buyers
+C0555,2,Corporate Investment Buyers
+C0556,2,Corporate Investment Buyers
+C0557,1,Personal-Use Buyers
+C0558,1,Personal-Use Buyers
+C0559,3,Mixed-Purpose Buyers
+C0560,1,Personal-Use Buyers
+C0561,3,Mixed-Purpose Buyers
+C0562,1,Personal-Use Buyers
+C0563,2,Corporate Investment Buyers
+C0564,2,Corporate Investment Buyers
+C0565,2,Corporate Investment Buyers
+C0566,1,Personal-Use Buyers
+C0567,1,Personal-Use Buyers
+C0568,2,Corporate Investment Buyers
+C0569,1,Personal-Use Buyers
+C0570,1,Personal-Use Buyers
+C0571,2,Corporate Investment Buyers
+C0572,1,Personal-Use Buyers
+C0573,3,Mixed-Purpose Buyers
+C0574,2,Corporate Investment Buyers
+C0575,2,Corporate Investment Buyers
+C0576,2,Corporate Investment Buyers
+C0577,2,Corporate Investment Buyers
+C0578,1,Personal-Use Buyers
+C0579,2,Corporate Investment Buyers
+C0580,1,Personal-Use Buyers
+C0581,1,Personal-Use Buyers
+C0582,1,Personal-Use Buyers
+C0583,2,Corporate Investment Buyers
+C0584,1,Personal-Use Buyers
+C0585,2,Corporate Investment Buyers
+C0586,2,Corporate Investment Buyers
+C0587,1,Personal-Use Buyers
+C0588,1,Personal-Use Buyers
+C0589,2,Corporate Investment Buyers
+C0590,2,Corporate Investment Buyers
+C0591,1,Personal-Use Buyers
+C0592,2,Corporate Investment Buyers
+C0593,1,Personal-Use Buyers
+C0594,1,Personal-Use Buyers
+C0595,1,Personal-Use Buyers
+C0596,2,Corporate Investment Buyers
+C0597,2,Corporate Investment Buyers
+C0598,2,Corporate Investment Buyers
+C0599,1,Personal-Use Buyers
+C0600,2,Corporate Investment Buyers
+C0601,1,Personal-Use Buyers
+C0602,2,Corporate Investment Buyers
+C0603,1,Personal-Use Buyers
+C0604,1,Personal-Use Buyers
+C0605,2,Corporate Investment Buyers
+C0606,1,Personal-Use Buyers
+C0607,2,Corporate Investment Buyers
+C0608,2,Corporate Investment Buyers
+C0609,1,Personal-Use Buyers
+C0610,1,Personal-Use Buyers
+C0611,2,Corporate Investment Buyers
+C0612,2,Corporate Investment Buyers
+C0613,1,Personal-Use Buyers
+C0614,2,Corporate Investment Buyers
+C0615,2,Corporate Investment Buyers
+C0616,1,Personal-Use Buyers
+C0617,1,Personal-Use Buyers
+C0618,2,Corporate Investment Buyers
+C0619,1,Personal-Use Buyers
+C0620,1,Personal-Use Buyers
+C0621,2,Corporate Investment Buyers
+C0622,1,Personal-Use Buyers
+C0623,2,Corporate Investment Buyers
+C0624,2,Corporate Investment Buyers
+C0625,1,Personal-Use Buyers
+C0626,1,Personal-Use Buyers
+C0627,1,Personal-Use Buyers
+C0628,2,Corporate Investment Buyers
+C0629,1,Personal-Use Buyers
+C0630,2,Corporate Investment Buyers
+C0631,1,Personal-Use Buyers
+C0632,2,Corporate Investment Buyers
+C0633,1,Personal-Use Buyers
+C0634,2,Corporate Investment Buyers
+C0635,1,Personal-Use Buyers
+C0636,1,Personal-Use Buyers
+C0637,1,Personal-Use Buyers
+C0638,2,Corporate Investment Buyers
+C0639,2,Corporate Investment Buyers
+C0640,1,Personal-Use Buyers
+C0641,3,Mixed-Purpose Buyers
+C0642,1,Personal-Use Buyers
+C0643,1,Personal-Use Buyers
+C0644,1,Personal-Use Buyers
+C0645,2,Corporate Investment Buyers
+C0646,1,Personal-Use Buyers
+C0647,1,Personal-Use Buyers
+C0648,1,Personal-Use Buyers
+C0649,1,Personal-Use Buyers
+C0650,3,Mixed-Purpose Buyers
+C0651,3,Mixed-Purpose Buyers
+C0652,1,Personal-Use Buyers
+C0653,2,Corporate Investment Buyers
+C0654,2,Corporate Investment Buyers
+C0655,1,Personal-Use Buyers
+C0656,1,Personal-Use Buyers
+C0657,2,Corporate Investment Buyers
+C0658,1,Personal-Use Buyers
+C0659,1,Personal-Use Buyers
+C0660,2,Corporate Investment Buyers
+C0661,0,Investment-Oriented Buyers
+C0662,1,Personal-Use Buyers
+C0663,2,Corporate Investment Buyers
+C0664,2,Corporate Investment Buyers
+C0665,2,Corporate Investment Buyers
+C0666,1,Personal-Use Buyers
+C0667,2,Corporate Investment Buyers
+C0668,1,Personal-Use Buyers
+C0669,1,Personal-Use Buyers
+C0670,3,Mixed-Purpose Buyers
+C0671,2,Corporate Investment Buyers
+C0672,1,Personal-Use Buyers
+C0673,1,Personal-Use Buyers
+C0674,1,Personal-Use Buyers
+C0675,1,Personal-Use Buyers
+C0676,1,Personal-Use Buyers
+C0677,2,Corporate Investment Buyers
+C0678,2,Corporate Investment Buyers
+C0679,1,Personal-Use Buyers
+C0680,2,Corporate Investment Buyers
+C0681,3,Mixed-Purpose Buyers
+C0682,2,Corporate Investment Buyers
+C0683,2,Corporate Investment Buyers
+C0684,2,Corporate Investment Buyers
+C0685,1,Personal-Use Buyers
+C0686,2,Corporate Investment Buyers
+C0687,1,Personal-Use Buyers
+C0688,1,Personal-Use Buyers
+C0689,1,Personal-Use Buyers
+C0690,1,Personal-Use Buyers
+C0691,2,Corporate Investment Buyers
+C0692,2,Corporate Investment Buyers
+C0693,2,Corporate Investment Buyers
+C0694,3,Mixed-Purpose Buyers
+C0695,2,Corporate Investment Buyers
+C0696,1,Personal-Use Buyers
+C0697,2,Corporate Investment Buyers
+C0698,1,Personal-Use Buyers
+C0699,2,Corporate Investment Buyers
+C0700,1,Personal-Use Buyers
+C0701,1,Personal-Use Buyers
+C0702,2,Corporate Investment Buyers
+C0703,3,Mixed-Purpose Buyers
+C0704,1,Personal-Use Buyers
+C0705,2,Corporate Investment Buyers
+C0706,2,Corporate Investment Buyers
+C0707,2,Corporate Investment Buyers
+C0708,2,Corporate Investment Buyers
+C0709,1,Personal-Use Buyers
+C0710,2,Corporate Investment Buyers
+C0711,1,Personal-Use Buyers
+C0712,2,Corporate Investment Buyers
+C0713,1,Personal-Use Buyers
+C0714,2,Corporate Investment Buyers
+C0715,1,Personal-Use Buyers
+C0716,2,Corporate Investment Buyers
+C0717,1,Personal-Use Buyers
+C0718,1,Personal-Use Buyers
+C0719,2,Corporate Investment Buyers
+C0720,1,Personal-Use Buyers
+C0721,1,Personal-Use Buyers
+C0722,1,Personal-Use Buyers
+C0723,1,Personal-Use Buyers
+C0724,2,Corporate Investment Buyers
+C0725,1,Personal-Use Buyers
+C0726,1,Personal-Use Buyers
+C0727,2,Corporate Investment Buyers
+C0728,2,Corporate Investment Buyers
+C0729,2,Corporate Investment Buyers
+C0730,2,Corporate Investment Buyers
+C0731,2,Corporate Investment Buyers
+C0732,2,Corporate Investment Buyers
+C0733,1,Personal-Use Buyers
+C0734,1,Personal-Use Buyers
+C0735,2,Corporate Investment Buyers
+C0736,2,Corporate Investment Buyers
+C0737,2,Corporate Investment Buyers
+C0738,2,Corporate Investment Buyers
+C0739,2,Corporate Investment Buyers
+C0740,1,Personal-Use Buyers
+C0741,1,Personal-Use Buyers
+C0742,2,Corporate Investment Buyers
+C0743,2,Corporate Investment Buyers
+C0744,1,Personal-Use Buyers
+C0745,1,Personal-Use Buyers
+C0746,2,Corporate Investment Buyers
+C0747,2,Corporate Investment Buyers
+C0748,3,Mixed-Purpose Buyers
+C0749,1,Personal-Use Buyers
+C0750,1,Personal-Use Buyers
+C0751,2,Corporate Investment Buyers
+C0752,1,Personal-Use Buyers
+C0753,2,Corporate Investment Buyers
+C0754,1,Personal-Use Buyers
+C0755,3,Mixed-Purpose Buyers
+C0756,1,Personal-Use Buyers
+C0757,2,Corporate Investment Buyers
+C0758,2,Corporate Investment Buyers
+C0759,2,Corporate Investment Buyers
+C0760,1,Personal-Use Buyers
+C0761,1,Personal-Use Buyers
+C0762,1,Personal-Use Buyers
+C0763,3,Mixed-Purpose Buyers
+C0764,1,Personal-Use Buyers
+C0765,2,Corporate Investment Buyers
+C0766,2,Corporate Investment Buyers
+C0767,2,Corporate Investment Buyers
+C0768,2,Corporate Investment Buyers
+C0769,1,Personal-Use Buyers
+C0770,1,Personal-Use Buyers
+C0771,3,Mixed-Purpose Buyers
+C0772,2,Corporate Investment Buyers
+C0773,2,Corporate Investment Buyers
+C0774,2,Corporate Investment Buyers
+C0775,1,Personal-Use Buyers
+C0776,1,Personal-Use Buyers
+C0777,3,Mixed-Purpose Buyers
+C0778,2,Corporate Investment Buyers
+C0779,1,Personal-Use Buyers
+C0780,1,Personal-Use Buyers
+C0781,2,Corporate Investment Buyers
+C0782,2,Corporate Investment Buyers
+C0783,1,Personal-Use Buyers
+C0784,2,Corporate Investment Buyers
+C0785,3,Mixed-Purpose Buyers
+C0786,1,Personal-Use Buyers
+C0787,2,Corporate Investment Buyers
+C0788,2,Corporate Investment Buyers
+C0789,1,Personal-Use Buyers
+C0790,2,Corporate Investment Buyers
+C0791,2,Corporate Investment Buyers
+C0792,2,Corporate Investment Buyers
+C0793,2,Corporate Investment Buyers
+C0794,2,Corporate Investment Buyers
+C0795,2,Corporate Investment Buyers
+C0796,1,Personal-Use Buyers
+C0797,1,Personal-Use Buyers
+C0798,3,Mixed-Purpose Buyers
+C0799,1,Personal-Use Buyers
+C0800,2,Corporate Investment Buyers
+C0801,1,Personal-Use Buyers
+C0802,2,Corporate Investment Buyers
+C0803,1,Personal-Use Buyers
+C0804,2,Corporate Investment Buyers
+C0805,2,Corporate Investment Buyers
+C0806,2,Corporate Investment Buyers
+C0807,1,Personal-Use Buyers
+C0808,2,Corporate Investment Buyers
+C0809,1,Personal-Use Buyers
+C0810,2,Corporate Investment Buyers
+C0811,2,Corporate Investment Buyers
+C0812,2,Corporate Investment Buyers
+C0813,2,Corporate Investment Buyers
+C0814,1,Personal-Use Buyers
+C0815,3,Mixed-Purpose Buyers
+C0816,1,Personal-Use Buyers
+C0817,1,Personal-Use Buyers
+C0818,3,Mixed-Purpose Buyers
+C0819,2,Corporate Investment Buyers
+C0820,1,Personal-Use Buyers
+C0821,1,Personal-Use Buyers
+C0822,1,Personal-Use Buyers
+C0823,1,Personal-Use Buyers
+C0824,2,Corporate Investment Buyers
+C0825,1,Personal-Use Buyers
+C0826,2,Corporate Investment Buyers
+C0827,1,Personal-Use Buyers
+C0828,1,Personal-Use Buyers
+C0829,2,Corporate Investment Buyers
+C0830,2,Corporate Investment Buyers
+C0831,1,Personal-Use Buyers
+C0832,1,Personal-Use Buyers
+C0833,2,Corporate Investment Buyers
+C0834,1,Personal-Use Buyers
+C0835,1,Personal-Use Buyers
+C0836,2,Corporate Investment Buyers
+C0837,2,Corporate Investment Buyers
+C0838,2,Corporate Investment Buyers
+C0839,1,Personal-Use Buyers
+C0840,1,Personal-Use Buyers
+C0841,2,Corporate Investment Buyers
+C0842,2,Corporate Investment Buyers
+C0843,1,Personal-Use Buyers
+C0844,1,Personal-Use Buyers
+C0845,1,Personal-Use Buyers
+C0846,1,Personal-Use Buyers
+C0847,1,Personal-Use Buyers
+C0848,2,Corporate Investment Buyers
+C0849,2,Corporate Investment Buyers
+C0850,1,Personal-Use Buyers
+C0851,2,Corporate Investment Buyers
+C0852,2,Corporate Investment Buyers
+C0853,2,Corporate Investment Buyers
+C0854,2,Corporate Investment Buyers
+C0855,1,Personal-Use Buyers
+C0856,1,Personal-Use Buyers
+C0857,1,Personal-Use Buyers
+C0858,2,Corporate Investment Buyers
+C0859,1,Personal-Use Buyers
+C0860,1,Personal-Use Buyers
+C0861,1,Personal-Use Buyers
+C0862,1,Personal-Use Buyers
+C0863,2,Corporate Investment Buyers
+C0864,2,Corporate Investment Buyers
+C0865,1,Personal-Use Buyers
+C0866,2,Corporate Investment Buyers
+C0867,1,Personal-Use Buyers
+C0868,1,Personal-Use Buyers
+C0869,2,Corporate Investment Buyers
+C0870,3,Mixed-Purpose Buyers
+C0871,1,Personal-Use Buyers
+C0872,1,Personal-Use Buyers
+C0873,2,Corporate Investment Buyers
+C0874,1,Personal-Use Buyers
+C0875,0,Investment-Oriented Buyers
+C0876,2,Corporate Investment Buyers
+C0877,1,Personal-Use Buyers
+C0878,1,Personal-Use Buyers
+C0879,2,Corporate Investment Buyers
+C0880,1,Personal-Use Buyers
+C0881,1,Personal-Use Buyers
+C0882,2,Corporate Investment Buyers
+C0883,2,Corporate Investment Buyers
+C0884,2,Corporate Investment Buyers
+C0885,2,Corporate Investment Buyers
+C0886,2,Corporate Investment Buyers
+C0887,1,Personal-Use Buyers
+C0888,1,Personal-Use Buyers
+C0889,2,Corporate Investment Buyers
+C0890,1,Personal-Use Buyers
+C0891,2,Corporate Investment Buyers
+C0892,1,Personal-Use Buyers
+C0893,1,Personal-Use Buyers
+C0894,2,Corporate Investment Buyers
+C0895,1,Personal-Use Buyers
+C0896,2,Corporate Investment Buyers
+C0897,1,Personal-Use Buyers
+C0898,1,Personal-Use Buyers
+C0899,3,Mixed-Purpose Buyers
+C0900,1,Personal-Use Buyers
+C0901,2,Corporate Investment Buyers
+C0902,3,Mixed-Purpose Buyers
+C0903,1,Personal-Use Buyers
+C0904,1,Personal-Use Buyers
+C0905,1,Personal-Use Buyers
+C0906,1,Personal-Use Buyers
+C0907,1,Personal-Use Buyers
+C0908,2,Corporate Investment Buyers
+C0909,2,Corporate Investment Buyers
+C0910,1,Personal-Use Buyers
+C0911,2,Corporate Investment Buyers
+C0912,1,Personal-Use Buyers
+C0913,2,Corporate Investment Buyers
+C0914,1,Personal-Use Buyers
+C0915,2,Corporate Investment Buyers
+C0916,2,Corporate Investment Buyers
+C0917,2,Corporate Investment Buyers
+C0918,1,Personal-Use Buyers
+C0919,1,Personal-Use Buyers
+C0920,2,Corporate Investment Buyers
+C0921,1,Personal-Use Buyers
+C0922,2,Corporate Investment Buyers
+C0923,1,Personal-Use Buyers
+C0924,1,Personal-Use Buyers
+C0925,2,Corporate Investment Buyers
+C0926,1,Personal-Use Buyers
+C0927,1,Personal-Use Buyers
+C0928,2,Corporate Investment Buyers
+C0929,2,Corporate Investment Buyers
+C0930,1,Personal-Use Buyers
+C0931,2,Corporate Investment Buyers
+C0932,1,Personal-Use Buyers
+C0933,1,Personal-Use Buyers
+C0934,1,Personal-Use Buyers
+C0935,0,Investment-Oriented Buyers
+C0936,1,Personal-Use Buyers
+C0937,2,Corporate Investment Buyers
+C0938,2,Corporate Investment Buyers
+C0939,1,Personal-Use Buyers
+C0940,2,Corporate Investment Buyers
+C0941,1,Personal-Use Buyers
+C0942,1,Personal-Use Buyers
+C0943,0,Investment-Oriented Buyers
+C0944,1,Personal-Use Buyers
+C0945,1,Personal-Use Buyers
+C0946,1,Personal-Use Buyers
+C0947,1,Personal-Use Buyers
+C0948,1,Personal-Use Buyers
+C0949,1,Personal-Use Buyers
+C0950,1,Personal-Use Buyers
+C0951,1,Personal-Use Buyers
+C0952,1,Personal-Use Buyers
+C0953,3,Mixed-Purpose Buyers
+C0954,2,Corporate Investment Buyers
+C0955,1,Personal-Use Buyers
+C0956,2,Corporate Investment Buyers
+C0957,3,Mixed-Purpose Buyers
+C0958,1,Personal-Use Buyers
+C0959,2,Corporate Investment Buyers
+C0960,1,Personal-Use Buyers
+C0961,2,Corporate Investment Buyers
+C0962,2,Corporate Investment Buyers
+C0963,2,Corporate Investment Buyers
+C0964,1,Personal-Use Buyers
+C0965,1,Personal-Use Buyers
+C0966,3,Mixed-Purpose Buyers
+C0967,1,Personal-Use Buyers
+C0968,1,Personal-Use Buyers
+C0969,1,Personal-Use Buyers
+C0970,2,Corporate Investment Buyers
+C0971,1,Personal-Use Buyers
+C0972,1,Personal-Use Buyers
+C0973,2,Corporate Investment Buyers
+C0974,2,Corporate Investment Buyers
+C0975,2,Corporate Investment Buyers
+C0976,2,Corporate Investment Buyers
+C0977,2,Corporate Investment Buyers
+C0978,1,Personal-Use Buyers
+C0979,1,Personal-Use Buyers
+C0980,2,Corporate Investment Buyers
+C0981,1,Personal-Use Buyers
+C0982,0,Investment-Oriented Buyers
+C0983,1,Personal-Use Buyers
+C0984,2,Corporate Investment Buyers
+C0985,1,Personal-Use Buyers
+C0986,1,Personal-Use Buyers
+C0987,1,Personal-Use Buyers
+C0988,2,Corporate Investment Buyers
+C0989,1,Personal-Use Buyers
+C0990,2,Corporate Investment Buyers
+C0991,1,Personal-Use Buyers
+C0992,2,Corporate Investment Buyers
+C0993,2,Corporate Investment Buyers
+C0994,2,Corporate Investment Buyers
+C0995,1,Personal-Use Buyers
+C0996,0,Investment-Oriented Buyers
+C0997,2,Corporate Investment Buyers
+C0998,3,Mixed-Purpose Buyers
+C0999,1,Personal-Use Buyers
+C1000,1,Personal-Use Buyers
+C1001,2,Corporate Investment Buyers
+C1002,2,Corporate Investment Buyers
+C1003,1,Personal-Use Buyers
+C1004,2,Corporate Investment Buyers
+C1005,1,Personal-Use Buyers
+C1006,1,Personal-Use Buyers
+C1007,1,Personal-Use Buyers
+C1008,3,Mixed-Purpose Buyers
+C1009,1,Personal-Use Buyers
+C1010,2,Corporate Investment Buyers
+C1011,1,Personal-Use Buyers
+C1012,2,Corporate Investment Buyers
+C1013,1,Personal-Use Buyers
+C1014,2,Corporate Investment Buyers
+C1015,2,Corporate Investment Buyers
+C1016,1,Personal-Use Buyers
+C1017,1,Personal-Use Buyers
+C1018,1,Personal-Use Buyers
+C1019,1,Personal-Use Buyers
+C1020,1,Personal-Use Buyers
+C1021,2,Corporate Investment Buyers
+C1022,1,Personal-Use Buyers
+C1023,1,Personal-Use Buyers
+C1024,2,Corporate Investment Buyers
+C1025,1,Personal-Use Buyers
+C1026,2,Corporate Investment Buyers
+C1027,2,Corporate Investment Buyers
+C1028,2,Corporate Investment Buyers
+C1029,2,Corporate Investment Buyers
+C1030,1,Personal-Use Buyers
+C1031,2,Corporate Investment Buyers
+C1032,2,Corporate Investment Buyers
+C1033,2,Corporate Investment Buyers
+C1034,1,Personal-Use Buyers
+C1035,2,Corporate Investment Buyers
+C1036,1,Personal-Use Buyers
+C1037,3,Mixed-Purpose Buyers
+C1038,2,Corporate Investment Buyers
+C1039,2,Corporate Investment Buyers
+C1040,2,Corporate Investment Buyers
+C1041,1,Personal-Use Buyers
+C1042,1,Personal-Use Buyers
+C1043,1,Personal-Use Buyers
+C1044,2,Corporate Investment Buyers
+C1045,1,Personal-Use Buyers
+C1046,1,Personal-Use Buyers
+C1047,2,Corporate Investment Buyers
+C1048,1,Personal-Use Buyers
+C1049,1,Personal-Use Buyers
+C1050,2,Corporate Investment Buyers
+C1051,1,Personal-Use Buyers
+C1052,1,Personal-Use Buyers
+C1053,2,Corporate Investment Buyers
+C1054,2,Corporate Investment Buyers
+C1055,2,Corporate Investment Buyers
+C1056,2,Corporate Investment Buyers
+C1057,2,Corporate Investment Buyers
+C1058,1,Personal-Use Buyers
+C1059,1,Personal-Use Buyers
+C1060,2,Corporate Investment Buyers
+C1061,1,Personal-Use Buyers
+C1062,2,Corporate Investment Buyers
+C1063,1,Personal-Use Buyers
+C1064,2,Corporate Investment Buyers
+C1065,2,Corporate Investment Buyers
+C1066,1,Personal-Use Buyers
+C1067,2,Corporate Investment Buyers
+C1068,1,Personal-Use Buyers
+C1069,2,Corporate Investment Buyers
+C1070,1,Personal-Use Buyers
+C1071,2,Corporate Investment Buyers
+C1072,1,Personal-Use Buyers
+C1073,2,Corporate Investment Buyers
+C1074,2,Corporate Investment Buyers
+C1075,1,Personal-Use Buyers
+C1076,1,Personal-Use Buyers
+C1077,2,Corporate Investment Buyers
+C1078,2,Corporate Investment Buyers
+C1079,2,Corporate Investment Buyers
+C1080,1,Personal-Use Buyers
+C1081,3,Mixed-Purpose Buyers
+C1082,1,Personal-Use Buyers
+C1083,1,Personal-Use Buyers
+C1084,1,Personal-Use Buyers
+C1085,1,Personal-Use Buyers
+C1086,2,Corporate Investment Buyers
+C1087,2,Corporate Investment Buyers
+C1088,2,Corporate Investment Buyers
+C1089,1,Personal-Use Buyers
+C1090,1,Personal-Use Buyers
+C1091,2,Corporate Investment Buyers
+C1092,2,Corporate Investment Buyers
+C1093,2,Corporate Investment Buyers
+C1094,1,Personal-Use Buyers
+C1095,1,Personal-Use Buyers
+C1096,1,Personal-Use Buyers
+C1097,1,Personal-Use Buyers
+C1098,2,Corporate Investment Buyers
+C1099,1,Personal-Use Buyers
+C1100,2,Corporate Investment Buyers
+C1101,2,Corporate Investment Buyers
+C1102,3,Mixed-Purpose Buyers
+C1103,2,Corporate Investment Buyers
+C1104,2,Corporate Investment Buyers
+C1105,2,Corporate Investment Buyers
+C1106,2,Corporate Investment Buyers
+C1107,2,Corporate Investment Buyers
+C1108,1,Personal-Use Buyers
+C1109,1,Personal-Use Buyers
+C1110,2,Corporate Investment Buyers
+C1111,3,Mixed-Purpose Buyers
+C1112,2,Corporate Investment Buyers
+C1113,1,Personal-Use Buyers
+C1114,1,Personal-Use Buyers
+C1115,2,Corporate Investment Buyers
+C1116,1,Personal-Use Buyers
+C1117,1,Personal-Use Buyers
+C1118,3,Mixed-Purpose Buyers
+C1119,2,Corporate Investment Buyers
+C1120,1,Personal-Use Buyers
+C1121,1,Personal-Use Buyers
+C1122,1,Personal-Use Buyers
+C1123,2,Corporate Investment Buyers
+C1124,1,Personal-Use Buyers
+C1125,2,Corporate Investment Buyers
+C1126,3,Mixed-Purpose Buyers
+C1127,1,Personal-Use Buyers
+C1128,2,Corporate Investment Buyers
+C1129,1,Personal-Use Buyers
+C1130,1,Personal-Use Buyers
+C1131,1,Personal-Use Buyers
+C1132,2,Corporate Investment Buyers
+C1133,2,Corporate Investment Buyers
+C1134,1,Personal-Use Buyers
+C1135,1,Personal-Use Buyers
+C1136,1,Personal-Use Buyers
+C1137,1,Personal-Use Buyers
+C1138,2,Corporate Investment Buyers
+C1139,1,Personal-Use Buyers
+C1140,2,Corporate Investment Buyers
+C1141,1,Personal-Use Buyers
+C1142,1,Personal-Use Buyers
+C1143,2,Corporate Investment Buyers
+C1144,1,Personal-Use Buyers
+C1145,2,Corporate Investment Buyers
+C1146,2,Corporate Investment Buyers
+C1147,1,Personal-Use Buyers
+C1148,2,Corporate Investment Buyers
+C1149,1,Personal-Use Buyers
+C1150,1,Personal-Use Buyers
+C1151,2,Corporate Investment Buyers
+C1152,2,Corporate Investment Buyers
+C1153,2,Corporate Investment Buyers
+C1154,2,Corporate Investment Buyers
+C1155,2,Corporate Investment Buyers
+C1156,1,Personal-Use Buyers
+C1157,2,Corporate Investment Buyers
+C1158,1,Personal-Use Buyers
+C1159,2,Corporate Investment Buyers
+C1160,2,Corporate Investment Buyers
+C1161,2,Corporate Investment Buyers
+C1162,2,Corporate Investment Buyers
+C1163,2,Corporate Investment Buyers
+C1164,1,Personal-Use Buyers
+C1165,1,Personal-Use Buyers
+C1166,2,Corporate Investment Buyers
+C1167,2,Corporate Investment Buyers
+C1168,1,Personal-Use Buyers
+C1169,2,Corporate Investment Buyers
+C1170,1,Personal-Use Buyers
+C1171,1,Personal-Use Buyers
+C1172,1,Personal-Use Buyers
+C1173,0,Investment-Oriented Buyers
+C1174,2,Corporate Investment Buyers
+C1175,1,Personal-Use Buyers
+C1176,1,Personal-Use Buyers
+C1177,2,Corporate Investment Buyers
+C1178,1,Personal-Use Buyers
+C1179,1,Personal-Use Buyers
+C1180,1,Personal-Use Buyers
+C1181,1,Personal-Use Buyers
+C1182,2,Corporate Investment Buyers
+C1183,2,Corporate Investment Buyers
+C1184,2,Corporate Investment Buyers
+C1185,2,Corporate Investment Buyers
+C1186,1,Personal-Use Buyers
+C1187,1,Personal-Use Buyers
+C1188,2,Corporate Investment Buyers
+C1189,2,Corporate Investment Buyers
+C1190,1,Personal-Use Buyers
+C1191,1,Personal-Use Buyers
+C1192,2,Corporate Investment Buyers
+C1193,1,Personal-Use Buyers
+C1194,1,Personal-Use Buyers
+C1195,1,Personal-Use Buyers
+C1196,2,Corporate Investment Buyers
+C1197,1,Personal-Use Buyers
+C1198,1,Personal-Use Buyers
+C1199,2,Corporate Investment Buyers
+C1200,2,Corporate Investment Buyers
+C1201,2,Corporate Investment Buyers
+C1202,3,Mixed-Purpose Buyers
+C1203,1,Personal-Use Buyers
+C1204,2,Corporate Investment Buyers
+C1205,2,Corporate Investment Buyers
+C1206,1,Personal-Use Buyers
+C1207,1,Personal-Use Buyers
+C1208,2,Corporate Investment Buyers
+C1209,1,Personal-Use Buyers
+C1210,2,Corporate Investment Buyers
+C1211,1,Personal-Use Buyers
+C1212,2,Corporate Investment Buyers
+C1213,0,Investment-Oriented Buyers
+C1214,1,Personal-Use Buyers
+C1215,2,Corporate Investment Buyers
+C1216,1,Personal-Use Buyers
+C1217,2,Corporate Investment Buyers
+C1218,1,Personal-Use Buyers
+C1219,1,Personal-Use Buyers
+C1220,1,Personal-Use Buyers
+C1221,1,Personal-Use Buyers
+C1222,2,Corporate Investment Buyers
+C1223,1,Personal-Use Buyers
+C1224,2,Corporate Investment Buyers
+C1225,2,Corporate Investment Buyers
+C1226,2,Corporate Investment Buyers
+C1227,2,Corporate Investment Buyers
+C1228,2,Corporate Investment Buyers
+C1229,1,Personal-Use Buyers
+C1230,2,Corporate Investment Buyers
+C1231,1,Personal-Use Buyers
+C1232,1,Personal-Use Buyers
+C1233,2,Corporate Investment Buyers
+C1234,1,Personal-Use Buyers
+C1235,2,Corporate Investment Buyers
+C1236,2,Corporate Investment Buyers
+C1237,1,Personal-Use Buyers
+C1238,2,Corporate Investment Buyers
+C1239,1,Personal-Use Buyers
+C1240,1,Personal-Use Buyers
+C1241,1,Personal-Use Buyers
+C1242,2,Corporate Investment Buyers
+C1243,2,Corporate Investment Buyers
+C1244,2,Corporate Investment Buyers
+C1245,2,Corporate Investment Buyers
+C1246,1,Personal-Use Buyers
+C1247,1,Personal-Use Buyers
+C1248,1,Personal-Use Buyers
+C1249,1,Personal-Use Buyers
+C1250,2,Corporate Investment Buyers
+C1251,2,Corporate Investment Buyers
+C1252,1,Personal-Use Buyers
+C1253,2,Corporate Investment Buyers
+C1254,2,Corporate Investment Buyers
+C1255,2,Corporate Investment Buyers
+C1256,3,Mixed-Purpose Buyers
+C1257,2,Corporate Investment Buyers
+C1258,1,Personal-Use Buyers
+C1259,2,Corporate Investment Buyers
+C1260,1,Personal-Use Buyers
+C1261,2,Corporate Investment Buyers
+C1262,1,Personal-Use Buyers
+C1263,2,Corporate Investment Buyers
+C1264,1,Personal-Use Buyers
+C1265,2,Corporate Investment Buyers
+C1266,2,Corporate Investment Buyers
+C1267,1,Personal-Use Buyers
+C1268,1,Personal-Use Buyers
+C1269,2,Corporate Investment Buyers
+C1270,1,Personal-Use Buyers
+C1271,2,Corporate Investment Buyers
+C1272,2,Corporate Investment Buyers
+C1273,2,Corporate Investment Buyers
+C1274,1,Personal-Use Buyers
+C1275,1,Personal-Use Buyers
+C1276,2,Corporate Investment Buyers
+C1277,1,Personal-Use Buyers
+C1278,2,Corporate Investment Buyers
+C1279,2,Corporate Investment Buyers
+C1280,2,Corporate Investment Buyers
+C1281,0,Investment-Oriented Buyers
+C1282,1,Personal-Use Buyers
+C1283,1,Personal-Use Buyers
+C1284,2,Corporate Investment Buyers
+C1285,2,Corporate Investment Buyers
+C1286,2,Corporate Investment Buyers
+C1287,1,Personal-Use Buyers
+C1288,2,Corporate Investment Buyers
+C1289,2,Corporate Investment Buyers
+C1290,1,Personal-Use Buyers
+C1291,2,Corporate Investment Buyers
+C1292,2,Corporate Investment Buyers
+C1293,1,Personal-Use Buyers
+C1294,2,Corporate Investment Buyers
+C1295,1,Personal-Use Buyers
+C1296,2,Corporate Investment Buyers
+C1297,3,Mixed-Purpose Buyers
+C1298,1,Personal-Use Buyers
+C1299,1,Personal-Use Buyers
+C1300,1,Personal-Use Buyers
+C1301,2,Corporate Investment Buyers
+C1302,2,Corporate Investment Buyers
+C1303,2,Corporate Investment Buyers
+C1304,1,Personal-Use Buyers
+C1305,1,Personal-Use Buyers
+C1306,1,Personal-Use Buyers
+C1307,1,Personal-Use Buyers
+C1308,2,Corporate Investment Buyers
+C1309,2,Corporate Investment Buyers
+C1310,1,Personal-Use Buyers
+C1311,2,Corporate Investment Buyers
+C1312,2,Corporate Investment Buyers
+C1313,1,Personal-Use Buyers
+C1314,1,Personal-Use Buyers
+C1315,2,Corporate Investment Buyers
+C1316,1,Personal-Use Buyers
+C1317,3,Mixed-Purpose Buyers
+C1318,2,Corporate Investment Buyers
+C1319,1,Personal-Use Buyers
+C1320,2,Corporate Investment Buyers
+C1321,2,Corporate Investment Buyers
+C1322,1,Personal-Use Buyers
+C1323,2,Corporate Investment Buyers
+C1324,2,Corporate Investment Buyers
+C1325,2,Corporate Investment Buyers
+C1326,2,Corporate Investment Buyers
+C1327,1,Personal-Use Buyers
+C1328,1,Personal-Use Buyers
+C1329,2,Corporate Investment Buyers
+C1330,1,Personal-Use Buyers
+C1331,1,Personal-Use Buyers
+C1332,2,Corporate Investment Buyers
+C1333,2,Corporate Investment Buyers
+C1334,1,Personal-Use Buyers
+C1335,1,Personal-Use Buyers
+C1336,1,Personal-Use Buyers
+C1337,1,Personal-Use Buyers
+C1338,1,Personal-Use Buyers
+C1339,3,Mixed-Purpose Buyers
+C1340,3,Mixed-Purpose Buyers
+C1341,1,Personal-Use Buyers
+C1342,1,Personal-Use Buyers
+C1343,1,Personal-Use Buyers
+C1344,2,Corporate Investment Buyers
+C1345,1,Personal-Use Buyers
+C1346,3,Mixed-Purpose Buyers
+C1347,2,Corporate Investment Buyers
+C1348,2,Corporate Investment Buyers
+C1349,1,Personal-Use Buyers
+C1350,1,Personal-Use Buyers
+C1351,1,Personal-Use Buyers
+C1352,2,Corporate Investment Buyers
+C1353,1,Personal-Use Buyers
+C1354,2,Corporate Investment Buyers
+C1355,1,Personal-Use Buyers
+C1356,2,Corporate Investment Buyers
+C1357,1,Personal-Use Buyers
+C1358,2,Corporate Investment Buyers
+C1359,2,Corporate Investment Buyers
+C1360,2,Corporate Investment Buyers
+C1361,1,Personal-Use Buyers
+C1362,1,Personal-Use Buyers
+C1363,2,Corporate Investment Buyers
+C1364,1,Personal-Use Buyers
+C1365,1,Personal-Use Buyers
+C1366,2,Corporate Investment Buyers
+C1367,1,Personal-Use Buyers
+C1368,2,Corporate Investment Buyers
+C1369,2,Corporate Investment Buyers
+C1370,2,Corporate Investment Buyers
+C1371,2,Corporate Investment Buyers
+C1372,1,Personal-Use Buyers
+C1373,1,Personal-Use Buyers
+C1374,3,Mixed-Purpose Buyers
+C1375,1,Personal-Use Buyers
+C1376,1,Personal-Use Buyers
+C1377,1,Personal-Use Buyers
+C1378,1,Personal-Use Buyers
+C1379,2,Corporate Investment Buyers
+C1380,2,Corporate Investment Buyers
+C1381,2,Corporate Investment Buyers
+C1382,2,Corporate Investment Buyers
+C1383,2,Corporate Investment Buyers
+C1384,1,Personal-Use Buyers
+C1385,2,Corporate Investment Buyers
+C1386,2,Corporate Investment Buyers
+C1387,2,Corporate Investment Buyers
+C1388,1,Personal-Use Buyers
+C1389,2,Corporate Investment Buyers
+C1390,1,Personal-Use Buyers
+C1391,1,Personal-Use Buyers
+C1392,2,Corporate Investment Buyers
+C1393,1,Personal-Use Buyers
+C1394,1,Personal-Use Buyers
+C1395,1,Personal-Use Buyers
+C1396,0,Investment-Oriented Buyers
+C1397,1,Personal-Use Buyers
+C1398,2,Corporate Investment Buyers
+C1399,1,Personal-Use Buyers
+C1400,1,Personal-Use Buyers
+C1401,1,Personal-Use Buyers
+C1402,1,Personal-Use Buyers
+C1403,1,Personal-Use Buyers
+C1404,1,Personal-Use Buyers
+C1405,2,Corporate Investment Buyers
+C1406,1,Personal-Use Buyers
+C1407,1,Personal-Use Buyers
+C1408,3,Mixed-Purpose Buyers
+C1409,1,Personal-Use Buyers
+C1410,1,Personal-Use Buyers
+C1411,2,Corporate Investment Buyers
+C1412,3,Mixed-Purpose Buyers
+C1413,1,Personal-Use Buyers
+C1414,1,Personal-Use Buyers
+C1415,2,Corporate Investment Buyers
+C1416,2,Corporate Investment Buyers
+C1417,2,Corporate Investment Buyers
+C1418,2,Corporate Investment Buyers
+C1419,2,Corporate Investment Buyers
+C1420,3,Mixed-Purpose Buyers
+C1421,2,Corporate Investment Buyers
+C1422,2,Corporate Investment Buyers
+C1423,2,Corporate Investment Buyers
+C1424,1,Personal-Use Buyers
+C1425,2,Corporate Investment Buyers
+C1426,1,Personal-Use Buyers
+C1427,1,Personal-Use Buyers
+C1428,1,Personal-Use Buyers
+C1429,2,Corporate Investment Buyers
+C1430,2,Corporate Investment Buyers
+C1431,1,Personal-Use Buyers
+C1432,2,Corporate Investment Buyers
+C1433,2,Corporate Investment Buyers
+C1434,3,Mixed-Purpose Buyers
+C1435,2,Corporate Investment Buyers
+C1436,2,Corporate Investment Buyers
+C1437,2,Corporate Investment Buyers
+C1438,2,Corporate Investment Buyers
+C1439,1,Personal-Use Buyers
+C1440,1,Personal-Use Buyers
+C1441,1,Personal-Use Buyers
+C1442,2,Corporate Investment Buyers
+C1443,1,Personal-Use Buyers
+C1444,2,Corporate Investment Buyers
+C1445,2,Corporate Investment Buyers
+C1446,1,Personal-Use Buyers
+C1447,1,Personal-Use Buyers
+C1448,2,Corporate Investment Buyers
+C1449,1,Personal-Use Buyers
+C1450,1,Personal-Use Buyers
+C1451,1,Personal-Use Buyers
+C1452,1,Personal-Use Buyers
+C1453,2,Corporate Investment Buyers
+C1454,1,Personal-Use Buyers
+C1455,1,Personal-Use Buyers
+C1456,3,Mixed-Purpose Buyers
+C1457,1,Personal-Use Buyers
+C1458,2,Corporate Investment Buyers
+C1459,2,Corporate Investment Buyers
+C1460,1,Personal-Use Buyers
+C1461,1,Personal-Use Buyers
+C1462,1,Personal-Use Buyers
+C1463,2,Corporate Investment Buyers
+C1464,2,Corporate Investment Buyers
+C1465,2,Corporate Investment Buyers
+C1466,1,Personal-Use Buyers
+C1467,1,Personal-Use Buyers
+C1468,0,Investment-Oriented Buyers
+C1469,2,Corporate Investment Buyers
+C1470,2,Corporate Investment Buyers
+C1471,1,Personal-Use Buyers
+C1472,2,Corporate Investment Buyers
+C1473,1,Personal-Use Buyers
+C1474,2,Corporate Investment Buyers
+C1475,2,Corporate Investment Buyers
+C1476,2,Corporate Investment Buyers
+C1477,3,Mixed-Purpose Buyers
+C1478,1,Personal-Use Buyers
+C1479,2,Corporate Investment Buyers
+C1480,1,Personal-Use Buyers
+C1481,3,Mixed-Purpose Buyers
+C1482,1,Personal-Use Buyers
+C1483,2,Corporate Investment Buyers
+C1484,1,Personal-Use Buyers
+C1485,1,Personal-Use Buyers
+C1486,1,Personal-Use Buyers
+C1487,1,Personal-Use Buyers
+C1488,2,Corporate Investment Buyers
+C1489,1,Personal-Use Buyers
+C1490,2,Corporate Investment Buyers
+C1491,1,Personal-Use Buyers
+C1492,1,Personal-Use Buyers
+C1493,2,Corporate Investment Buyers
+C1494,2,Corporate Investment Buyers
+C1495,2,Corporate Investment Buyers
+C1496,2,Corporate Investment Buyers
+C1497,2,Corporate Investment Buyers
+C1498,1,Personal-Use Buyers
+C1499,1,Personal-Use Buyers
+C1500,1,Personal-Use Buyers
+C1501,1,Personal-Use Buyers
+C1502,1,Personal-Use Buyers
+C1503,3,Mixed-Purpose Buyers
+C1504,2,Corporate Investment Buyers
+C1505,2,Corporate Investment Buyers
+C1506,2,Corporate Investment Buyers
+C1507,1,Personal-Use Buyers
+C1508,2,Corporate Investment Buyers
+C1509,1,Personal-Use Buyers
+C1510,3,Mixed-Purpose Buyers
+C1511,1,Personal-Use Buyers
+C1512,1,Personal-Use Buyers
+C1513,1,Personal-Use Buyers
+C1514,1,Personal-Use Buyers
+C1515,1,Personal-Use Buyers
+C1516,1,Personal-Use Buyers
+C1517,2,Corporate Investment Buyers
+C1518,1,Personal-Use Buyers
+C1519,2,Corporate Investment Buyers
+C1520,2,Corporate Investment Buyers
+C1521,2,Corporate Investment Buyers
+C1522,1,Personal-Use Buyers
+C1523,3,Mixed-Purpose Buyers
+C1524,2,Corporate Investment Buyers
+C1525,2,Corporate Investment Buyers
+C1526,1,Personal-Use Buyers
+C1527,1,Personal-Use Buyers
+C1528,1,Personal-Use Buyers
+C1529,3,Mixed-Purpose Buyers
+C1530,1,Personal-Use Buyers
+C1531,2,Corporate Investment Buyers
+C1532,1,Personal-Use Buyers
+C1533,2,Corporate Investment Buyers
+C1534,1,Personal-Use Buyers
+C1535,2,Corporate Investment Buyers
+C1536,1,Personal-Use Buyers
+C1537,1,Personal-Use Buyers
+C1538,1,Personal-Use Buyers
+C1539,2,Corporate Investment Buyers
+C1540,2,Corporate Investment Buyers
+C1541,2,Corporate Investment Buyers
+C1542,2,Corporate Investment Buyers
+C1543,1,Personal-Use Buyers
+C1544,1,Personal-Use Buyers
+C1545,1,Personal-Use Buyers
+C1546,1,Personal-Use Buyers
+C1547,1,Personal-Use Buyers
+C1548,3,Mixed-Purpose Buyers
+C1549,2,Corporate Investment Buyers
+C1550,2,Corporate Investment Buyers
+C1551,2,Corporate Investment Buyers
+C1552,2,Corporate Investment Buyers
+C1553,3,Mixed-Purpose Buyers
+C1554,2,Corporate Investment Buyers
+C1555,1,Personal-Use Buyers
+C1556,1,Personal-Use Buyers
+C1557,1,Personal-Use Buyers
+C1558,2,Corporate Investment Buyers
+C1559,1,Personal-Use Buyers
+C1560,1,Personal-Use Buyers
+C1561,2,Corporate Investment Buyers
+C1562,1,Personal-Use Buyers
+C1563,1,Personal-Use Buyers
+C1564,2,Corporate Investment Buyers
+C1565,2,Corporate Investment Buyers
+C1566,2,Corporate Investment Buyers
+C1567,2,Corporate Investment Buyers
+C1568,1,Personal-Use Buyers
+C1569,1,Personal-Use Buyers
+C1570,1,Personal-Use Buyers
+C1571,2,Corporate Investment Buyers
+C1572,2,Corporate Investment Buyers
+C1573,1,Personal-Use Buyers
+C1574,2,Corporate Investment Buyers
+C1575,2,Corporate Investment Buyers
+C1576,1,Personal-Use Buyers
+C1577,2,Corporate Investment Buyers
+C1578,2,Corporate Investment Buyers
+C1579,2,Corporate Investment Buyers
+C1580,2,Corporate Investment Buyers
+C1581,2,Corporate Investment Buyers
+C1582,2,Corporate Investment Buyers
+C1583,2,Corporate Investment Buyers
+C1584,3,Mixed-Purpose Buyers
+C1585,2,Corporate Investment Buyers
+C1586,1,Personal-Use Buyers
+C1587,2,Corporate Investment Buyers
+C1588,1,Personal-Use Buyers
+C1589,1,Personal-Use Buyers
+C1590,3,Mixed-Purpose Buyers
+C1591,1,Personal-Use Buyers
+C1592,1,Personal-Use Buyers
+C1593,2,Corporate Investment Buyers
+C1594,1,Personal-Use Buyers
+C1595,2,Corporate Investment Buyers
+C1596,2,Corporate Investment Buyers
+C1597,1,Personal-Use Buyers
+C1598,1,Personal-Use Buyers
+C1599,1,Personal-Use Buyers
+C1600,1,Personal-Use Buyers
+C1601,1,Personal-Use Buyers
+C1602,2,Corporate Investment Buyers
+C1603,1,Personal-Use Buyers
+C1604,2,Corporate Investment Buyers
+C1605,2,Corporate Investment Buyers
+C1606,2,Corporate Investment Buyers
+C1607,1,Personal-Use Buyers
+C1608,1,Personal-Use Buyers
+C1609,2,Corporate Investment Buyers
+C1610,2,Corporate Investment Buyers
+C1611,1,Personal-Use Buyers
+C1612,2,Corporate Investment Buyers
+C1613,2,Corporate Investment Buyers
+C1614,1,Personal-Use Buyers
+C1615,2,Corporate Investment Buyers
+C1616,2,Corporate Investment Buyers
+C1617,1,Personal-Use Buyers
+C1618,1,Personal-Use Buyers
+C1619,2,Corporate Investment Buyers
+C1620,2,Corporate Investment Buyers
+C1621,2,Corporate Investment Buyers
+C1622,1,Personal-Use Buyers
+C1623,1,Personal-Use Buyers
+C1624,1,Personal-Use Buyers
+C1625,2,Corporate Investment Buyers
+C1626,1,Personal-Use Buyers
+C1627,2,Corporate Investment Buyers
+C1628,3,Mixed-Purpose Buyers
+C1629,1,Personal-Use Buyers
+C1630,3,Mixed-Purpose Buyers
+C1631,1,Personal-Use Buyers
+C1632,1,Personal-Use Buyers
+C1633,1,Personal-Use Buyers
+C1634,1,Personal-Use Buyers
+C1635,2,Corporate Investment Buyers
+C1636,3,Mixed-Purpose Buyers
+C1637,2,Corporate Investment Buyers
+C1638,1,Personal-Use Buyers
+C1639,2,Corporate Investment Buyers
+C1640,1,Personal-Use Buyers
+C1641,2,Corporate Investment Buyers
+C1642,1,Personal-Use Buyers
+C1643,2,Corporate Investment Buyers
+C1644,1,Personal-Use Buyers
+C1645,1,Personal-Use Buyers
+C1646,2,Corporate Investment Buyers
+C1647,2,Corporate Investment Buyers
+C1648,1,Personal-Use Buyers
+C1649,1,Personal-Use Buyers
+C1650,2,Corporate Investment Buyers
+C1651,2,Corporate Investment Buyers
+C1652,2,Corporate Investment Buyers
+C1653,1,Personal-Use Buyers
+C1654,1,Personal-Use Buyers
+C1655,1,Personal-Use Buyers
+C1656,2,Corporate Investment Buyers
+C1657,2,Corporate Investment Buyers
+C1658,2,Corporate Investment Buyers
+C1659,2,Corporate Investment Buyers
+C1660,2,Corporate Investment Buyers
+C1661,2,Corporate Investment Buyers
+C1662,2,Corporate Investment Buyers
+C1663,2,Corporate Investment Buyers
+C1664,1,Personal-Use Buyers
+C1665,2,Corporate Investment Buyers
+C1666,1,Personal-Use Buyers
+C1667,1,Personal-Use Buyers
+C1668,2,Corporate Investment Buyers
+C1669,2,Corporate Investment Buyers
+C1670,1,Personal-Use Buyers
+C1671,1,Personal-Use Buyers
+C1672,1,Personal-Use Buyers
+C1673,1,Personal-Use Buyers
+C1674,1,Personal-Use Buyers
+C1675,1,Personal-Use Buyers
+C1676,1,Personal-Use Buyers
+C1677,2,Corporate Investment Buyers
+C1678,2,Corporate Investment Buyers
+C1679,1,Personal-Use Buyers
+C1680,1,Personal-Use Buyers
+C1681,2,Corporate Investment Buyers
+C1682,1,Personal-Use Buyers
+C1683,1,Personal-Use Buyers
+C1684,1,Personal-Use Buyers
+C1685,1,Personal-Use Buyers
+C1686,2,Corporate Investment Buyers
+C1687,2,Corporate Investment Buyers
+C1688,1,Personal-Use Buyers
+C1689,1,Personal-Use Buyers
+C1690,2,Corporate Investment Buyers
+C1691,2,Corporate Investment Buyers
+C1692,2,Corporate Investment Buyers
+C1693,2,Corporate Investment Buyers
+C1694,1,Personal-Use Buyers
+C1695,1,Personal-Use Buyers
+C1696,1,Personal-Use Buyers
+C1697,1,Personal-Use Buyers
+C1698,2,Corporate Investment Buyers
+C1699,2,Corporate Investment Buyers
+C1700,2,Corporate Investment Buyers
+C1701,1,Personal-Use Buyers
+C1702,2,Corporate Investment Buyers
+C1703,2,Corporate Investment Buyers
+C1704,1,Personal-Use Buyers
+C1705,2,Corporate Investment Buyers
+C1706,2,Corporate Investment Buyers
+C1707,2,Corporate Investment Buyers
+C1708,1,Personal-Use Buyers
+C1709,1,Personal-Use Buyers
+C1710,2,Corporate Investment Buyers
+C1711,1,Personal-Use Buyers
+C1712,2,Corporate Investment Buyers
+C1713,1,Personal-Use Buyers
+C1714,2,Corporate Investment Buyers
+C1715,1,Personal-Use Buyers
+C1716,1,Personal-Use Buyers
+C1717,1,Personal-Use Buyers
+C1718,1,Personal-Use Buyers
+C1719,3,Mixed-Purpose Buyers
+C1720,1,Personal-Use Buyers
+C1721,2,Corporate Investment Buyers
+C1722,1,Personal-Use Buyers
+C1723,1,Personal-Use Buyers
+C1724,2,Corporate Investment Buyers
+C1725,1,Personal-Use Buyers
+C1726,1,Personal-Use Buyers
+C1727,1,Personal-Use Buyers
+C1728,1,Personal-Use Buyers
+C1729,2,Corporate Investment Buyers
+C1730,2,Corporate Investment Buyers
+C1731,2,Corporate Investment Buyers
+C1732,1,Personal-Use Buyers
+C1733,1,Personal-Use Buyers
+C1734,2,Corporate Investment Buyers
+C1735,1,Personal-Use Buyers
+C1736,1,Personal-Use Buyers
+C1737,1,Personal-Use Buyers
+C1738,1,Personal-Use Buyers
+C1739,2,Corporate Investment Buyers
+C1740,1,Personal-Use Buyers
+C1741,2,Corporate Investment Buyers
+C1742,3,Mixed-Purpose Buyers
+C1743,1,Personal-Use Buyers
+C1744,2,Corporate Investment Buyers
+C1745,1,Personal-Use Buyers
+C1746,1,Personal-Use Buyers
+C1747,2,Corporate Investment Buyers
+C1748,2,Corporate Investment Buyers
+C1749,2,Corporate Investment Buyers
+C1750,3,Mixed-Purpose Buyers
+C1751,1,Personal-Use Buyers
+C1752,2,Corporate Investment Buyers
+C1753,2,Corporate Investment Buyers
+C1754,2,Corporate Investment Buyers
+C1755,2,Corporate Investment Buyers
+C1756,2,Corporate Investment Buyers
+C1757,2,Corporate Investment Buyers
+C1758,2,Corporate Investment Buyers
+C1759,2,Corporate Investment Buyers
+C1760,1,Personal-Use Buyers
+C1761,2,Corporate Investment Buyers
+C1762,2,Corporate Investment Buyers
+C1763,1,Personal-Use Buyers
+C1764,1,Personal-Use Buyers
+C1765,1,Personal-Use Buyers
+C1766,1,Personal-Use Buyers
+C1767,2,Corporate Investment Buyers
+C1768,1,Personal-Use Buyers
+C1769,3,Mixed-Purpose Buyers
+C1770,1,Personal-Use Buyers
+C1771,3,Mixed-Purpose Buyers
+C1772,3,Mixed-Purpose Buyers
+C1773,2,Corporate Investment Buyers
+C1774,2,Corporate Investment Buyers
+C1775,1,Personal-Use Buyers
+C1776,1,Personal-Use Buyers
+C1777,2,Corporate Investment Buyers
+C1778,2,Corporate Investment Buyers
+C1779,1,Personal-Use Buyers
+C1780,2,Corporate Investment Buyers
+C1781,1,Personal-Use Buyers
+C1782,1,Personal-Use Buyers
+C1783,2,Corporate Investment Buyers
+C1784,2,Corporate Investment Buyers
+C1785,1,Personal-Use Buyers
+C1786,2,Corporate Investment Buyers
+C1787,2,Corporate Investment Buyers
+C1788,2,Corporate Investment Buyers
+C1789,2,Corporate Investment Buyers
+C1790,2,Corporate Investment Buyers
+C1791,2,Corporate Investment Buyers
+C1792,2,Corporate Investment Buyers
+C1793,2,Corporate Investment Buyers
+C1794,2,Corporate Investment Buyers
+C1795,2,Corporate Investment Buyers
+C1796,1,Personal-Use Buyers
+C1797,1,Personal-Use Buyers
+C1798,2,Corporate Investment Buyers
+C1799,1,Personal-Use Buyers
+C1800,2,Corporate Investment Buyers
+C1801,2,Corporate Investment Buyers
+C1802,2,Corporate Investment Buyers
+C1803,1,Personal-Use Buyers
+C1804,2,Corporate Investment Buyers
+C1805,2,Corporate Investment Buyers
+C1806,1,Personal-Use Buyers
+C1807,1,Personal-Use Buyers
+C1808,1,Personal-Use Buyers
+C1809,1,Personal-Use Buyers
+C1810,1,Personal-Use Buyers
+C1811,1,Personal-Use Buyers
+C1812,2,Corporate Investment Buyers
+C1813,2,Corporate Investment Buyers
+C1814,2,Corporate Investment Buyers
+C1815,2,Corporate Investment Buyers
+C1816,2,Corporate Investment Buyers
+C1817,1,Personal-Use Buyers
+C1818,1,Personal-Use Buyers
+C1819,2,Corporate Investment Buyers
+C1820,2,Corporate Investment Buyers
+C1821,2,Corporate Investment Buyers
+C1822,2,Corporate Investment Buyers
+C1823,2,Corporate Investment Buyers
+C1824,2,Corporate Investment Buyers
+C1825,2,Corporate Investment Buyers
+C1826,2,Corporate Investment Buyers
+C1827,2,Corporate Investment Buyers
+C1828,2,Corporate Investment Buyers
+C1829,1,Personal-Use Buyers
+C1830,1,Personal-Use Buyers
+C1831,1,Personal-Use Buyers
+C1832,2,Corporate Investment Buyers
+C1833,1,Personal-Use Buyers
+C1834,2,Corporate Investment Buyers
+C1835,1,Personal-Use Buyers
+C1836,1,Personal-Use Buyers
+C1837,1,Personal-Use Buyers
+C1838,1,Personal-Use Buyers
+C1839,2,Corporate Investment Buyers
+C1840,2,Corporate Investment Buyers
+C1841,2,Corporate Investment Buyers
+C1842,3,Mixed-Purpose Buyers
+C1843,2,Corporate Investment Buyers
+C1844,1,Personal-Use Buyers
+C1845,2,Corporate Investment Buyers
+C1846,1,Personal-Use Buyers
+C1847,2,Corporate Investment Buyers
+C1848,1,Personal-Use Buyers
+C1849,2,Corporate Investment Buyers
+C1850,2,Corporate Investment Buyers
+C1851,1,Personal-Use Buyers
+C1852,1,Personal-Use Buyers
+C1853,1,Personal-Use Buyers
+C1854,3,Mixed-Purpose Buyers
+C1855,1,Personal-Use Buyers
+C1856,3,Mixed-Purpose Buyers
+C1857,2,Corporate Investment Buyers
+C1858,1,Personal-Use Buyers
+C1859,2,Corporate Investment Buyers
+C1860,3,Mixed-Purpose Buyers
+C1861,2,Corporate Investment Buyers
+C1862,2,Corporate Investment Buyers
+C1863,1,Personal-Use Buyers
+C1864,1,Personal-Use Buyers
+C1865,2,Corporate Investment Buyers
+C1866,1,Personal-Use Buyers
+C1867,2,Corporate Investment Buyers
+C1868,1,Personal-Use Buyers
+C1869,1,Personal-Use Buyers
+C1870,2,Corporate Investment Buyers
+C1871,1,Personal-Use Buyers
+C1872,2,Corporate Investment Buyers
+C1873,1,Personal-Use Buyers
+C1874,2,Corporate Investment Buyers
+C1875,1,Personal-Use Buyers
+C1876,3,Mixed-Purpose Buyers
+C1877,2,Corporate Investment Buyers
+C1878,2,Corporate Investment Buyers
+C1879,1,Personal-Use Buyers
+C1880,1,Personal-Use Buyers
+C1881,1,Personal-Use Buyers
+C1882,1,Personal-Use Buyers
+C1883,2,Corporate Investment Buyers
+C1884,2,Corporate Investment Buyers
+C1885,2,Corporate Investment Buyers
+C1886,1,Personal-Use Buyers
+C1887,1,Personal-Use Buyers
+C1888,2,Corporate Investment Buyers
+C1889,2,Corporate Investment Buyers
+C1890,2,Corporate Investment Buyers
+C1891,2,Corporate Investment Buyers
+C1892,1,Personal-Use Buyers
+C1893,1,Personal-Use Buyers
+C1894,1,Personal-Use Buyers
+C1895,3,Mixed-Purpose Buyers
+C1896,2,Corporate Investment Buyers
+C1897,1,Personal-Use Buyers
+C1898,2,Corporate Investment Buyers
+C1899,2,Corporate Investment Buyers
+C1900,1,Personal-Use Buyers
+C1901,2,Corporate Investment Buyers
+C1902,3,Mixed-Purpose Buyers
+C1903,1,Personal-Use Buyers
+C1904,2,Corporate Investment Buyers
+C1905,2,Corporate Investment Buyers
+C1906,1,Personal-Use Buyers
+C1907,2,Corporate Investment Buyers
+C1908,1,Personal-Use Buyers
+C1909,1,Personal-Use Buyers
+C1910,3,Mixed-Purpose Buyers
+C1911,2,Corporate Investment Buyers
+C1912,1,Personal-Use Buyers
+C1913,2,Corporate Investment Buyers
+C1914,1,Personal-Use Buyers
+C1915,1,Personal-Use Buyers
+C1916,2,Corporate Investment Buyers
+C1917,1,Personal-Use Buyers
+C1918,1,Personal-Use Buyers
+C1919,3,Mixed-Purpose Buyers
+C1920,2,Corporate Investment Buyers
+C1921,1,Personal-Use Buyers
+C1922,1,Personal-Use Buyers
+C1923,1,Personal-Use Buyers
+C1924,2,Corporate Investment Buyers
+C1925,2,Corporate Investment Buyers
+C1926,2,Corporate Investment Buyers
+C1927,1,Personal-Use Buyers
+C1928,2,Corporate Investment Buyers
+C1929,1,Personal-Use Buyers
+C1930,1,Personal-Use Buyers
+C1931,1,Personal-Use Buyers
+C1932,1,Personal-Use Buyers
+C1933,3,Mixed-Purpose Buyers
+C1934,2,Corporate Investment Buyers
+C1935,1,Personal-Use Buyers
+C1936,2,Corporate Investment Buyers
+C1937,1,Personal-Use Buyers
+C1938,2,Corporate Investment Buyers
+C1939,1,Personal-Use Buyers
+C1940,0,Investment-Oriented Buyers
+C1941,1,Personal-Use Buyers
+C1942,3,Mixed-Purpose Buyers
+C1943,2,Corporate Investment Buyers
+C1944,2,Corporate Investment Buyers
+C1945,2,Corporate Investment Buyers
+C1946,2,Corporate Investment Buyers
+C1947,2,Corporate Investment Buyers
+C1948,1,Personal-Use Buyers
+C1949,1,Personal-Use Buyers
+C1950,2,Corporate Investment Buyers
+C1951,2,Corporate Investment Buyers
+C1952,3,Mixed-Purpose Buyers
+C1953,2,Corporate Investment Buyers
+C1954,1,Personal-Use Buyers
+C1955,2,Corporate Investment Buyers
+C1956,1,Personal-Use Buyers
+C1957,2,Corporate Investment Buyers
+C1958,1,Personal-Use Buyers
+C1959,1,Personal-Use Buyers
+C1960,1,Personal-Use Buyers
+C1961,2,Corporate Investment Buyers
+C1962,1,Personal-Use Buyers
+C1963,3,Mixed-Purpose Buyers
+C1964,2,Corporate Investment Buyers
+C1965,2,Corporate Investment Buyers
+C1966,2,Corporate Investment Buyers
+C1967,2,Corporate Investment Buyers
+C1968,1,Personal-Use Buyers
+C1969,2,Corporate Investment Buyers
+C1970,2,Corporate Investment Buyers
+C1971,1,Personal-Use Buyers
+C1972,1,Personal-Use Buyers
+C1973,3,Mixed-Purpose Buyers
+C1974,2,Corporate Investment Buyers
+C1975,1,Personal-Use Buyers
+C1976,2,Corporate Investment Buyers
+C1977,2,Corporate Investment Buyers
+C1978,3,Mixed-Purpose Buyers
+C1979,2,Corporate Investment Buyers
+C1980,1,Personal-Use Buyers
+C1981,1,Personal-Use Buyers
+C1982,2,Corporate Investment Buyers
+C1983,2,Corporate Investment Buyers
+C1984,2,Corporate Investment Buyers
+C1985,2,Corporate Investment Buyers
+C1986,2,Corporate Investment Buyers
+C1987,2,Corporate Investment Buyers
+C1988,2,Corporate Investment Buyers
+C1989,2,Corporate Investment Buyers
+C1990,2,Corporate Investment Buyers
+C1991,1,Personal-Use Buyers
+C1992,1,Personal-Use Buyers
+C1993,2,Corporate Investment Buyers
+C1994,1,Personal-Use Buyers
+C1995,1,Personal-Use Buyers
+C1996,1,Personal-Use Buyers
+C1997,2,Corporate Investment Buyers
+C1998,2,Corporate Investment Buyers
+C1999,2,Corporate Investment Buyers
+C2000,1,Personal-Use Buyers

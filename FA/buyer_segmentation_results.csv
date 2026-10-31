@@ -1,0 +1,2001 @@
+client_id,buyer_segment,age,gender,country,region,acquisition_purpose,satisfaction_score,loan_applied,referral_channel
+C0001,Personal-Use Buyers,58,F,USA,California,Home,4,Yes,Website
+C0002,Corporate Investment Buyers,64,M,USA,California,Home,1,No,Website
+C0003,Corporate Investment Buyers,67,M,USA,California,Home,4,Yes,Agency
+C0004,Corporate Investment Buyers,67,M,USA,California,Home,5,No,Website
+C0005,Mixed-Purpose Buyers,50,M,USA,California,Investment,5,No,Website
+C0006,Corporate Investment Buyers,69,M,USA,California,Home,3,Yes,Website
+C0007,Corporate Investment Buyers,79,M,Canada,Quebec,Investment,5,No,Website
+C0008,Personal-Use Buyers,57,F,USA,California,Home,5,No,Website
+C0009,Corporate Investment Buyers,51,M,USA,California,Investment,5,No,Agency
+C0010,Corporate Investment Buyers,60,M,USA,Oregon,Investment,3,No,Agency
+C0011,Personal-Use Buyers,70,F,USA,California,Home,2,Yes,Website
+C0012,Mixed-Purpose Buyers,51,M,USA,California,Investment,5,No,Website
+C0013,Corporate Investment Buyers,64,M,USA,California,Home,1,Yes,Website
+C0014,Mixed-Purpose Buyers,46,M,USA,California,Home,3,Yes,Website
+C0015,Personal-Use Buyers,85,F,USA,California,Home,5,No,Client
+C0016,Personal-Use Buyers,87,F,USA,California,Investment,5,No,Website
+C0017,Corporate Investment Buyers,49,M,USA,Arizona,Home,3,No,Client
+C0018,Corporate Investment Buyers,59,M,USA,California,Home,2,Yes,Agency
+C0019,Corporate Investment Buyers,69,M,USA,California,Home,5,Yes,Client
+C0020,Personal-Use Buyers,59,F,USA,California,Home,5,No,Website
+C0021,Corporate Investment Buyers,88,M,USA,Oregon,Investment,3,No,Website
+C0022,Corporate Investment Buyers,60,M,Germany,Berlin,Investment,5,No,Agency
+C0023,Corporate Investment Buyers,68,M,USA,California,Home,3,Yes,Website
+C0024,Corporate Investment Buyers,63,M,USA,California,Investment,4,No,Website
+C0025,Corporate Investment Buyers,89,M,USA,Nevada,Home,2,Yes,Website
+C0026,Corporate Investment Buyers,64,M,USA,California,Investment,5,No,Website
+C0027,Corporate Investment Buyers,58,M,USA,California,Home,5,Yes,Website
+C0028,Personal-Use Buyers,68,F,USA,California,Home,3,No,Client
+C0029,Personal-Use Buyers,50,F,USA,Colorado,Home,4,Yes,Agency
+C0030,Personal-Use Buyers,74,F,USA,Nevada,Home,3,No,Website
+C0031,Corporate Investment Buyers,49,M,USA,Nevada,Home,4,Yes,Website
+C0032,Corporate Investment Buyers,60,M,USA,California,Home,4,No,Website
+C0033,Personal-Use Buyers,58,F,USA,California,Home,3,Yes,Website
+C0034,Personal-Use Buyers,57,F,Belgium,Brussels,Home,2,No,Agency
+C0035,Corporate Investment Buyers,61,M,Mexico,Mexico City,Home,3,No,Agency
+C0036,Corporate Investment Buyers,53,M,USA,California,Home,4,No,Website
+C0037,Personal-Use Buyers,64,F,USA,California,Home,5,Yes,Website
+C0038,Personal-Use Buyers,52,F,USA,California,Investment,4,No,Client
+C0039,Personal-Use Buyers,59,F,Russia,Krasnodar Krai,Home,1,No,Agency
+C0040,Corporate Investment Buyers,51,M,USA,Nevada,Home,5,No,Website
+C0041,Corporate Investment Buyers,59,M,USA,Arizona,Home,1,Yes,Website
+C0042,Personal-Use Buyers,51,F,USA,Utah,Home,1,Yes,Website
+C0043,Corporate Investment Buyers,61,M,USA,Nevada,Investment,3,Yes,Website
+C0044,Personal-Use Buyers,95,F,USA,Arizona,Home,3,No,Website
+C0045,Corporate Investment Buyers,58,M,USA,Colorado,Investment,2,No,Agency
+C0046,Personal-Use Buyers,62,F,USA,California,Home,5,No,Client
+C0047,Corporate Investment Buyers,56,M,USA,Colorado,Home,2,No,Agency
+C0048,Corporate Investment Buyers,69,M,USA,California,Home,3,Yes,Agency
+C0049,Personal-Use Buyers,55,F,USA,California,Home,1,No,Website
+C0050,Corporate Investment Buyers,86,M,USA,California,Home,5,No,Website
+C0051,Personal-Use Buyers,85,F,USA,Colorado,Home,3,No,Agency
+C0052,Personal-Use Buyers,59,F,USA,Oregon,Investment,2,No,Client
+C0053,Corporate Investment Buyers,72,M,USA,Arizona,Home,4,No,Agency
+C0054,Mixed-Purpose Buyers,59,M,USA,Nevada,Investment,5,No,Website
+C0055,Personal-Use Buyers,53,F,USA,California,Home,5,Yes,Agency
+C0056,Corporate Investment Buyers,62,M,USA,Oregon,Investment,5,No,Agency
+C0057,Corporate Investment Buyers,93,M,USA,California,Home,4,Yes,Agency
+C0058,Mixed-Purpose Buyers,57,F,USA,California,Investment,1,Yes,Website
+C0059,Corporate Investment Buyers,66,M,USA,California,Home,2,No,Website
+C0060,Personal-Use Buyers,54,F,USA,California,Home,5,No,Website
+C0061,Corporate Investment Buyers,59,M,USA,Utah,Home,5,No,Agency
+C0062,Corporate Investment Buyers,52,M,USA,California,Home,5,Yes,Client
+C0063,Personal-Use Buyers,84,F,USA,Arizona,Home,4,No,Website
+C0064,Corporate Investment Buyers,52,M,UK,Northern Ireland,Investment,4,No,Agency
+C0065,Corporate Investment Buyers,54,M,USA,California,Home,1,No,Agency
+C0066,Personal-Use Buyers,52,F,USA,California,Investment,3,No,Client
+C0067,Corporate Investment Buyers,49,M,USA,California,Home,2,No,Website
+C0068,Personal-Use Buyers,60,F,USA,Colorado,Home,5,Yes,Agency
+C0069,Corporate Investment Buyers,56,M,USA,California,Investment,4,No,Website
+C0070,Personal-Use Buyers,79,F,USA,Arizona,Home,4,Yes,Website
+C0071,Corporate Investment Buyers,41,M,USA,California,Home,1,Yes,Client
+C0072,Corporate Investment Buyers,73,M,USA,Nevada,Investment,2,No,Website
+C0073,Personal-Use Buyers,61,F,Denmark,Capital Region,Investment,1,No,Agency
+C0074,Personal-Use Buyers,67,F,USA,Oregon,Investment,5,No,Client
+C0075,Personal-Use Buyers,56,F,USA,California,Home,3,No,Website
+C0076,Corporate Investment Buyers,70,M,USA,California,Home,5,No,Agency
+C0077,Corporate Investment Buyers,46,M,USA,California,Home,5,No,Website
+C0078,Personal-Use Buyers,78,F,USA,California,Home,5,No,Website
+C0079,Corporate Investment Buyers,72,M,Belgium,Brussels,Investment,4,No,Website
+C0080,Personal-Use Buyers,77,F,USA,California,Investment,3,No,Website
+C0081,Personal-Use Buyers,83,F,USA,California,Home,4,Yes,Website
+C0082,Personal-Use Buyers,45,F,USA,Virginia,Investment,5,No,Client
+C0083,Corporate Investment Buyers,88,M,USA,California,Home,5,No,Website
+C0084,Corporate Investment Buyers,78,M,USA,Wyoming,Home,3,No,Agency
+C0085,Corporate Investment Buyers,60,M,USA,California,Home,4,Yes,Agency
+C0086,Personal-Use Buyers,58,F,USA,California,Home,3,Yes,Website
+C0087,Personal-Use Buyers,47,F,USA,California,Home,4,No,Agency
+C0088,Corporate Investment Buyers,90,M,USA,Oregon,Investment,2,No,Website
+C0089,Corporate Investment Buyers,77,M,USA,California,Home,3,No,Agency
+C0090,Corporate Investment Buyers,44,M,USA,California,Home,5,No,Client
+C0091,Personal-Use Buyers,67,F,USA,California,Home,4,No,Website
+C0092,Corporate Investment Buyers,55,M,USA,Kansas,Home,3,No,Website
+C0093,Corporate Investment Buyers,64,M,USA,California,Home,2,No,Agency
+C0094,Personal-Use Buyers,78,F,USA,California,Home,5,No,Website
+C0095,Corporate Investment Buyers,62,M,USA,California,Home,3,Yes,Agency
+C0096,Corporate Investment Buyers,41,M,USA,California,Investment,3,Yes,Website
+C0097,Corporate Investment Buyers,83,M,USA,Virginia,Home,5,Yes,Website
+C0098,Personal-Use Buyers,77,F,Russia,Saint Petersburg,Home,3,Yes,Agency
+C0099,Corporate Investment Buyers,85,M,USA,California,Investment,4,No,Website
+C0100,Corporate Investment Buyers,57,M,USA,California,Home,3,No,Website
+C0101,Personal-Use Buyers,75,F,USA,Nevada,Home,3,No,Website
+C0102,Corporate Investment Buyers,79,M,USA,California,Investment,5,Yes,Website
+C0103,Corporate Investment Buyers,53,M,USA,Colorado,Home,3,No,Website
+C0104,Corporate Investment Buyers,48,M,USA,California,Home,5,No,Website
+C0105,Personal-Use Buyers,67,F,USA,California,Investment,2,Yes,Website
+C0106,Corporate Investment Buyers,73,M,USA,Colorado,Home,4,No,Website
+C0107,Corporate Investment Buyers,67,M,USA,California,Home,4,Yes,Agency
+C0108,Corporate Investment Buyers,68,M,USA,California,Home,4,No,Agency
+C0109,Personal-Use Buyers,93,F,USA,California,Investment,5,Yes,Agency
+C0110,Personal-Use Buyers,67,F,USA,California,Investment,5,Yes,Agency
+C0111,Corporate Investment Buyers,47,M,USA,Arizona,Home,2,Yes,Website
+C0112,Personal-Use Buyers,66,F,USA,California,Investment,1,Yes,Agency
+C0113,Corporate Investment Buyers,77,M,USA,Utah,Investment,4,No,Agency
+C0114,Personal-Use Buyers,64,F,USA,California,Home,1,Yes,Website
+C0115,Personal-Use Buyers,48,F,USA,California,Home,5,No,Agency
+C0116,Personal-Use Buyers,71,F,USA,California,Investment,4,No,Website
+C0117,Corporate Investment Buyers,62,M,UK,Scotland,Investment,4,No,Agency
+C0118,Personal-Use Buyers,78,F,USA,Oregon,Investment,5,No,Agency
+C0119,Personal-Use Buyers,84,F,USA,California,Home,1,Yes,Website
+C0120,Personal-Use Buyers,73,F,USA,California,Home,4,Yes,Website
+C0121,Corporate Investment Buyers,76,M,USA,Nevada,Home,2,No,Website
+C0122,Personal-Use Buyers,53,F,USA,California,Home,1,Yes,Agency
+C0123,Personal-Use Buyers,64,F,USA,California,Home,4,Yes,Website
+C0124,Personal-Use Buyers,63,F,USA,California,Home,4,No,Agency
+C0125,Corporate Investment Buyers,50,M,USA,Colorado,Home,4,Yes,Agency
+C0126,Personal-Use Buyers,54,F,USA,California,Investment,2,No,Agency
+C0127,Corporate Investment Buyers,52,M,USA,Nevada,Home,2,Yes,Website
+C0128,Mixed-Purpose Buyers,63,M,USA,Nevada,Investment,5,Yes,Website
+C0129,Corporate Investment Buyers,53,M,USA,Arizona,Investment,5,No,Website
+C0130,Corporate Investment Buyers,67,M,USA,Nevada,Home,3,Yes,Website
+C0131,Corporate Investment Buyers,55,M,USA,California,Home,1,No,Website
+C0132,Corporate Investment Buyers,61,M,USA,Nevada,Home,1,Yes,Agency
+C0133,Corporate Investment Buyers,80,M,USA,California,Investment,4,No,Agency
+C0134,Personal-Use Buyers,94,F,Russia,Novosibirsk,Investment,3,No,Website
+C0135,Corporate Investment Buyers,87,M,USA,Utah,Investment,2,No,Agency
+C0136,Corporate Investment Buyers,53,M,USA,California,Home,3,No,Website
+C0137,Personal-Use Buyers,69,F,USA,California,Home,3,Yes,Website
+C0138,Personal-Use Buyers,87,F,USA,Oregon,Investment,3,Yes,Website
+C0139,Personal-Use Buyers,57,F,USA,California,Home,5,Yes,Website
+C0140,Personal-Use Buyers,74,F,USA,California,Home,3,No,Website
+C0141,Personal-Use Buyers,40,F,USA,California,Home,5,No,Website
+C0142,Personal-Use Buyers,48,F,USA,Nevada,Home,3,Yes,Website
+C0143,Corporate Investment Buyers,68,M,USA,California,Home,1,No,Website
+C0144,Corporate Investment Buyers,72,M,USA,California,Home,4,No,Agency
+C0145,Personal-Use Buyers,62,F,USA,California,Home,4,No,Website
+C0146,Corporate Investment Buyers,63,M,USA,Colorado,Home,2,No,Website
+C0147,Corporate Investment Buyers,78,M,USA,Utah,Home,4,No,Client
+C0148,Corporate Investment Buyers,57,M,USA,Colorado,Investment,4,Yes,Agency
+C0149,Corporate Investment Buyers,71,M,Russia,Krasnodar Krai,Investment,3,No,Agency
+C0150,Corporate Investment Buyers,58,M,USA,California,Home,2,Yes,Website
+C0151,Personal-Use Buyers,50,F,USA,Oregon,Home,1,No,Agency
+C0152,Personal-Use Buyers,59,F,USA,California,Investment,2,Yes,Agency
+C0153,Personal-Use Buyers,43,F,USA,California,Home,5,No,Website
+C0154,Personal-Use Buyers,61,F,USA,California,Home,4,Yes,Agency
+C0155,Mixed-Purpose Buyers,51,M,USA,California,Investment,5,No,Agency
+C0156,Personal-Use Buyers,60,F,USA,California,Home,5,No,Website
+C0157,Corporate Investment Buyers,74,M,USA,Colorado,Home,2,Yes,Client
+C0158,Personal-Use Buyers,47,F,USA,Virginia,Investment,3,Yes,Agency
+C0159,Corporate Investment Buyers,84,M,USA,California,Home,3,No,Website
+C0160,Personal-Use Buyers,67,F,USA,California,Home,4,No,Website
+C0161,Corporate Investment Buyers,75,M,USA,California,Home,5,No,Website
+C0162,Corporate Investment Buyers,73,M,USA,California,Home,4,No,Website
+C0163,Corporate Investment Buyers,40,M,USA,Utah,Investment,5,Yes,Agency
+C0164,Corporate Investment Buyers,40,M,USA,Arizona,Home,5,No,Website
+C0165,Personal-Use Buyers,70,F,USA,California,Home,3,Yes,Website
+C0166,Personal-Use Buyers,42,F,USA,Arizona,Home,4,Yes,Agency
+C0167,Personal-Use Buyers,71,F,UK,Scotland,Home,3,Yes,Website
+C0168,Personal-Use Buyers,66,F,USA,Nevada,Home,3,No,Agency
+C0169,Corporate Investment Buyers,36,M,USA,Ohio,Investment,5,Yes,Agency
+C0170,Corporate Investment Buyers,77,M,USA,California,Home,5,No,Website
+C0171,Personal-Use Buyers,35,F,USA,Washington,Investment,5,Yes,Client
+C0172,Personal-Use Buyers,34,F,USA,Washington,Home,1,Yes,Agency
+C0173,Personal-Use Buyers,50,F,USA,Arizona,Home,5,Yes,Agency
+C0174,Personal-Use Buyers,44,F,USA,California,Investment,3,No,Client
+C0175,Corporate Investment Buyers,64,M,USA,Washington,Home,5,No,Agency
+C0176,Personal-Use Buyers,33,F,USA,California,Home,2,No,Website
+C0177,Personal-Use Buyers,75,F,UK,England,Home,5,Yes,Website
+C0178,Personal-Use Buyers,74,F,USA,Virginia,Home,4,No,Agency
+C0179,Personal-Use Buyers,40,F,USA,Oregon,Investment,2,No,Website
+C0180,Corporate Investment Buyers,83,M,USA,California,Home,2,Yes,Agency
+C0181,Corporate Investment Buyers,56,M,USA,Texas,Home,2,Yes,Website
+C0182,Personal-Use Buyers,55,F,Germany,North Rhine-Westphalia,Investment,1,Yes,Website
+C0183,Corporate Investment Buyers,38,M,USA,Nevada,Home,3,No,Website
+C0184,Corporate Investment Buyers,32,M,USA,Florida,Home,1,No,Website
+C0185,Personal-Use Buyers,81,F,USA,Nevada,Home,4,Yes,Agency
+C0186,Personal-Use Buyers,44,F,USA,Virginia,Home,1,No,Website
+C0187,Personal-Use Buyers,36,F,USA,Florida,Home,1,No,Website
+C0188,Corporate Investment Buyers,86,M,USA,Oregon,Home,5,Yes,Website
+C0189,Personal-Use Buyers,68,F,USA,California,Home,2,No,Agency
+C0190,Personal-Use Buyers,55,F,USA,California,Home,2,No,Website
+C0191,Personal-Use Buyers,49,F,USA,Florida,Home,3,No,Agency
+C0192,Personal-Use Buyers,42,F,Belgium,Brussels,Investment,2,Yes,Website
+C0193,Personal-Use Buyers,58,F,USA,California,Investment,4,Yes,Website
+C0194,Corporate Investment Buyers,73,M,France,Ile-de-France,Home,5,Yes,Website
+C0195,Corporate Investment Buyers,79,M,USA,California,Home,2,Yes,Website
+C0196,Corporate Investment Buyers,69,M,USA,Nevada,Investment,5,No,Agency
+C0197,Corporate Investment Buyers,82,M,USA,Virginia,Home,4,No,Client
+C0198,Personal-Use Buyers,50,F,USA,California,Home,4,No,Website
+C0199,Corporate Investment Buyers,68,M,USA,California,Home,3,No,Agency
+C0200,Personal-Use Buyers,82,F,USA,California,Home,1,No,Agency
+C0201,Personal-Use Buyers,58,F,USA,California,Home,1,No,Agency
+C0202,Corporate Investment Buyers,30,M,Canada,British Columbia,Home,1,No,Website
+C0203,Personal-Use Buyers,70,F,USA,California,Home,4,No,Client
+C0204,Personal-Use Buyers,79,F,USA,California,Home,5,No,Agency
+C0205,Personal-Use Buyers,58,F,Mexico,Puebla,Home,1,Yes,Agency
+C0206,Personal-Use Buyers,69,F,USA,California,Home,1,Yes,Agency
+C0207,Corporate Investment Buyers,82,M,USA,Virginia,Investment,4,No,Website
+C0208,Corporate Investment Buyers,40,M,France,Provence,Home,4,Yes,Agency
+C0209,Corporate Investment Buyers,77,M,USA,Arizona,Investment,3,No,Agency
+C0210,Personal-Use Buyers,83,F,USA,Colorado,Home,2,No,Website
+C0211,Personal-Use Buyers,54,F,USA,California,Home,3,No,Agency
+C0212,Corporate Investment Buyers,70,M,USA,California,Home,4,No,Agency
+C0213,Corporate Investment Buyers,50,M,USA,Florida,Investment,5,No,Agency
+C0214,Personal-Use Buyers,80,F,Belgium,Brussels,Investment,5,No,Website
+C0215,Personal-Use Buyers,27,F,Germany,Hamburg,Investment,4,No,Website
+C0216,Corporate Investment Buyers,27,M,USA,Utah,Home,1,No,Website
+C0217,Personal-Use Buyers,42,F,USA,Colorado,Home,3,No,Website
+C0218,Personal-Use Buyers,56,F,USA,California,Home,2,No,Website
+C0219,Corporate Investment Buyers,38,M,USA,California,Home,4,No,Website
+C0220,Corporate Investment Buyers,75,M,Canada,Ontario,Investment,1,No,Website
+C0221,Mixed-Purpose Buyers,39,F,USA,California,Home,5,No,Website
+C0222,Corporate Investment Buyers,70,M,USA,Utah,Investment,3,No,Agency
+C0223,Corporate Investment Buyers,53,M,USA,Colorado,Investment,3,Yes,Website
+C0224,Corporate Investment Buyers,66,M,USA,Colorado,Home,5,No,Website
+C0225,Personal-Use Buyers,78,F,USA,California,Home,1,Yes,Agency
+C0226,Personal-Use Buyers,68,F,USA,Colorado,Home,2,No,Website
+C0227,Personal-Use Buyers,82,F,USA,Arizona,Home,5,Yes,Website
+C0228,Personal-Use Buyers,74,F,USA,Oregon,Investment,4,No,Website
+C0229,Corporate Investment Buyers,45,M,USA,Colorado,Investment,5,No,Website
+C0230,Mixed-Purpose Buyers,49,M,USA,Nevada,Investment,4,Yes,Website
+C0231,Corporate Investment Buyers,33,M,Denmark,Central Denmark,Investment,2,Yes,Website
+C0232,Personal-Use Buyers,64,F,USA,California,Home,3,Yes,Website
+C0233,Corporate Investment Buyers,29,M,France,Provence,Home,4,Yes,Website
+C0234,Personal-Use Buyers,47,F,USA,New York,Home,1,Yes,Website
+C0235,Corporate Investment Buyers,77,M,USA,California,Home,5,No,Website
+C0236,Investment-Oriented Buyers,54,M,Canada,Manitoba,Home,3,No,Agency
+C0237,Corporate Investment Buyers,42,M,USA,California,Home,5,Yes,Website
+C0238,Personal-Use Buyers,44,F,USA,Virginia,Home,4,Yes,Agency
+C0239,Personal-Use Buyers,53,F,USA,Oregon,Home,3,Yes,Website
+C0240,Personal-Use Buyers,84,F,USA,Colorado,Investment,3,No,Website
+C0241,Personal-Use Buyers,64,F,Mexico,Nuevo Leon,Home,5,Yes,Website
+C0242,Corporate Investment Buyers,28,M,USA,Utah,Home,3,Yes,Agency
+C0243,Personal-Use Buyers,48,F,USA,Utah,Home,2,No,Website
+C0244,Personal-Use Buyers,28,F,USA,California,Home,1,No,Website
+C0245,Corporate Investment Buyers,52,M,USA,Nevada,Investment,4,No,Agency
+C0246,Corporate Investment Buyers,34,M,France,Normandy,Home,1,Yes,Agency
+C0247,Corporate Investment Buyers,61,M,USA,California,Home,1,No,Website
+C0248,Corporate Investment Buyers,58,M,USA,Florida,Home,4,Yes,Agency
+C0249,Personal-Use Buyers,58,F,USA,California,Investment,4,No,Agency
+C0250,Corporate Investment Buyers,79,M,UK,England,Home,2,No,Agency
+C0251,Personal-Use Buyers,50,F,USA,Utah,Home,5,No,Website
+C0252,Personal-Use Buyers,73,F,USA,Nevada,Investment,2,No,Website
+C0253,Personal-Use Buyers,32,F,USA,Virginia,Home,4,No,Website
+C0254,Personal-Use Buyers,70,F,USA,Florida,Home,5,No,Website
+C0255,Personal-Use Buyers,65,F,UK,England,Investment,3,Yes,Client
+C0256,Corporate Investment Buyers,36,M,USA,California,Home,1,Yes,Website
+C0257,Corporate Investment Buyers,52,M,USA,California,Home,1,No,Website
+C0258,Corporate Investment Buyers,35,M,UK,Northern Ireland,Home,4,Yes,Agency
+C0259,Personal-Use Buyers,36,F,USA,Oregon,Home,4,No,Website
+C0260,Personal-Use Buyers,80,F,USA,Nevada,Investment,3,No,Website
+C0261,Mixed-Purpose Buyers,41,F,USA,Florida,Investment,4,Yes,Website
+C0262,Corporate Investment Buyers,79,M,USA,Oregon,Home,2,No,Website
+C0263,Corporate Investment Buyers,45,M,USA,Nevada,Investment,2,Yes,Website
+C0264,Personal-Use Buyers,34,F,USA,Colorado,Home,2,Yes,Agency
+C0265,Mixed-Purpose Buyers,59,M,Belgium,Flanders,Home,1,No,Website
+C0266,Corporate Investment Buyers,49,M,USA,California,Home,5,Yes,Agency
+C0267,Personal-Use Buyers,78,F,USA,Utah,Home,4,Yes,Agency
+C0268,Personal-Use Buyers,67,F,USA,Georgia,Investment,3,No,Website
+C0269,Corporate Investment Buyers,57,M,USA,New York,Home,2,No,Agency
+C0270,Personal-Use Buyers,82,F,USA,Florida,Home,5,No,Website
+C0271,Personal-Use Buyers,54,F,USA,California,Investment,3,No,Agency
+C0272,Personal-Use Buyers,33,F,UK,Scotland,Home,5,Yes,Website
+C0273,Corporate Investment Buyers,39,M,Denmark,Zealand,Investment,2,No,Website
+C0274,Corporate Investment Buyers,76,M,USA,Florida,Home,2,No,Website
+C0275,Corporate Investment Buyers,26,M,USA,Oregon,Home,1,Yes,Website
+C0276,Personal-Use Buyers,73,F,USA,Washington,Home,5,No,Website
+C0277,Corporate Investment Buyers,72,M,USA,Colorado,Investment,1,Yes,Agency
+C0278,Personal-Use Buyers,71,F,USA,California,Investment,2,Yes,Website
+C0279,Personal-Use Buyers,59,F,USA,Oregon,Home,1,No,Website
+C0280,Corporate Investment Buyers,82,M,USA,Florida,Home,4,No,Client
+C0281,Personal-Use Buyers,49,F,USA,California,Home,1,Yes,Agency
+C0282,Personal-Use Buyers,29,F,USA,California,Investment,1,No,Website
+C0283,Personal-Use Buyers,64,F,USA,Arizona,Home,2,Yes,Agency
+C0284,Corporate Investment Buyers,49,M,USA,Arizona,Home,4,No,Client
+C0285,Corporate Investment Buyers,27,M,France,Ile-de-France,Investment,3,No,Website
+C0286,Corporate Investment Buyers,30,M,UK,Scotland,Home,1,No,Agency
+C0287,Personal-Use Buyers,36,F,Australia,New South Wales,Home,5,No,Website
+C0288,Corporate Investment Buyers,29,M,USA,Colorado,Investment,4,No,Agency
+C0289,Personal-Use Buyers,33,F,USA,California,Investment,5,No,Agency
+C0290,Corporate Investment Buyers,64,M,USA,California,Home,2,No,Website
+C0291,Corporate Investment Buyers,73,M,USA,Nevada,Home,2,No,Agency
+C0292,Personal-Use Buyers,81,F,USA,California,Home,1,No,Agency
+C0293,Personal-Use Buyers,33,F,USA,California,Investment,4,No,Website
+C0294,Corporate Investment Buyers,63,M,USA,Nevada,Home,3,Yes,Website
+C0295,Corporate Investment Buyers,59,M,Russia,Tatarstan,Home,3,No,Agency
+C0296,Investment-Oriented Buyers,42,M,Canada,Manitoba,Home,1,Yes,Client
+C0297,Personal-Use Buyers,54,F,UK,Wales,Investment,5,No,Agency
+C0298,Personal-Use Buyers,54,F,USA,Oregon,Home,3,No,Website
+C0299,Personal-Use Buyers,49,F,UK,Wales,Home,5,No,Agency
+C0300,Corporate Investment Buyers,67,M,Canada,Alberta,Home,5,Yes,Website
+C0301,Personal-Use Buyers,67,F,USA,Virginia,Home,4,No,Agency
+C0302,Personal-Use Buyers,50,F,USA,Utah,Investment,1,No,Agency
+C0303,Personal-Use Buyers,69,F,USA,Virginia,Investment,5,Yes,Website
+C0304,Corporate Investment Buyers,67,M,USA,California,Investment,1,No,Agency
+C0305,Personal-Use Buyers,31,F,USA,Arizona,Home,1,No,Website
+C0306,Corporate Investment Buyers,38,M,USA,California,Home,1,No,Client
+C0307,Corporate Investment Buyers,34,M,USA,California,Home,5,Yes,Client
+C0308,Personal-Use Buyers,54,F,Belgium,Flanders,Investment,4,Yes,Agency
+C0309,Personal-Use Buyers,69,F,USA,Washington,Home,4,No,Agency
+C0310,Corporate Investment Buyers,34,M,UK,Northern Ireland,Home,3,No,Website
+C0311,Corporate Investment Buyers,74,M,USA,Georgia,Home,2,No,Website
+C0312,Corporate Investment Buyers,85,M,USA,Nevada,Home,3,Yes,Website
+C0313,Mixed-Purpose Buyers,52,M,USA,California,Home,1,No,Agency
+C0314,Corporate Investment Buyers,44,M,USA,Washington,Investment,4,No,Agency
+C0315,Corporate Investment Buyers,39,M,Mexico,Baja California,Investment,5,No,Website
+C0316,Corporate Investment Buyers,29,M,UK,Scotland,Investment,4,Yes,Website
+C0317,Personal-Use Buyers,27,F,USA,California,Investment,2,Yes,Website
+C0318,Personal-Use Buyers,52,F,Germany,Berlin,Home,5,No,Website
+C0319,Mixed-Purpose Buyers,31,F,USA,Texas,Home,5,Yes,Website
+C0320,Corporate Investment Buyers,42,M,USA,Texas,Home,3,Yes,Client
+C0321,Corporate Investment Buyers,34,M,USA,California,Investment,2,No,Agency
+C0322,Personal-Use Buyers,30,F,USA,California,Home,2,Yes,Website
+C0323,Personal-Use Buyers,51,F,USA,California,Investment,2,Yes,Website
+C0324,Corporate Investment Buyers,33,M,USA,Washington,Home,4,No,Website
+C0325,Personal-Use Buyers,43,F,USA,California,Home,5,Yes,Agency
+C0326,Corporate Investment Buyers,68,M,USA,Oregon,Investment,4,Yes,Agency
+C0327,Personal-Use Buyers,65,F,UK,Scotland,Home,1,No,Agency
+C0328,Corporate Investment Buyers,80,M,USA,California,Home,1,Yes,Client
+C0329,Personal-Use Buyers,28,F,Germany,Hesse,Home,3,No,Agency
+C0330,Corporate Investment Buyers,51,M,USA,California,Home,1,No,Website
+C0331,Personal-Use Buyers,42,F,USA,California,Investment,3,No,Agency
+C0332,Corporate Investment Buyers,37,M,USA,Texas,Investment,3,No,Website
+C0333,Personal-Use Buyers,71,F,UK,Wales,Home,3,No,Website
+C0334,Corporate Investment Buyers,76,M,USA,Arizona,Investment,3,No,Agency
+C0335,Corporate Investment Buyers,51,M,USA,Arizona,Home,4,No,Website
+C0336,Personal-Use Buyers,55,F,USA,California,Investment,5,No,Agency
+C0337,Corporate Investment Buyers,84,M,USA,Arizona,Home,3,Yes,Website
+C0338,Corporate Investment Buyers,83,M,USA,California,Home,5,Yes,Website
+C0339,Corporate Investment Buyers,63,M,USA,Utah,Investment,5,No,Agency
+C0340,Corporate Investment Buyers,86,M,USA,California,Investment,2,No,Agency
+C0341,Corporate Investment Buyers,44,M,USA,California,Investment,4,No,Agency
+C0342,Corporate Investment Buyers,52,M,USA,California,Investment,2,No,Client
+C0343,Personal-Use Buyers,74,F,USA,California,Home,2,No,Website
+C0344,Corporate Investment Buyers,29,M,Canada,British Columbia,Home,2,Yes,Website
+C0345,Personal-Use Buyers,57,F,USA,New York,Home,4,Yes,Website
+C0346,Personal-Use Buyers,63,F,USA,California,Home,5,No,Agency
+C0347,Corporate Investment Buyers,34,M,USA,Washington,Home,3,Yes,Website
+C0348,Corporate Investment Buyers,44,M,USA,Colorado,Investment,5,Yes,Agency
+C0349,Corporate Investment Buyers,51,M,USA,Arizona,Home,2,Yes,Agency
+C0350,Corporate Investment Buyers,34,M,USA,Arizona,Home,2,No,Agency
+C0351,Personal-Use Buyers,65,F,USA,Oregon,Home,5,No,Agency
+C0352,Personal-Use Buyers,49,F,USA,Nevada,Investment,3,No,Agency
+C0353,Personal-Use Buyers,62,F,USA,Arizona,Home,2,No,Agency
+C0354,Personal-Use Buyers,28,F,USA,California,Home,4,No,Website
+C0355,Corporate Investment Buyers,75,M,Mexico,Baja California,Investment,1,No,Website
+C0356,Personal-Use Buyers,50,F,USA,Georgia,Home,3,No,Website
+C0357,Personal-Use Buyers,38,F,USA,California,Home,3,No,Website
+C0358,Personal-Use Buyers,48,F,Australia,New South Wales,Home,3,Yes,Agency
+C0359,Personal-Use Buyers,75,F,USA,California,Investment,1,No,Agency
+C0360,Personal-Use Buyers,78,F,USA,Utah,Home,2,Yes,Agency
+C0361,Corporate Investment Buyers,68,M,UK,England,Home,1,Yes,Website
+C0362,Personal-Use Buyers,26,F,USA,Utah,Home,4,No,Website
+C0363,Personal-Use Buyers,67,F,USA,Utah,Investment,2,No,Client
+C0364,Corporate Investment Buyers,82,M,USA,Texas,Home,2,No,Website
+C0365,Corporate Investment Buyers,64,M,USA,Colorado,Investment,5,No,Agency
+C0366,Corporate Investment Buyers,43,M,USA,California,Home,4,No,Website
+C0367,Corporate Investment Buyers,62,M,USA,California,Investment,4,No,Agency
+C0368,Personal-Use Buyers,34,F,USA,California,Home,4,Yes,Agency
+C0369,Personal-Use Buyers,72,F,USA,Utah,Home,2,Yes,Agency
+C0370,Personal-Use Buyers,69,F,Russia,Krasnodar Krai,Home,1,No,Website
+C0371,Corporate Investment Buyers,56,M,Belgium,Wallonia,Investment,3,No,Agency
+C0372,Personal-Use Buyers,74,F,Belgium,Flanders,Investment,1,No,Agency
+C0373,Personal-Use Buyers,33,F,USA,Georgia,Home,2,No,Agency
+C0374,Personal-Use Buyers,33,F,Australia,New South Wales,Investment,4,Yes,Agency
+C0375,Corporate Investment Buyers,58,M,USA,California,Investment,4,No,Website
+C0376,Personal-Use Buyers,73,F,USA,California,Home,3,No,Website
+C0377,Corporate Investment Buyers,28,M,USA,Washington,Home,4,No,Website
+C0378,Personal-Use Buyers,69,F,USA,California,Investment,3,Yes,Website
+C0379,Mixed-Purpose Buyers,49,M,USA,California,Investment,2,Yes,Client
+C0380,Personal-Use Buyers,53,F,USA,California,Home,3,Yes,Website
+C0381,Corporate Investment Buyers,65,M,USA,California,Home,5,Yes,Agency
+C0382,Corporate Investment Buyers,51,M,USA,California,Investment,1,Yes,Agency
+C0383,Mixed-Purpose Buyers,41,F,Mexico,Mexico City,Investment,3,No,Agency
+C0384,Personal-Use Buyers,82,F,USA,California,Home,3,Yes,Website
+C0385,Corporate Investment Buyers,57,M,UK,Northern Ireland,Investment,4,No,Website
+C0386,Personal-Use Buyers,50,F,USA,Colorado,Home,2,No,Client
+C0387,Personal-Use Buyers,52,F,USA,California,Home,2,Yes,Website
+C0388,Corporate Investment Buyers,31,M,USA,California,Home,4,No,Agency
+C0389,Corporate Investment Buyers,72,M,USA,Colorado,Home,3,No,Website
+C0390,Corporate Investment Buyers,84,M,Canada,Quebec,Investment,2,No,Website
+C0391,Personal-Use Buyers,60,F,USA,California,Home,5,No,Agency
+C0392,Personal-Use Buyers,49,F,USA,Arizona,Home,2,Yes,Website
+C0393,Personal-Use Buyers,38,F,USA,Arizona,Home,4,No,Agency
+C0394,Personal-Use Buyers,72,F,USA,Colorado,Home,3,Yes,Website
+C0395,Personal-Use Buyers,67,F,USA,Florida,Home,1,No,Website
+C0396,Corporate Investment Buyers,26,M,USA,Nevada,Home,5,No,Agency
+C0397,Personal-Use Buyers,26,F,USA,California,Home,5,No,Website
+C0398,Personal-Use Buyers,78,F,USA,Texas,Home,1,Yes,Agency
+C0399,Corporate Investment Buyers,42,M,USA,California,Home,4,No,Agency
+C0400,Corporate Investment Buyers,67,M,USA,California,Home,4,No,Agency
+C0401,Corporate Investment Buyers,57,M,USA,Arizona,Home,5,Yes,Website
+C0402,Personal-Use Buyers,85,F,USA,Georgia,Home,5,No,Website
+C0403,Personal-Use Buyers,63,F,Australia,New South Wales,Home,1,No,Website
+C0404,Personal-Use Buyers,50,F,France,Normandy,Investment,1,No,Client
+C0405,Mixed-Purpose Buyers,57,M,USA,Colorado,Home,1,No,Agency
+C0406,Personal-Use Buyers,66,F,USA,Colorado,Home,3,No,Website
+C0407,Personal-Use Buyers,44,F,USA,California,Home,2,No,Client
+C0408,Corporate Investment Buyers,49,M,USA,California,Home,3,No,Website
+C0409,Corporate Investment Buyers,54,M,USA,Nevada,Home,1,Yes,Website
+C0410,Personal-Use Buyers,44,F,Russia,Saint Petersburg,Home,5,Yes,Agency
+C0411,Personal-Use Buyers,43,F,USA,California,Home,2,No,Website
+C0412,Personal-Use Buyers,42,F,UK,Scotland,Home,5,No,Website
+C0413,Corporate Investment Buyers,86,M,Canada,British Columbia,Home,3,No,Website
+C0414,Corporate Investment Buyers,64,M,USA,California,Home,4,No,Website
+C0415,Personal-Use Buyers,46,F,USA,Nevada,Home,5,Yes,Agency
+C0416,Mixed-Purpose Buyers,45,M,Germany,North Rhine-Westphalia,Investment,5,Yes,Client
+C0417,Corporate Investment Buyers,79,M,USA,Utah,Home,2,No,Website
+C0418,Corporate Investment Buyers,30,M,USA,Arizona,Home,5,No,Agency
+C0419,Corporate Investment Buyers,64,M,USA,Washington,Home,3,Yes,Agency
+C0420,Personal-Use Buyers,32,F,USA,California,Home,5,No,Agency
+C0421,Corporate Investment Buyers,51,M,Germany,Hesse,Investment,5,Yes,Website
+C0422,Mixed-Purpose Buyers,53,F,USA,California,Home,1,Yes,Client
+C0423,Personal-Use Buyers,76,F,USA,California,Home,1,No,Client
+C0424,Personal-Use Buyers,28,F,USA,Florida,Home,1,No,Website
+C0425,Corporate Investment Buyers,61,M,USA,Nevada,Home,2,No,Agency
+C0426,Personal-Use Buyers,73,F,USA,Oregon,Home,4,Yes,Client
+C0427,Personal-Use Buyers,32,F,USA,California,Home,4,Yes,Website
+C0428,Personal-Use Buyers,64,F,USA,Oregon,Home,3,No,Agency
+C0429,Personal-Use Buyers,31,F,USA,California,Home,3,Yes,Website
+C0430,Corporate Investment Buyers,52,M,USA,Nevada,Home,2,No,Agency
+C0431,Corporate Investment Buyers,57,M,USA,California,Home,5,Yes,Website
+C0432,Mixed-Purpose Buyers,31,M,USA,California,Home,5,No,Agency
+C0433,Personal-Use Buyers,57,F,USA,California,Investment,2,Yes,Website
+C0434,Personal-Use Buyers,62,F,Russia,Tatarstan,Home,5,No,Website
+C0435,Personal-Use Buyers,60,F,Australia,New South Wales,Home,5,Yes,Website
+C0436,Corporate Investment Buyers,54,M,USA,Colorado,Home,2,Yes,Client
+C0437,Personal-Use Buyers,36,F,USA,Texas,Home,1,No,Website
+C0438,Corporate Investment Buyers,44,M,USA,Georgia,Investment,1,Yes,Client
+C0439,Corporate Investment Buyers,70,M,USA,Virginia,Home,2,No,Agency
+C0440,Corporate Investment Buyers,66,M,USA,California,Investment,1,No,Agency
+C0441,Personal-Use Buyers,46,F,Russia,Krasnodar Krai,Investment,1,No,Agency
+C0442,Personal-Use Buyers,51,F,USA,Colorado,Home,3,Yes,Website
+C0443,Corporate Investment Buyers,76,M,Denmark,Capital Region,Home,1,Yes,Agency
+C0444,Personal-Use Buyers,85,F,USA,California,Home,2,No,Website
+C0445,Personal-Use Buyers,31,F,USA,California,Home,2,Yes,Website
+C0446,Corporate Investment Buyers,71,M,USA,Colorado,Home,2,No,Website
+C0447,Personal-Use Buyers,70,F,USA,New York,Home,2,No,Website
+C0448,Corporate Investment Buyers,46,M,USA,Nevada,Investment,2,No,Agency
+C0449,Corporate Investment Buyers,54,M,USA,Oregon,Investment,2,No,Agency
+C0450,Corporate Investment Buyers,34,M,Mexico,Nuevo Leon,Home,3,No,Website
+C0451,Corporate Investment Buyers,41,M,Canada,Alberta,Investment,5,Yes,Client
+C0452,Corporate Investment Buyers,59,M,USA,Washington,Home,3,No,Website
+C0453,Corporate Investment Buyers,33,M,UK,Scotland,Investment,1,No,Website
+C0454,Mixed-Purpose Buyers,65,F,USA,Nevada,Investment,4,No,Agency
+C0455,Personal-Use Buyers,63,F,USA,California,Home,1,No,Agency
+C0456,Personal-Use Buyers,31,F,USA,Oregon,Home,3,Yes,Website
+C0457,Corporate Investment Buyers,46,M,UK,Wales,Investment,1,No,Agency
+C0458,Corporate Investment Buyers,31,M,USA,Oregon,Investment,1,No,Agency
+C0459,Corporate Investment Buyers,71,M,USA,California,Home,3,No,Agency
+C0460,Personal-Use Buyers,34,F,USA,Virginia,Home,1,No,Website
+C0461,Corporate Investment Buyers,66,M,USA,Arizona,Home,1,No,Agency
+C0462,Corporate Investment Buyers,83,M,Australia,Victoria,Home,2,No,Agency
+C0463,Corporate Investment Buyers,56,M,USA,California,Home,5,No,Client
+C0464,Corporate Investment Buyers,52,M,USA,Florida,Home,5,No,Website
+C0465,Corporate Investment Buyers,77,M,USA,California,Home,3,No,Website
+C0466,Personal-Use Buyers,38,F,USA,Virginia,Investment,2,No,Website
+C0467,Personal-Use Buyers,74,F,USA,Ohio,Home,1,Yes,Agency
+C0468,Corporate Investment Buyers,74,M,Mexico,Jalisco,Investment,3,Yes,Website
+C0469,Corporate Investment Buyers,29,M,USA,California,Home,2,No,Website
+C0470,Personal-Use Buyers,63,F,USA,Oregon,Home,1,No,Agency
+C0471,Corporate Investment Buyers,42,M,USA,Utah,Investment,3,No,Agency
+C0472,Corporate Investment Buyers,75,M,USA,California,Home,4,No,Website
+C0473,Personal-Use Buyers,45,F,USA,California,Home,3,No,Agency
+C0474,Corporate Investment Buyers,31,M,USA,Nevada,Home,1,No,Website
+C0475,Corporate Investment Buyers,80,M,Belgium,Wallonia,Investment,2,Yes,Agency
+C0476,Corporate Investment Buyers,29,M,USA,Florida,Home,3,No,Agency
+C0477,Corporate Investment Buyers,42,M,USA,California,Investment,4,Yes,Website
+C0478,Personal-Use Buyers,86,F,USA,Ohio,Investment,4,No,Website
+C0479,Personal-Use Buyers,48,F,USA,California,Home,2,Yes,Agency
+C0480,Corporate Investment Buyers,52,M,USA,California,Home,4,Yes,Website
+C0481,Corporate Investment Buyers,50,M,USA,Arizona,Home,3,No,Agency
+C0482,Personal-Use Buyers,46,F,USA,New York,Investment,3,Yes,Agency
+C0483,Corporate Investment Buyers,41,M,USA,Arizona,Investment,1,No,Website
+C0484,Personal-Use Buyers,37,F,USA,Texas,Investment,3,No,Website
+C0485,Personal-Use Buyers,35,F,USA,Arizona,Home,2,No,Website
+C0486,Corporate Investment Buyers,27,M,USA,California,Investment,2,Yes,Website
+C0487,Personal-Use Buyers,35,F,USA,Washington,Home,5,No,Website
+C0488,Personal-Use Buyers,47,F,USA,California,Investment,4,No,Agency
+C0489,Corporate Investment Buyers,76,M,Germany,Berlin,Investment,2,No,Website
+C0490,Personal-Use Buyers,72,F,USA,Nevada,Investment,5,Yes,Website
+C0491,Corporate Investment Buyers,85,M,USA,Washington,Home,2,No,Website
+C0492,Corporate Investment Buyers,26,M,USA,Utah,Home,3,Yes,Website
+C0493,Corporate Investment Buyers,72,M,USA,Colorado,Home,3,No,Website
+C0494,Personal-Use Buyers,36,F,USA,California,Home,3,Yes,Website
+C0495,Corporate Investment Buyers,72,M,USA,California,Investment,5,No,Client
+C0496,Corporate Investment Buyers,36,M,USA,California,Home,4,No,Agency
+C0497,Personal-Use Buyers,41,F,USA,Arizona,Investment,4,Yes,Website
+C0498,Personal-Use Buyers,78,F,Canada,Alberta,Home,2,Yes,Website
+C0499,Personal-Use Buyers,80,F,USA,Colorado,Home,3,Yes,Agency
+C0500,Corporate Investment Buyers,49,M,USA,California,Home,4,Yes,Website
+C0501,Corporate Investment Buyers,31,M,USA,Nevada,Investment,5,Yes,Agency
+C0502,Personal-Use Buyers,60,F,USA,Arizona,Home,4,No,Website
+C0503,Corporate Investment Buyers,83,M,USA,Utah,Investment,2,Yes,Client
+C0504,Corporate Investment Buyers,34,M,USA,Utah,Home,2,No,Website
+C0505,Personal-Use Buyers,31,F,USA,Arizona,Home,3,No,Agency
+C0506,Corporate Investment Buyers,59,M,USA,California,Home,5,No,Agency
+C0507,Corporate Investment Buyers,75,M,USA,New York,Home,3,No,Website
+C0508,Personal-Use Buyers,56,F,USA,Nevada,Home,5,No,Agency
+C0509,Corporate Investment Buyers,70,M,Belgium,Wallonia,Home,3,No,Website
+C0510,Personal-Use Buyers,79,F,France,Brittany,Investment,1,Yes,Website
+C0511,Personal-Use Buyers,72,F,UK,England,Home,2,No,Website
+C0512,Personal-Use Buyers,81,F,USA,Arizona,Home,1,No,Client
+C0513,Corporate Investment Buyers,27,M,USA,Florida,Home,2,Yes,Agency
+C0514,Personal-Use Buyers,49,F,USA,Oregon,Home,1,Yes,Website
+C0515,Personal-Use Buyers,63,F,USA,California,Home,1,Yes,Website
+C0516,Corporate Investment Buyers,80,M,USA,Utah,Home,3,No,Website
+C0517,Corporate Investment Buyers,67,M,USA,California,Home,5,No,Client
+C0518,Mixed-Purpose Buyers,64,F,USA,New York,Home,3,No,Website
+C0519,Personal-Use Buyers,51,F,USA,Arizona,Investment,3,No,Agency
+C0520,Personal-Use Buyers,56,F,USA,Oregon,Home,3,Yes,Agency
+C0521,Personal-Use Buyers,59,F,Canada,British Columbia,Home,3,No,Website
+C0522,Personal-Use Buyers,84,F,USA,Virginia,Home,5,No,Agency
+C0523,Personal-Use Buyers,66,F,USA,Colorado,Home,2,No,Agency
+C0524,Corporate Investment Buyers,73,M,USA,Washington,Home,3,No,Website
+C0525,Corporate Investment Buyers,76,M,USA,Arizona,Home,4,Yes,Agency
+C0526,Corporate Investment Buyers,58,M,Germany,Bavaria,Home,5,No,Website
+C0527,Corporate Investment Buyers,47,M,USA,California,Home,2,No,Website
+C0528,Corporate Investment Buyers,26,M,USA,Washington,Investment,2,No,Client
+C0529,Corporate Investment Buyers,53,M,USA,Nevada,Home,4,Yes,Website
+C0530,Personal-Use Buyers,74,F,USA,Utah,Home,2,Yes,Agency
+C0531,Personal-Use Buyers,50,F,USA,California,Home,1,No,Website
+C0532,Personal-Use Buyers,47,F,Belgium,Flanders,Home,2,No,Website
+C0533,Corporate Investment Buyers,63,M,USA,Nevada,Investment,1,No,Agency
+C0534,Corporate Investment Buyers,68,M,USA,California,Investment,1,No,Agency
+C0535,Personal-Use Buyers,39,F,UK,Wales,Home,3,No,Agency
+C0536,Personal-Use Buyers,70,F,USA,Arizona,Investment,5,Yes,Website
+C0537,Corporate Investment Buyers,64,M,USA,Florida,Home,2,No,Client
+C0538,Corporate Investment Buyers,57,M,USA,California,Home,1,Yes,Agency
+C0539,Corporate Investment Buyers,35,M,USA,California,Investment,1,Yes,Agency
+C0540,Personal-Use Buyers,29,F,USA,New York,Home,3,No,Agency
+C0541,Corporate Investment Buyers,26,M,UK,Northern Ireland,Home,3,No,Agency
+C0542,Mixed-Purpose Buyers,41,M,Mexico,Mexico City,Home,3,No,Website
+C0543,Personal-Use Buyers,79,F,USA,Texas,Home,2,Yes,Website
+C0544,Corporate Investment Buyers,52,M,USA,Utah,Home,2,No,Website
+C0545,Corporate Investment Buyers,84,M,USA,Colorado,Home,1,Yes,Agency
+C0546,Investment-Oriented Buyers,59,M,Canada,Manitoba,Home,4,No,Client
+C0547,Personal-Use Buyers,79,F,USA,California,Investment,2,No,Agency
+C0548,Corporate Investment Buyers,46,M,USA,California,Home,2,No,Agency
+C0549,Corporate Investment Buyers,54,M,USA,Florida,Home,4,No,Website
+C0550,Mixed-Purpose Buyers,59,F,USA,Nevada,Home,1,No,Agency
+C0551,Corporate Investment Buyers,66,M,USA,California,Investment,4,No,Website
+C0552,Corporate Investment Buyers,61,M,USA,Virginia,Investment,3,No,Agency
+C0553,Corporate Investment Buyers,48,M,USA,Arizona,Home,3,No,Website
+C0554,Corporate Investment Buyers,78,M,Australia,Victoria,Home,1,Yes,Agency
+C0555,Corporate Investment Buyers,55,M,USA,California,Investment,4,Yes,Agency
+C0556,Corporate Investment Buyers,68,M,USA,Colorado,Home,5,No,Website
+C0557,Personal-Use Buyers,85,F,USA,Utah,Investment,2,No,Website
+C0558,Personal-Use Buyers,52,F,Denmark,North Denmark,Home,3,No,Website
+C0559,Mixed-Purpose Buyers,57,M,USA,California,Home,5,No,Client
+C0560,Personal-Use Buyers,38,F,Australia,South Australia,Home,3,No,Website
+C0561,Mixed-Purpose Buyers,64,F,USA,Arizona,Investment,3,No,Website
+C0562,Personal-Use Buyers,86,F,USA,Utah,Investment,5,Yes,Website
+C0563,Corporate Investment Buyers,35,M,USA,California,Home,2,Yes,Agency
+C0564,Corporate Investment Buyers,74,M,USA,Texas,Home,1,No,Agency
+C0565,Corporate Investment Buyers,41,M,France,Brittany,Home,1,No,Website
+C0566,Personal-Use Buyers,26,F,USA,Oregon,Investment,4,Yes,Agency
+C0567,Personal-Use Buyers,73,F,Russia,Saint Petersburg,Investment,2,Yes,Agency
+C0568,Corporate Investment Buyers,73,M,USA,California,Home,3,No,Website
+C0569,Personal-Use Buyers,55,F,USA,California,Home,5,Yes,Client
+C0570,Personal-Use Buyers,61,F,France,Occitanie,Home,5,Yes,Website
+C0571,Corporate Investment Buyers,60,M,USA,California,Home,3,No,Website
+C0572,Personal-Use Buyers,33,F,USA,California,Investment,5,No,Website
+C0573,Mixed-Purpose Buyers,49,M,USA,Georgia,Home,4,Yes,Agency
+C0574,Corporate Investment Buyers,58,M,USA,California,Home,2,No,Agency
+C0575,Corporate Investment Buyers,60,M,USA,California,Investment,2,No,Website
+C0576,Corporate Investment Buyers,67,M,Germany,Hamburg,Home,1,No,Client
+C0577,Corporate Investment Buyers,37,M,USA,Arizona,Home,3,No,Website
+C0578,Personal-Use Buyers,27,F,USA,Arizona,Home,5,Yes,Client
+C0579,Corporate Investment Buyers,85,M,USA,Texas,Investment,3,No,Website
+C0580,Personal-Use Buyers,78,F,USA,California,Home,2,Yes,Client
+C0581,Personal-Use Buyers,69,F,USA,California,Investment,5,Yes,Website
+C0582,Personal-Use Buyers,86,F,USA,Washington,Investment,3,Yes,Website
+C0583,Corporate Investment Buyers,40,M,USA,California,Home,2,No,Agency
+C0584,Personal-Use Buyers,44,F,USA,California,Home,5,No,Website
+C0585,Corporate Investment Buyers,65,M,USA,Colorado,Home,3,No,Agency
+C0586,Corporate Investment Buyers,49,M,USA,California,Home,2,Yes,Client
+C0587,Personal-Use Buyers,34,F,USA,New York,Home,4,No,Website
+C0588,Personal-Use Buyers,37,F,USA,Florida,Home,2,No,Website
+C0589,Corporate Investment Buyers,80,M,USA,Texas,Investment,5,No,Client
+C0590,Corporate Investment Buyers,60,M,UK,Scotland,Investment,2,No,Website
+C0591,Personal-Use Buyers,58,F,USA,Nevada,Home,1,No,Website
+C0592,Corporate Investment Buyers,54,M,USA,Arizona,Investment,2,No,Client
+C0593,Personal-Use Buyers,74,F,USA,California,Home,2,Yes,Agency
+C0594,Personal-Use Buyers,84,F,USA,Utah,Home,1,No,Agency
+C0595,Personal-Use Buyers,60,F,USA,Utah,Home,3,No,Agency
+C0596,Corporate Investment Buyers,50,M,USA,Nevada,Home,4,No,Agency
+C0597,Corporate Investment Buyers,40,M,UK,Northern Ireland,Home,2,Yes,Website
+C0598,Corporate Investment Buyers,77,M,USA,Colorado,Investment,4,No,Website
+C0599,Personal-Use Buyers,28,F,Canada,Alberta,Home,2,No,Agency
+C0600,Corporate Investment Buyers,42,M,USA,Oregon,Investment,1,No,Client
+C0601,Personal-Use Buyers,54,F,USA,California,Home,4,No,Website
+C0602,Corporate Investment Buyers,42,M,Germany,Bavaria,Home,4,No,Agency
+C0603,Personal-Use Buyers,32,F,USA,New York,Home,4,Yes,Agency
+C0604,Personal-Use Buyers,28,F,Belgium,Wallonia,Home,1,No,Agency
+C0605,Corporate Investment Buyers,52,M,USA,Utah,Home,4,Yes,Agency
+C0606,Personal-Use Buyers,77,F,France,Ile-de-France,Investment,1,No,Website
+C0607,Corporate Investment Buyers,64,M,USA,California,Home,1,No,Agency
+C0608,Corporate Investment Buyers,70,M,USA,California,Home,4,No,Agency
+C0609,Personal-Use Buyers,65,F,USA,Washington,Home,4,No,Agency
+C0610,Personal-Use Buyers,56,F,USA,California,Investment,4,No,Website
+C0611,Corporate Investment Buyers,76,M,USA,California,Home,4,No,Agency
+C0612,Corporate Investment Buyers,66,M,USA,Florida,Home,4,No,Agency
+C0613,Personal-Use Buyers,31,F,Australia,Victoria,Home,4,No,Agency
+C0614,Corporate Investment Buyers,54,M,UK,Wales,Home,3,Yes,Website
+C0615,Corporate Investment Buyers,69,M,USA,Utah,Home,2,Yes,Website
+C0616,Personal-Use Buyers,63,F,USA,Virginia,Investment,1,Yes,Agency
+C0617,Personal-Use Buyers,40,F,USA,Ohio,Home,5,Yes,Website
+C0618,Corporate Investment Buyers,58,M,USA,Texas,Home,3,No,Agency
+C0619,Personal-Use Buyers,56,F,USA,Washington,Home,4,No,Website
+C0620,Personal-Use Buyers,66,F,France,Brittany,Home,3,No,Website
+C0621,Corporate Investment Buyers,44,M,Germany,Bavaria,Investment,3,Yes,Agency
+C0622,Personal-Use Buyers,39,F,USA,Washington,Investment,2,No,Client
+C0623,Corporate Investment Buyers,40,M,USA,Florida,Investment,3,Yes,Client
+C0624,Corporate Investment Buyers,26,M,USA,Nevada,Investment,3,No,Agency
+C0625,Personal-Use Buyers,43,F,Belgium,Flanders,Investment,2,Yes,Agency
+C0626,Personal-Use Buyers,58,F,Germany,Hamburg,Investment,2,No,Website
+C0627,Personal-Use Buyers,26,F,USA,Arizona,Home,3,No,Agency
+C0628,Corporate Investment Buyers,41,M,Canada,British Columbia,Home,3,Yes,Agency
+C0629,Personal-Use Buyers,80,F,USA,California,Investment,2,No,Agency
+C0630,Corporate Investment Buyers,61,M,USA,California,Home,2,No,Website
+C0631,Personal-Use Buyers,60,F,USA,California,Home,5,No,Website
+C0632,Corporate Investment Buyers,78,M,UK,Northern Ireland,Home,4,No,Website
+C0633,Personal-Use Buyers,85,F,USA,Nevada,Home,3,No,Agency
+C0634,Corporate Investment Buyers,46,M,USA,Washington,Investment,4,Yes,Website
+C0635,Personal-Use Buyers,66,F,UK,Scotland,Investment,5,No,Website
+C0636,Personal-Use Buyers,46,F,France,Brittany,Home,5,No,Website
+C0637,Personal-Use Buyers,59,F,USA,California,Home,2,No,Website
+C0638,Corporate Investment Buyers,51,M,USA,Ohio,Home,5,Yes,Website
+C0639,Corporate Investment Buyers,65,M,UK,Scotland,Home,3,Yes,Website
+C0640,Personal-Use Buyers,59,F,USA,Utah,Home,3,No,Agency
+C0641,Mixed-Purpose Buyers,32,M,USA,Arizona,Home,2,No,Agency
+C0642,Personal-Use Buyers,59,F,USA,California,Home,4,No,Website
+C0643,Personal-Use Buyers,52,F,USA,California,Home,5,No,Website
+C0644,Personal-Use Buyers,70,F,USA,California,Home,4,Yes,Agency
+C0645,Corporate Investment Buyers,38,M,USA,Nevada,Home,2,No,Client
+C0646,Personal-Use Buyers,31,F,USA,Arizona,Investment,5,No,Agency
+C0647,Personal-Use Buyers,80,F,USA,California,Home,4,No,Agency
+C0648,Personal-Use Buyers,27,F,USA,California,Home,1,Yes,Website
+C0649,Personal-Use Buyers,31,F,USA,California,Home,4,No,Agency
+C0650,Mixed-Purpose Buyers,50,M,France,Occitanie,Home,3,Yes,Client
+C0651,Mixed-Purpose Buyers,33,M,USA,Washington,Home,1,No,Agency
+C0652,Personal-Use Buyers,33,F,USA,Washington,Home,2,No,Website
+C0653,Corporate Investment Buyers,56,M,USA,Ohio,Home,2,No,Client
+C0654,Corporate Investment Buyers,66,M,USA,New York,Home,2,Yes,Website
+C0655,Personal-Use Buyers,76,F,USA,Nevada,Home,1,Yes,Agency
+C0656,Personal-Use Buyers,49,F,USA,Colorado,Home,5,No,Client
+C0657,Corporate Investment Buyers,70,M,USA,California,Home,2,No,Agency
+C0658,Personal-Use Buyers,27,F,USA,Virginia,Home,3,Yes,Agency
+C0659,Personal-Use Buyers,38,F,USA,California,Home,4,Yes,Agency
+C0660,Corporate Investment Buyers,35,M,USA,Arizona,Home,4,Yes,Client
+C0661,Investment-Oriented Buyers,65,F,Canada,Manitoba,Home,3,No,Website
+C0662,Personal-Use Buyers,69,F,USA,California,Investment,3,No,Website
+C0663,Corporate Investment Buyers,68,M,USA,California,Home,2,Yes,Agency
+C0664,Corporate Investment Buyers,68,M,Canada,Alberta,Investment,5,Yes,Website
+C0665,Corporate Investment Buyers,67,M,USA,Colorado,Investment,1,No,Agency
+C0666,Personal-Use Buyers,78,F,USA,California,Investment,1,No,Website
+C0667,Corporate Investment Buyers,60,M,USA,Arizona,Investment,2,No,Agency
+C0668,Personal-Use Buyers,48,F,France,Ile-de-France,Investment,4,Yes,Website
+C0669,Personal-Use Buyers,68,F,Canada,British Columbia,Home,3,No,Agency
+C0670,Mixed-Purpose Buyers,50,M,USA,Nevada,Investment,4,No,Website
+C0671,Corporate Investment Buyers,85,M,USA,Colorado,Home,4,Yes,Client
+C0672,Personal-Use Buyers,59,F,USA,California,Home,2,No,Website
+C0673,Personal-Use Buyers,61,F,USA,California,Home,4,No,Website
+C0674,Personal-Use Buyers,40,F,USA,California,Investment,4,No,Website
+C0675,Personal-Use Buyers,57,F,USA,Texas,Home,5,No,Website
+C0676,Personal-Use Buyers,84,F,USA,Nevada,Home,2,No,Agency
+C0677,Corporate Investment Buyers,45,M,USA,Arizona,Investment,2,No,Agency
+C0678,Corporate Investment Buyers,54,M,USA,California,Home,4,Yes,Website
+C0679,Personal-Use Buyers,62,F,USA,Nevada,Home,1,No,Agency
+C0680,Corporate Investment Buyers,61,M,USA,Utah,Investment,2,No,Agency
+C0681,Mixed-Purpose Buyers,49,F,USA,California,Home,3,No,Agency
+C0682,Corporate Investment Buyers,53,M,USA,California,Home,5,No,Website
+C0683,Corporate Investment Buyers,78,M,USA,Colorado,Home,2,Yes,Agency
+C0684,Corporate Investment Buyers,41,M,USA,California,Home,1,No,Agency
+C0685,Personal-Use Buyers,39,F,USA,Washington,Home,5,No,Agency
+C0686,Corporate Investment Buyers,63,M,USA,California,Home,1,Yes,Website
+C0687,Personal-Use Buyers,67,F,USA,Utah,Home,3,Yes,Website
+C0688,Personal-Use Buyers,58,F,USA,Colorado,Investment,5,Yes,Website
+C0689,Personal-Use Buyers,28,F,USA,California,Home,4,No,Website
+C0690,Personal-Use Buyers,41,F,USA,Oregon,Home,4,Yes,Agency
+C0691,Corporate Investment Buyers,83,M,USA,California,Investment,4,No,Agency
+C0692,Corporate Investment Buyers,62,M,USA,Georgia,Investment,3,No,Agency
+C0693,Corporate Investment Buyers,69,M,USA,California,Investment,5,Yes,Agency
+C0694,Mixed-Purpose Buyers,37,M,UK,Scotland,Investment,2,No,Website
+C0695,Corporate Investment Buyers,79,M,USA,Washington,Home,4,No,Website
+C0696,Personal-Use Buyers,32,F,USA,Washington,Investment,5,Yes,Agency
+C0697,Corporate Investment Buyers,40,M,USA,California,Investment,4,Yes,Agency
+C0698,Personal-Use Buyers,80,F,USA,California,Home,2,Yes,Website
+C0699,Corporate Investment Buyers,40,M,USA,Washington,Home,1,Yes,Agency
+C0700,Personal-Use Buyers,82,F,USA,Washington,Home,5,No,Website
+C0701,Personal-Use Buyers,64,F,UK,England,Investment,1,No,Website
+C0702,Corporate Investment Buyers,60,M,USA,Arizona,Home,5,No,Agency
+C0703,Mixed-Purpose Buyers,42,M,USA,Colorado,Home,3,No,Website
+C0704,Personal-Use Buyers,84,F,USA,Georgia,Home,4,No,Agency
+C0705,Corporate Investment Buyers,86,M,USA,Nevada,Home,3,No,Website
+C0706,Corporate Investment Buyers,42,M,UK,England,Investment,2,No,Client
+C0707,Corporate Investment Buyers,31,M,USA,Virginia,Home,5,Yes,Website
+C0708,Corporate Investment Buyers,62,M,USA,California,Home,2,No,Client
+C0709,Personal-Use Buyers,44,F,USA,Georgia,Home,2,Yes,Agency
+C0710,Corporate Investment Buyers,80,M,USA,Oregon,Home,2,Yes,Agency
+C0711,Personal-Use Buyers,31,F,USA,California,Investment,3,No,Agency
+C0712,Corporate Investment Buyers,35,M,USA,California,Home,1,No,Agency
+C0713,Personal-Use Buyers,29,F,USA,California,Investment,3,No,Agency
+C0714,Corporate Investment Buyers,49,M,Russia,Saint Petersburg,Home,3,No,Website
+C0715,Personal-Use Buyers,44,F,USA,Utah,Home,3,No,Website
+C0716,Corporate Investment Buyers,32,M,UK,Northern Ireland,Home,1,No,Client
+C0717,Personal-Use Buyers,80,F,USA,Arizona,Investment,3,Yes,Agency
+C0718,Personal-Use Buyers,82,F,France,Ile-de-France,Home,2,Yes,Website
+C0719,Corporate Investment Buyers,52,M,USA,California,Investment,2,Yes,Agency
+C0720,Personal-Use Buyers,45,F,USA,California,Investment,1,Yes,Agency
+C0721,Personal-Use Buyers,27,F,USA,Florida,Home,4,No,Website
+C0722,Personal-Use Buyers,83,F,USA,Texas,Home,1,No,Website
+C0723,Personal-Use Buyers,27,F,Germany,North Rhine-Westphalia,Home,3,Yes,Website
+C0724,Corporate Investment Buyers,66,M,USA,Arizona,Investment,4,Yes,Agency
+C0725,Personal-Use Buyers,43,F,USA,New York,Home,3,No,Website
+C0726,Personal-Use Buyers,49,F,USA,Georgia,Home,4,No,Website
+C0727,Corporate Investment Buyers,85,M,USA,California,Investment,3,Yes,Client
+C0728,Corporate Investment Buyers,55,M,USA,California,Home,3,Yes,Agency
+C0729,Corporate Investment Buyers,82,M,USA,Washington,Investment,3,Yes,Agency
+C0730,Corporate Investment Buyers,38,M,USA,California,Investment,4,No,Website
+C0731,Corporate Investment Buyers,26,M,USA,California,Home,5,No,Agency
+C0732,Corporate Investment Buyers,41,M,USA,Oregon,Home,5,No,Website
+C0733,Personal-Use Buyers,50,F,USA,Nevada,Home,5,No,Agency
+C0734,Personal-Use Buyers,45,F,USA,Virginia,Investment,5,Yes,Client
+C0735,Corporate Investment Buyers,32,M,Germany,Hesse,Investment,4,No,Website
+C0736,Corporate Investment Buyers,84,M,USA,Utah,Investment,3,No,Agency
+C0737,Corporate Investment Buyers,48,M,USA,California,Investment,3,No,Agency
+C0738,Corporate Investment Buyers,46,M,USA,Texas,Home,5,No,Website
+C0739,Corporate Investment Buyers,61,M,USA,California,Home,2,No,Agency
+C0740,Personal-Use Buyers,60,F,USA,Utah,Investment,1,No,Client
+C0741,Personal-Use Buyers,64,F,USA,California,Home,2,No,Website
+C0742,Corporate Investment Buyers,46,M,UK,Wales,Home,1,Yes,Website
+C0743,Corporate Investment Buyers,54,M,USA,Oregon,Investment,4,Yes,Website
+C0744,Personal-Use Buyers,76,F,USA,Virginia,Home,1,No,Website
+C0745,Personal-Use Buyers,29,F,USA,California,Investment,5,No,Website
+C0746,Corporate Investment Buyers,70,M,UK,Scotland,Home,4,No,Website
+C0747,Corporate Investment Buyers,34,M,USA,Florida,Home,4,Yes,Website
+C0748,Mixed-Purpose Buyers,52,F,USA,California,Home,1,Yes,Client
+C0749,Personal-Use Buyers,34,F,USA,New York,Home,5,No,Agency
+C0750,Personal-Use Buyers,50,F,USA,Nevada,Investment,1,No,Agency
+C0751,Corporate Investment Buyers,52,M,USA,California,Home,5,No,Client
+C0752,Personal-Use Buyers,72,F,Belgium,Brussels,Investment,3,No,Agency
+C0753,Corporate Investment Buyers,66,M,Germany,Hamburg,Home,5,No,Website
+C0754,Personal-Use Buyers,56,F,USA,Arizona,Investment,3,No,Website
+C0755,Mixed-Purpose Buyers,59,F,USA,California,Home,5,No,Website
+C0756,Personal-Use Buyers,63,F,USA,Utah,Home,5,Yes,Website
+C0757,Corporate Investment Buyers,80,M,USA,Oregon,Home,3,Yes,Website
+C0758,Corporate Investment Buyers,68,M,USA,California,Investment,2,No,Website
+C0759,Corporate Investment Buyers,35,M,USA,Florida,Home,4,No,Website
+C0760,Personal-Use Buyers,62,F,USA,California,Investment,3,No,Website
+C0761,Personal-Use Buyers,45,F,Belgium,Flanders,Home,2,No,Agency
+C0762,Personal-Use Buyers,59,F,USA,Ohio,Home,4,No,Website
+C0763,Mixed-Purpose Buyers,55,F,USA,Georgia,Home,3,No,Agency
+C0764,Personal-Use Buyers,43,F,UK,Northern Ireland,Investment,4,No,Client
+C0765,Corporate Investment Buyers,59,M,France,Brittany,Home,3,No,Website
+C0766,Corporate Investment Buyers,32,M,Germany,North Rhine-Westphalia,Home,3,Yes,Client
+C0767,Corporate Investment Buyers,65,M,Canada,British Columbia,Investment,2,No,Agency
+C0768,Corporate Investment Buyers,34,M,Denmark,Southern Denmark,Investment,5,Yes,Website
+C0769,Personal-Use Buyers,68,F,USA,Ohio,Home,4,No,Agency
+C0770,Personal-Use Buyers,75,F,Russia,Krasnodar Krai,Home,4,No,Website
+C0771,Mixed-Purpose Buyers,42,M,USA,California,Home,1,No,Website
+C0772,Corporate Investment Buyers,35,M,USA,California,Investment,1,No,Client
+C0773,Corporate Investment Buyers,62,M,Russia,Saint Petersburg,Home,1,No,Website
+C0774,Corporate Investment Buyers,43,M,USA,Georgia,Home,5,Yes,Agency
+C0775,Personal-Use Buyers,51,F,USA,Arizona,Home,1,No,Agency
+C0776,Personal-Use Buyers,60,F,Germany,Bavaria,Home,4,Yes,Agency
+C0777,Mixed-Purpose Buyers,44,M,USA,Arizona,Home,1,No,Client
+C0778,Corporate Investment Buyers,28,M,USA,California,Investment,4,Yes,Agency
+C0779,Personal-Use Buyers,73,F,USA,California,Home,5,Yes,Agency
+C0780,Personal-Use Buyers,79,F,USA,California,Home,3,No,Website
+C0781,Corporate Investment Buyers,86,M,USA,California,Investment,5,Yes,Website
+C0782,Corporate Investment Buyers,56,M,USA,Utah,Investment,2,Yes,Website
+C0783,Personal-Use Buyers,65,F,Canada,Alberta,Home,1,Yes,Agency
+C0784,Corporate Investment Buyers,53,M,Mexico,Baja California,Investment,4,No,Website
+C0785,Mixed-Purpose Buyers,55,F,USA,California,Home,2,No,Website
+C0786,Personal-Use Buyers,43,F,USA,California,Investment,3,No,Website
+C0787,Corporate Investment Buyers,76,M,USA,Washington,Home,1,No,Website
+C0788,Corporate Investment Buyers,82,M,France,Brittany,Investment,4,No,Website
+C0789,Personal-Use Buyers,52,F,Canada,Ontario,Investment,1,No,Website
+C0790,Corporate Investment Buyers,52,M,USA,California,Home,5,Yes,Agency
+C0791,Corporate Investment Buyers,43,M,USA,Texas,Home,4,No,Website
+C0792,Corporate Investment Buyers,44,M,USA,California,Investment,4,Yes,Website
+C0793,Corporate Investment Buyers,57,M,USA,New York,Home,4,No,Agency
+C0794,Corporate Investment Buyers,75,M,USA,California,Home,4,Yes,Website
+C0795,Corporate Investment Buyers,57,M,USA,California,Investment,4,Yes,Website
+C0796,Personal-Use Buyers,43,F,USA,California,Investment,5,Yes,Website
+C0797,Personal-Use Buyers,36,F,USA,Oregon,Home,5,Yes,Agency
+C0798,Mixed-Purpose Buyers,61,M,USA,Nevada,Home,4,Yes,Agency
+C0799,Personal-Use Buyers,72,F,USA,California,Home,4,No,Website
+C0800,Corporate Investment Buyers,52,M,USA,Virginia,Investment,5,Yes,Website
+C0801,Personal-Use Buyers,57,F,USA,Washington,Home,4,Yes,Website
+C0802,Corporate Investment Buyers,56,M,USA,Virginia,Home,5,No,Agency
+C0803,Personal-Use Buyers,81,F,USA,Texas,Home,4,No,Agency
+C0804,Corporate Investment Buyers,59,M,USA,Washington,Home,5,No,Agency
+C0805,Corporate Investment Buyers,73,M,Germany,Berlin,Home,1,Yes,Website
+C0806,Corporate Investment Buyers,37,M,France,Ile-de-France,Home,5,No,Client
+C0807,Personal-Use Buyers,33,F,Mexico,Mexico City,Investment,5,No,Website
+C0808,Corporate Investment Buyers,83,M,Germany,Berlin,Home,3,Yes,Website
+C0809,Personal-Use Buyers,59,F,France,Occitanie,Home,5,Yes,Agency
+C0810,Corporate Investment Buyers,31,M,USA,California,Home,1,Yes,Website
+C0811,Corporate Investment Buyers,81,M,UK,Wales,Home,3,No,Agency
+C0812,Corporate Investment Buyers,52,M,UK,Northern Ireland,Home,3,Yes,Website
+C0813,Corporate Investment Buyers,52,M,UK,Scotland,Investment,3,No,Agency
+C0814,Personal-Use Buyers,62,F,USA,California,Home,2,No,Website
+C0815,Mixed-Purpose Buyers,61,F,USA,Nevada,Home,4,Yes,Agency
+C0816,Personal-Use Buyers,79,F,Germany,Hamburg,Home,2,Yes,Website
+C0817,Personal-Use Buyers,54,F,USA,California,Investment,1,No,Website
+C0818,Mixed-Purpose Buyers,35,F,USA,Colorado,Home,2,No,Website
+C0819,Corporate Investment Buyers,75,M,USA,California,Home,5,No,Website
+C0820,Personal-Use Buyers,86,F,USA,Texas,Investment,4,No,Agency
+C0821,Personal-Use Buyers,69,F,USA,California,Home,5,Yes,Agency
+C0822,Personal-Use Buyers,67,F,USA,California,Investment,3,Yes,Website
+C0823,Personal-Use Buyers,51,F,USA,Oregon,Investment,5,Yes,Agency
+C0824,Corporate Investment Buyers,50,M,USA,California,Home,3,No,Agency
+C0825,Personal-Use Buyers,44,F,Mexico,Nuevo Leon,Home,4,Yes,Agency
+C0826,Corporate Investment Buyers,56,M,USA,Ohio,Investment,4,Yes,Website
+C0827,Personal-Use Buyers,61,F,USA,Washington,Home,2,Yes,Website
+C0828,Personal-Use Buyers,79,F,USA,Arizona,Investment,4,Yes,Website
+C0829,Corporate Investment Buyers,66,M,USA,Utah,Investment,3,No,Website
+C0830,Corporate Investment Buyers,74,M,USA,Oregon,Investment,3,No,Agency
+C0831,Personal-Use Buyers,49,F,USA,California,Home,2,No,Website
+C0832,Personal-Use Buyers,36,F,USA,Nevada,Investment,3,Yes,Website
+C0833,Corporate Investment Buyers,75,M,Denmark,Southern Denmark,Home,5,No,Website
+C0834,Personal-Use Buyers,69,F,USA,California,Home,5,No,Website
+C0835,Personal-Use Buyers,52,F,USA,California,Home,5,Yes,Website
+C0836,Corporate Investment Buyers,84,M,USA,Ohio,Home,4,No,Website
+C0837,Corporate Investment Buyers,59,M,France,Brittany,Home,1,No,Website
+C0838,Corporate Investment Buyers,34,M,USA,Nevada,Investment,1,Yes,Website
+C0839,Personal-Use Buyers,32,F,UK,England,Home,5,Yes,Agency
+C0840,Personal-Use Buyers,45,F,Belgium,Brussels,Home,1,No,Website
+C0841,Corporate Investment Buyers,27,M,Belgium,Wallonia,Home,5,No,Website
+C0842,Corporate Investment Buyers,30,M,USA,Washington,Home,5,Yes,Client
+C0843,Personal-Use Buyers,26,F,USA,Georgia,Home,4,No,Agency
+C0844,Personal-Use Buyers,79,F,USA,California,Home,2,No,Website
+C0845,Personal-Use Buyers,33,F,USA,Washington,Home,3,No,Client
+C0846,Personal-Use Buyers,50,F,Canada,Quebec,Investment,3,No,Agency
+C0847,Personal-Use Buyers,38,F,USA,Utah,Home,2,Yes,Agency
+C0848,Corporate Investment Buyers,59,M,USA,California,Home,4,No,Agency
+C0849,Corporate Investment Buyers,49,M,USA,Oregon,Home,1,Yes,Website
+C0850,Personal-Use Buyers,43,F,USA,Colorado,Investment,5,No,Agency
+C0851,Corporate Investment Buyers,33,M,USA,California,Investment,2,Yes,Website
+C0852,Corporate Investment Buyers,37,M,Germany,North Rhine-Westphalia,Home,2,No,Agency
+C0853,Corporate Investment Buyers,76,M,USA,Utah,Home,4,No,Website
+C0854,Corporate Investment Buyers,82,M,USA,California,Home,4,No,Website
+C0855,Personal-Use Buyers,53,F,Australia,Queensland,Home,4,No,Website
+C0856,Personal-Use Buyers,62,F,USA,Florida,Home,5,Yes,Website
+C0857,Personal-Use Buyers,75,F,USA,California,Investment,1,Yes,Website
+C0858,Corporate Investment Buyers,32,M,USA,Nevada,Home,1,No,Website
+C0859,Personal-Use Buyers,84,F,USA,California,Home,2,Yes,Agency
+C0860,Personal-Use Buyers,58,F,USA,Utah,Home,5,Yes,Website
+C0861,Personal-Use Buyers,32,F,France,Brittany,Investment,2,No,Agency
+C0862,Personal-Use Buyers,45,F,USA,Colorado,Investment,1,No,Website
+C0863,Corporate Investment Buyers,51,M,Belgium,Wallonia,Home,5,Yes,Agency
+C0864,Corporate Investment Buyers,56,M,USA,Texas,Home,3,No,Website
+C0865,Personal-Use Buyers,51,F,USA,Colorado,Investment,5,Yes,Website
+C0866,Corporate Investment Buyers,39,M,Belgium,Brussels,Home,3,No,Agency
+C0867,Personal-Use Buyers,59,F,USA,California,Home,2,No,Agency
+C0868,Personal-Use Buyers,81,F,USA,Florida,Home,3,Yes,Agency
+C0869,Corporate Investment Buyers,33,M,USA,California,Home,4,No,Agency
+C0870,Mixed-Purpose Buyers,60,F,UK,Northern Ireland,Home,2,Yes,Website
+C0871,Personal-Use Buyers,37,F,USA,Virginia,Home,1,Yes,Website
+C0872,Personal-Use Buyers,83,F,UK,England,Home,4,No,Website
+C0873,Corporate Investment Buyers,86,M,USA,New York,Home,2,No,Website
+C0874,Personal-Use Buyers,73,F,Belgium,Flanders,Investment,2,No,Website
+C0875,Investment-Oriented Buyers,54,M,Canada,Manitoba,Home,4,No,Website
+C0876,Corporate Investment Buyers,53,M,USA,California,Home,3,No,Client
+C0877,Personal-Use Buyers,28,F,USA,Utah,Investment,2,Yes,Agency
+C0878,Personal-Use Buyers,81,F,USA,Nevada,Home,4,Yes,Website
+C0879,Corporate Investment Buyers,81,M,UK,Northern Ireland,Home,4,Yes,Website
+C0880,Personal-Use Buyers,85,F,USA,New York,Home,2,No,Website
+C0881,Personal-Use Buyers,72,F,USA,Colorado,Investment,1,No,Website
+C0882,Corporate Investment Buyers,26,M,UK,Wales,Home,3,No,Website
+C0883,Corporate Investment Buyers,80,M,USA,Texas,Home,4,No,Client
+C0884,Corporate Investment Buyers,77,M,USA,Nevada,Home,2,No,Website
+C0885,Corporate Investment Buyers,85,M,Canada,British Columbia,Investment,2,Yes,Agency
+C0886,Corporate Investment Buyers,65,M,USA,California,Home,3,Yes,Agency
+C0887,Personal-Use Buyers,33,F,USA,California,Home,3,No,Agency
+C0888,Personal-Use Buyers,39,F,Germany,Berlin,Home,4,Yes,Website
+C0889,Corporate Investment Buyers,41,M,USA,Nevada,Investment,4,Yes,Website
+C0890,Personal-Use Buyers,71,F,USA,Virginia,Investment,3,Yes,Website
+C0891,Corporate Investment Buyers,56,M,Germany,North Rhine-Westphalia,Investment,1,Yes,Website
+C0892,Personal-Use Buyers,68,F,USA,California,Investment,2,Yes,Website
+C0893,Personal-Use Buyers,31,F,USA,Colorado,Home,3,Yes,Website
+C0894,Corporate Investment Buyers,73,M,USA,Georgia,Home,5,No,Website
+C0895,Personal-Use Buyers,73,F,USA,Arizona,Investment,4,Yes,Website
+C0896,Corporate Investment Buyers,56,M,France,Brittany,Home,4,Yes,Agency
+C0897,Personal-Use Buyers,55,F,Australia,Victoria,Home,1,No,Website
+C0898,Personal-Use Buyers,73,F,USA,Arizona,Investment,5,Yes,Agency
+C0899,Mixed-Purpose Buyers,38,F,USA,Washington,Investment,2,No,Website
+C0900,Personal-Use Buyers,27,F,Germany,North Rhine-Westphalia,Home,4,No,Agency
+C0901,Corporate Investment Buyers,27,M,France,Brittany,Investment,4,No,Agency
+C0902,Mixed-Purpose Buyers,62,F,UK,Northern Ireland,Home,3,Yes,Agency
+C0903,Personal-Use Buyers,34,F,USA,Texas,Investment,3,No,Website
+C0904,Personal-Use Buyers,42,F,Russia,Saint Petersburg,Home,1,Yes,Website
+C0905,Personal-Use Buyers,33,F,USA,Virginia,Home,5,Yes,Website
+C0906,Personal-Use Buyers,57,F,USA,California,Investment,5,No,Website
+C0907,Personal-Use Buyers,53,F,USA,California,Home,3,No,Agency
+C0908,Corporate Investment Buyers,66,M,USA,California,Home,4,Yes,Agency
+C0909,Corporate Investment Buyers,59,M,USA,California,Investment,1,Yes,Agency
+C0910,Personal-Use Buyers,55,F,USA,Texas,Home,3,Yes,Agency
+C0911,Corporate Investment Buyers,37,M,USA,California,Home,4,No,Website
+C0912,Personal-Use Buyers,77,F,USA,California,Home,1,No,Agency
+C0913,Corporate Investment Buyers,27,M,USA,California,Home,4,No,Agency
+C0914,Personal-Use Buyers,78,F,France,Provence,Investment,4,No,Website
+C0915,Corporate Investment Buyers,78,M,USA,Florida,Home,2,No,Agency
+C0916,Corporate Investment Buyers,38,M,Russia,Moscow Oblast,Home,2,No,Website
+C0917,Corporate Investment Buyers,57,M,USA,Arizona,Home,2,Yes,Agency
+C0918,Personal-Use Buyers,26,F,Australia,Western Australia,Home,4,No,Client
+C0919,Personal-Use Buyers,51,F,Canada,Quebec,Investment,5,No,Agency
+C0920,Corporate Investment Buyers,53,M,USA,California,Home,4,No,Website
+C0921,Personal-Use Buyers,27,F,Australia,New South Wales,Home,4,No,Agency
+C0922,Corporate Investment Buyers,84,M,Australia,Victoria,Investment,4,Yes,Website
+C0923,Personal-Use Buyers,76,F,USA,Oregon,Home,3,No,Client
+C0924,Personal-Use Buyers,38,F,USA,California,Home,4,No,Website
+C0925,Corporate Investment Buyers,82,M,Germany,Hamburg,Home,2,No,Website
+C0926,Personal-Use Buyers,65,F,USA,California,Home,3,No,Website
+C0927,Personal-Use Buyers,64,F,France,Ile-de-France,Home,4,No,Client
+C0928,Corporate Investment Buyers,76,M,USA,California,Home,1,Yes,Agency
+C0929,Corporate Investment Buyers,72,M,USA,Washington,Home,4,No,Website
+C0930,Personal-Use Buyers,33,F,USA,Washington,Investment,1,Yes,Agency
+C0931,Corporate Investment Buyers,49,M,USA,Nevada,Investment,2,Yes,Client
+C0932,Personal-Use Buyers,77,F,USA,New York,Home,5,No,Website
+C0933,Personal-Use Buyers,71,F,USA,California,Home,4,No,Website
+C0934,Personal-Use Buyers,83,F,UK,Northern Ireland,Investment,5,Yes,Website
+C0935,Investment-Oriented Buyers,26,F,Canada,Manitoba,Home,4,No,Agency
+C0936,Personal-Use Buyers,75,F,USA,California,Home,3,No,Client
+C0937,Corporate Investment Buyers,44,M,USA,Arizona,Home,5,No,Client
+C0938,Corporate Investment Buyers,63,M,Russia,Krasnodar Krai,Home,4,No,Website
+C0939,Personal-Use Buyers,48,F,Belgium,Brussels,Investment,1,No,Website
+C0940,Corporate Investment Buyers,41,M,USA,Virginia,Investment,5,No,Website
+C0941,Personal-Use Buyers,71,F,Mexico,Jalisco,Home,1,No,Agency
+C0942,Personal-Use Buyers,35,F,USA,California,Home,1,No,Website
+C0943,Investment-Oriented Buyers,69,F,Canada,Manitoba,Investment,5,No,Website
+C0944,Personal-Use Buyers,70,F,USA,Florida,Home,2,No,Website
+C0945,Personal-Use Buyers,81,F,France,Provence,Home,4,No,Website
+C0946,Personal-Use Buyers,80,F,USA,Nevada,Investment,3,Yes,Agency
+C0947,Personal-Use Buyers,45,F,USA,Texas,Home,2,No,Website
+C0948,Personal-Use Buyers,37,F,USA,California,Investment,3,Yes,Website
+C0949,Personal-Use Buyers,83,F,USA,Colorado,Investment,5,Yes,Client
+C0950,Personal-Use Buyers,35,F,USA,Texas,Investment,5,No,Website
+C0951,Personal-Use Buyers,28,F,Mexico,Nuevo Leon,Home,1,Yes,Client
+C0952,Personal-Use Buyers,67,F,USA,Oregon,Home,5,No,Website
+C0953,Mixed-Purpose Buyers,31,M,USA,Washington,Home,5,Yes,Website
+C0954,Corporate Investment Buyers,76,M,France,Brittany,Investment,4,Yes,Agency
+C0955,Personal-Use Buyers,57,F,USA,California,Home,1,No,Website
+C0956,Corporate Investment Buyers,60,M,USA,California,Home,1,Yes,Website
+C0957,Mixed-Purpose Buyers,65,M,USA,Oregon,Home,2,Yes,Client
+C0958,Personal-Use Buyers,35,F,USA,Nevada,Home,1,Yes,Website
+C0959,Corporate Investment Buyers,74,M,USA,California,Home,3,No,Agency
+C0960,Personal-Use Buyers,66,F,USA,Arizona,Investment,1,Yes,Client
+C0961,Corporate Investment Buyers,52,M,UK,Wales,Home,2,Yes,Website
+C0962,Corporate Investment Buyers,86,M,USA,California,Home,4,No,Website
+C0963,Corporate Investment Buyers,85,M,Canada,Alberta,Home,4,No,Agency
+C0964,Personal-Use Buyers,73,F,USA,California,Home,4,No,Website
+C0965,Personal-Use Buyers,65,F,USA,New York,Investment,3,No,Website
+C0966,Mixed-Purpose Buyers,31,M,USA,California,Investment,3,No,Website
+C0967,Personal-Use Buyers,67,F,USA,California,Home,2,No,Agency
+C0968,Personal-Use Buyers,31,F,USA,Arizona,Home,4,No,Website
+C0969,Personal-Use Buyers,50,F,Russia,Tatarstan,Investment,1,Yes,Agency
+C0970,Corporate Investment Buyers,40,M,Denmark,North Denmark,Home,3,Yes,Website
+C0971,Personal-Use Buyers,57,F,USA,Colorado,Investment,5,Yes,Website
+C0972,Personal-Use Buyers,62,F,USA,Arizona,Home,5,No,Agency
+C0973,Corporate Investment Buyers,34,M,USA,California,Investment,2,No,Client
+C0974,Corporate Investment Buyers,65,M,USA,New York,Home,1,No,Agency
+C0975,Corporate Investment Buyers,80,M,USA,Utah,Home,4,No,Website
+C0976,Corporate Investment Buyers,43,M,USA,California,Home,4,Yes,Website
+C0977,Corporate Investment Buyers,30,M,USA,California,Home,1,No,Agency
+C0978,Personal-Use Buyers,63,F,USA,California,Home,4,Yes,Website
+C0979,Personal-Use Buyers,86,F,Canada,Quebec,Investment,4,No,Website
+C0980,Corporate Investment Buyers,84,M,USA,New York,Investment,1,Yes,Website
+C0981,Personal-Use Buyers,65,F,USA,California,Investment,1,No,Website
+C0982,Investment-Oriented Buyers,65,F,Canada,Manitoba,Investment,5,Yes,Agency
+C0983,Personal-Use Buyers,32,F,Germany,North Rhine-Westphalia,Home,4,No,Website
+C0984,Corporate Investment Buyers,64,M,Canada,British Columbia,Home,5,Yes,Agency
+C0985,Personal-Use Buyers,72,F,USA,California,Home,1,Yes,Website
+C0986,Personal-Use Buyers,45,F,Russia,Saint Petersburg,Home,2,No,Website
+C0987,Personal-Use Buyers,59,F,Germany,North Rhine-Westphalia,Home,1,Yes,Agency
+C0988,Corporate Investment Buyers,38,M,USA,Texas,Home,3,Yes,Agency
+C0989,Personal-Use Buyers,80,F,USA,Oregon,Home,4,No,Website
+C0990,Corporate Investment Buyers,84,M,USA,Utah,Home,4,No,Website
+C0991,Personal-Use Buyers,51,F,USA,Nevada,Home,1,No,Website
+C0992,Corporate Investment Buyers,38,M,Denmark,Capital Region,Home,1,Yes,Website
+C0993,Corporate Investment Buyers,72,M,USA,California,Home,2,Yes,Website
+C0994,Corporate Investment Buyers,50,M,USA,California,Home,3,No,Website
+C0995,Personal-Use Buyers,77,F,Australia,New South Wales,Home,1,Yes,Website
+C0996,Investment-Oriented Buyers,70,M,Canada,Manitoba,Home,2,Yes,Client
+C0997,Corporate Investment Buyers,76,M,USA,California,Investment,3,Yes,Agency
+C0998,Mixed-Purpose Buyers,57,F,USA,Virginia,Home,4,No,Agency
+C0999,Personal-Use Buyers,57,F,USA,California,Investment,3,No,Agency
+C1000,Personal-Use Buyers,63,F,USA,Utah,Home,2,Yes,Website
+C1001,Corporate Investment Buyers,45,M,USA,California,Home,3,No,Website
+C1002,Corporate Investment Buyers,59,M,USA,California,Home,5,No,Website
+C1003,Personal-Use Buyers,49,F,USA,Nevada,Home,2,No,Website
+C1004,Corporate Investment Buyers,44,M,USA,Oregon,Home,3,Yes,Website
+C1005,Personal-Use Buyers,38,F,Germany,Hamburg,Home,3,No,Client
+C1006,Personal-Use Buyers,34,F,USA,Georgia,Home,1,No,Website
+C1007,Personal-Use Buyers,78,F,UK,England,Home,4,No,Agency
+C1008,Mixed-Purpose Buyers,39,M,USA,California,Home,2,No,Website
+C1009,Personal-Use Buyers,76,F,USA,Nevada,Investment,4,Yes,Agency
+C1010,Corporate Investment Buyers,62,M,Mexico,Jalisco,Home,4,No,Website
+C1011,Personal-Use Buyers,74,F,USA,California,Investment,1,No,Website
+C1012,Corporate Investment Buyers,66,M,USA,New York,Home,4,Yes,Website
+C1013,Personal-Use Buyers,32,F,USA,Oregon,Home,1,Yes,Website
+C1014,Corporate Investment Buyers,57,M,USA,California,Home,3,Yes,Website
+C1015,Corporate Investment Buyers,49,M,USA,California,Home,4,Yes,Website
+C1016,Personal-Use Buyers,50,F,USA,California,Home,4,Yes,Agency
+C1017,Personal-Use Buyers,58,F,USA,California,Home,1,Yes,Agency
+C1018,Personal-Use Buyers,59,F,USA,Colorado,Home,5,Yes,Client
+C1019,Personal-Use Buyers,51,F,USA,Nevada,Home,2,No,Client
+C1020,Personal-Use Buyers,32,F,USA,California,Home,3,No,Agency
+C1021,Corporate Investment Buyers,52,M,USA,California,Investment,1,No,Client
+C1022,Personal-Use Buyers,42,F,USA,Colorado,Home,1,No,Agency
+C1023,Personal-Use Buyers,73,F,USA,Nevada,Home,1,Yes,Website
+C1024,Corporate Investment Buyers,57,M,USA,Arizona,Investment,2,No,Agency
+C1025,Personal-Use Buyers,79,F,USA,California,Home,1,No,Client
+C1026,Corporate Investment Buyers,35,M,USA,California,Investment,1,No,Agency
+C1027,Corporate Investment Buyers,50,M,USA,California,Investment,1,Yes,Client
+C1028,Corporate Investment Buyers,84,M,USA,California,Home,1,Yes,Website
+C1029,Corporate Investment Buyers,77,M,Australia,Victoria,Home,1,No,Agency
+C1030,Personal-Use Buyers,66,F,USA,Ohio,Home,4,No,Website
+C1031,Corporate Investment Buyers,37,M,UK,England,Home,1,No,Website
+C1032,Corporate Investment Buyers,49,M,USA,Nevada,Home,5,No,Website
+C1033,Corporate Investment Buyers,64,M,France,Ile-de-France,Home,2,No,Website
+C1034,Personal-Use Buyers,47,F,USA,Colorado,Home,5,No,Client
+C1035,Corporate Investment Buyers,65,M,USA,Virginia,Home,2,No,Website
+C1036,Personal-Use Buyers,38,F,USA,Oregon,Home,2,No,Agency
+C1037,Mixed-Purpose Buyers,56,M,Mexico,Baja California,Home,2,Yes,Website
+C1038,Corporate Investment Buyers,67,M,USA,California,Investment,3,No,Website
+C1039,Corporate Investment Buyers,64,M,USA,California,Home,1,Yes,Agency
+C1040,Corporate Investment Buyers,86,M,USA,California,Investment,5,Yes,Website
+C1041,Personal-Use Buyers,36,F,USA,Nevada,Home,5,Yes,Website
+C1042,Personal-Use Buyers,81,F,USA,Nevada,Home,2,No,Agency
+C1043,Personal-Use Buyers,27,F,USA,Washington,Home,5,No,Website
+C1044,Corporate Investment Buyers,55,M,USA,Nevada,Investment,5,No,Website
+C1045,Personal-Use Buyers,84,F,USA,New York,Home,3,No,Website
+C1046,Personal-Use Buyers,57,F,Canada,Quebec,Home,4,Yes,Website
+C1047,Corporate Investment Buyers,42,M,USA,Virginia,Home,3,No,Website
+C1048,Personal-Use Buyers,56,F,USA,Oregon,Investment,1,No,Agency
+C1049,Personal-Use Buyers,86,F,USA,California,Investment,5,No,Website
+C1050,Corporate Investment Buyers,71,M,USA,Georgia,Home,4,Yes,Website
+C1051,Personal-Use Buyers,68,F,USA,Virginia,Home,1,Yes,Agency
+C1052,Personal-Use Buyers,73,F,USA,Utah,Home,1,Yes,Agency
+C1053,Corporate Investment Buyers,52,M,Mexico,Nuevo Leon,Home,2,Yes,Website
+C1054,Corporate Investment Buyers,37,M,USA,Arizona,Home,2,Yes,Website
+C1055,Corporate Investment Buyers,54,M,USA,New York,Investment,2,Yes,Website
+C1056,Corporate Investment Buyers,47,M,USA,Colorado,Home,1,Yes,Website
+C1057,Corporate Investment Buyers,32,M,USA,Nevada,Investment,5,No,Website
+C1058,Personal-Use Buyers,53,F,Germany,Bavaria,Home,3,Yes,Website
+C1059,Personal-Use Buyers,48,F,USA,California,Home,4,No,Website
+C1060,Corporate Investment Buyers,86,M,USA,Nevada,Home,5,No,Agency
+C1061,Personal-Use Buyers,66,F,UK,Scotland,Home,1,No,Website
+C1062,Corporate Investment Buyers,51,M,USA,California,Home,4,No,Agency
+C1063,Personal-Use Buyers,38,F,USA,New York,Investment,5,Yes,Website
+C1064,Corporate Investment Buyers,81,M,USA,California,Home,5,Yes,Website
+C1065,Corporate Investment Buyers,71,M,USA,Georgia,Home,3,Yes,Client
+C1066,Personal-Use Buyers,85,F,Australia,Victoria,Home,1,No,Website
+C1067,Corporate Investment Buyers,84,M,Mexico,Jalisco,Investment,4,No,Agency
+C1068,Personal-Use Buyers,42,F,USA,California,Home,3,No,Agency
+C1069,Corporate Investment Buyers,34,M,USA,Virginia,Home,3,Yes,Agency
+C1070,Personal-Use Buyers,75,F,Germany,Bavaria,Home,5,No,Agency
+C1071,Corporate Investment Buyers,60,M,USA,Texas,Home,2,No,Agency
+C1072,Personal-Use Buyers,64,F,USA,Utah,Home,3,No,Agency
+C1073,Corporate Investment Buyers,71,M,USA,California,Investment,2,No,Website
+C1074,Corporate Investment Buyers,72,M,UK,Northern Ireland,Home,1,No,Website
+C1075,Personal-Use Buyers,51,F,Mexico,Baja California,Home,3,No,Website
+C1076,Personal-Use Buyers,46,F,USA,Florida,Investment,3,No,Agency
+C1077,Corporate Investment Buyers,44,M,USA,Texas,Investment,2,No,Agency
+C1078,Corporate Investment Buyers,86,M,USA,Ohio,Home,1,No,Agency
+C1079,Corporate Investment Buyers,67,M,USA,California,Investment,4,Yes,Website
+C1080,Personal-Use Buyers,70,F,UK,England,Investment,4,No,Agency
+C1081,Mixed-Purpose Buyers,52,M,Russia,Novosibirsk,Home,4,Yes,Agency
+C1082,Personal-Use Buyers,33,F,USA,Oregon,Investment,5,Yes,Website
+C1083,Personal-Use Buyers,76,F,USA,Colorado,Investment,4,No,Agency
+C1084,Personal-Use Buyers,37,F,France,Ile-de-France,Home,4,No,Agency
+C1085,Personal-Use Buyers,79,F,Australia,Queensland,Investment,1,No,Client
+C1086,Corporate Investment Buyers,70,M,USA,Colorado,Home,1,Yes,Website
+C1087,Corporate Investment Buyers,42,M,USA,Colorado,Home,3,No,Website
+C1088,Corporate Investment Buyers,28,M,USA,Utah,Home,4,Yes,Agency
+C1089,Personal-Use Buyers,64,F,USA,Utah,Home,1,Yes,Website
+C1090,Personal-Use Buyers,64,F,Canada,Alberta,Home,3,Yes,Client
+C1091,Corporate Investment Buyers,42,M,USA,Nevada,Home,1,Yes,Agency
+C1092,Corporate Investment Buyers,30,M,USA,Oregon,Investment,2,No,Website
+C1093,Corporate Investment Buyers,46,M,USA,Oregon,Home,1,Yes,Website
+C1094,Personal-Use Buyers,66,F,USA,Washington,Home,2,Yes,Website
+C1095,Personal-Use Buyers,86,F,USA,California,Home,3,No,Agency
+C1096,Personal-Use Buyers,61,F,USA,New York,Home,2,No,Client
+C1097,Personal-Use Buyers,64,F,Canada,Alberta,Home,3,Yes,Agency
+C1098,Corporate Investment Buyers,50,M,USA,California,Investment,3,No,Client
+C1099,Personal-Use Buyers,54,F,USA,Colorado,Home,3,No,Agency
+C1100,Corporate Investment Buyers,86,M,Russia,Novosibirsk,Home,1,No,Website
+C1101,Corporate Investment Buyers,62,M,Belgium,Flanders,Home,5,No,Website
+C1102,Mixed-Purpose Buyers,66,M,Germany,Berlin,Home,2,No,Agency
+C1103,Corporate Investment Buyers,65,M,Belgium,Wallonia,Home,4,No,Agency
+C1104,Corporate Investment Buyers,28,M,USA,Utah,Investment,5,Yes,Website
+C1105,Corporate Investment Buyers,86,M,USA,Nevada,Home,3,Yes,Website
+C1106,Corporate Investment Buyers,44,M,USA,California,Home,1,No,Agency
+C1107,Corporate Investment Buyers,78,M,Canada,British Columbia,Home,1,No,Website
+C1108,Personal-Use Buyers,32,F,Australia,South Australia,Home,4,No,Website
+C1109,Personal-Use Buyers,59,F,USA,California,Home,1,Yes,Client
+C1110,Corporate Investment Buyers,49,M,USA,New York,Home,5,Yes,Website
+C1111,Mixed-Purpose Buyers,59,M,USA,California,Home,4,Yes,Website
+C1112,Corporate Investment Buyers,44,M,USA,Nevada,Investment,3,Yes,Website
+C1113,Personal-Use Buyers,52,F,USA,Texas,Investment,2,No,Client
+C1114,Personal-Use Buyers,34,F,USA,California,Home,3,No,Website
+C1115,Corporate Investment Buyers,53,M,USA,Colorado,Home,3,Yes,Agency
+C1116,Personal-Use Buyers,35,F,USA,California,Home,1,Yes,Agency
+C1117,Personal-Use Buyers,71,F,Mexico,Mexico City,Home,5,Yes,Website
+C1118,Mixed-Purpose Buyers,57,M,UK,Scotland,Investment,2,Yes,Website
+C1119,Corporate Investment Buyers,85,M,USA,Oregon,Home,1,Yes,Website
+C1120,Personal-Use Buyers,47,F,USA,Arizona,Home,1,No,Website
+C1121,Personal-Use Buyers,41,F,USA,California,Home,1,No,Client
+C1122,Personal-Use Buyers,84,F,USA,California,Home,4,No,Website
+C1123,Corporate Investment Buyers,75,M,USA,Virginia,Home,5,No,Agency
+C1124,Personal-Use Buyers,50,F,USA,Oregon,Investment,5,Yes,Website
+C1125,Corporate Investment Buyers,85,M,USA,Oregon,Home,3,No,Agency
+C1126,Mixed-Purpose Buyers,43,M,USA,Virginia,Home,1,Yes,Website
+C1127,Personal-Use Buyers,83,F,UK,England,Investment,1,No,Website
+C1128,Corporate Investment Buyers,43,M,USA,California,Investment,1,No,Website
+C1129,Personal-Use Buyers,81,F,USA,Colorado,Investment,5,No,Agency
+C1130,Personal-Use Buyers,39,F,USA,Arizona,Home,5,No,Website
+C1131,Personal-Use Buyers,42,F,USA,California,Investment,3,No,Website
+C1132,Corporate Investment Buyers,44,M,USA,New York,Home,2,Yes,Website
+C1133,Corporate Investment Buyers,33,M,USA,Oregon,Investment,3,No,Website
+C1134,Personal-Use Buyers,83,F,USA,California,Investment,1,No,Website
+C1135,Personal-Use Buyers,27,F,Russia,Moscow Oblast,Investment,5,Yes,Client
+C1136,Personal-Use Buyers,61,F,USA,California,Home,3,Yes,Agency
+C1137,Personal-Use Buyers,40,F,USA,Nevada,Home,4,Yes,Agency
+C1138,Corporate Investment Buyers,62,M,USA,Oregon,Home,1,No,Website
+C1139,Personal-Use Buyers,30,F,USA,California,Home,4,Yes,Client
+C1140,Corporate Investment Buyers,50,M,USA,Florida,Home,1,Yes,Website
+C1141,Personal-Use Buyers,26,F,USA,Arizona,Investment,3,No,Website
+C1142,Personal-Use Buyers,78,F,USA,Colorado,Home,2,Yes,Agency
+C1143,Corporate Investment Buyers,32,M,USA,Arizona,Home,2,Yes,Website
+C1144,Personal-Use Buyers,48,F,USA,Georgia,Investment,4,No,Client
+C1145,Corporate Investment Buyers,33,M,USA,Nevada,Home,5,No,Website
+C1146,Corporate Investment Buyers,35,M,USA,California,Investment,2,No,Website
+C1147,Personal-Use Buyers,48,F,USA,Utah,Home,3,No,Website
+C1148,Corporate Investment Buyers,35,M,Australia,New South Wales,Home,1,Yes,Agency
+C1149,Personal-Use Buyers,46,F,Russia,Tatarstan,Home,3,No,Agency
+C1150,Personal-Use Buyers,34,F,USA,Nevada,Investment,4,No,Agency
+C1151,Corporate Investment Buyers,63,M,USA,Arizona,Investment,2,No,Website
+C1152,Corporate Investment Buyers,49,M,USA,Georgia,Home,1,No,Website
+C1153,Corporate Investment Buyers,35,M,USA,California,Home,1,No,Website
+C1154,Corporate Investment Buyers,70,M,USA,Utah,Home,5,Yes,Agency
+C1155,Corporate Investment Buyers,49,M,USA,California,Home,5,No,Website
+C1156,Personal-Use Buyers,70,F,USA,Virginia,Home,4,No,Agency
+C1157,Corporate Investment Buyers,82,M,Canada,Alberta,Investment,2,No,Website
+C1158,Personal-Use Buyers,71,F,USA,California,Investment,2,No,Website
+C1159,Corporate Investment Buyers,86,M,USA,Nevada,Investment,1,Yes,Website
+C1160,Corporate Investment Buyers,46,M,USA,Florida,Home,2,Yes,Website
+C1161,Corporate Investment Buyers,32,M,Canada,Alberta,Investment,3,Yes,Website
+C1162,Corporate Investment Buyers,64,M,USA,California,Investment,2,No,Website
+C1163,Corporate Investment Buyers,28,M,USA,California,Home,3,Yes,Website
+C1164,Personal-Use Buyers,58,F,Belgium,Wallonia,Home,3,Yes,Agency
+C1165,Personal-Use Buyers,32,F,Russia,Moscow Oblast,Home,1,No,Website
+C1166,Corporate Investment Buyers,35,M,USA,New York,Investment,1,No,Website
+C1167,Corporate Investment Buyers,59,M,UK,Scotland,Home,3,No,Website
+C1168,Personal-Use Buyers,28,F,Germany,Hamburg,Home,2,Yes,Agency
+C1169,Corporate Investment Buyers,32,M,Russia,Saint Petersburg,Home,5,Yes,Agency
+C1170,Personal-Use Buyers,36,F,USA,Nevada,Home,1,Yes,Website
+C1171,Personal-Use Buyers,42,F,USA,California,Investment,4,Yes,Website
+C1172,Personal-Use Buyers,84,F,USA,Nevada,Home,5,No,Website
+C1173,Investment-Oriented Buyers,42,F,Canada,Manitoba,Investment,1,No,Website
+C1174,Corporate Investment Buyers,44,M,USA,Nevada,Home,2,No,Agency
+C1175,Personal-Use Buyers,67,F,USA,California,Home,2,No,Website
+C1176,Personal-Use Buyers,51,F,USA,California,Investment,4,Yes,Agency
+C1177,Corporate Investment Buyers,28,M,USA,California,Investment,2,No,Agency
+C1178,Personal-Use Buyers,76,F,USA,California,Home,1,No,Agency
+C1179,Personal-Use Buyers,35,F,USA,California,Home,4,No,Agency
+C1180,Personal-Use Buyers,31,F,Belgium,Brussels,Home,2,Yes,Website
+C1181,Personal-Use Buyers,70,F,USA,Nevada,Investment,5,No,Website
+C1182,Corporate Investment Buyers,65,M,Germany,Bavaria,Investment,3,Yes,Website
+C1183,Corporate Investment Buyers,33,M,USA,Arizona,Investment,1,No,Website
+C1184,Corporate Investment Buyers,73,M,France,Ile-de-France,Home,2,No,Website
+C1185,Corporate Investment Buyers,26,M,USA,California,Home,3,No,Website
+C1186,Personal-Use Buyers,48,F,USA,Nevada,Home,3,Yes,Website
+C1187,Personal-Use Buyers,64,F,USA,Nevada,Home,4,No,Website
+C1188,Corporate Investment Buyers,31,M,Canada,Alberta,Home,1,No,Client
+C1189,Corporate Investment Buyers,63,M,USA,Florida,Home,2,Yes,Client
+C1190,Personal-Use Buyers,80,F,USA,Texas,Home,4,No,Client
+C1191,Personal-Use Buyers,76,F,USA,California,Investment,3,No,Website
+C1192,Corporate Investment Buyers,26,M,USA,Florida,Home,5,No,Website
+C1193,Personal-Use Buyers,51,F,UK,England,Home,1,No,Website
+C1194,Personal-Use Buyers,83,F,USA,Colorado,Home,1,No,Website
+C1195,Personal-Use Buyers,36,F,USA,California,Home,4,Yes,Agency
+C1196,Corporate Investment Buyers,71,M,USA,Nevada,Home,2,No,Agency
+C1197,Personal-Use Buyers,67,F,USA,Arizona,Home,4,No,Website
+C1198,Personal-Use Buyers,66,F,USA,New York,Home,1,No,Agency
+C1199,Corporate Investment Buyers,83,M,USA,Colorado,Home,2,No,Website
+C1200,Corporate Investment Buyers,57,M,USA,Utah,Home,4,No,Agency
+C1201,Corporate Investment Buyers,26,M,USA,Oregon,Investment,1,Yes,Website
+C1202,Mixed-Purpose Buyers,41,M,Canada,Quebec,Investment,5,Yes,Website
+C1203,Personal-Use Buyers,64,F,USA,Arizona,Home,2,Yes,Website
+C1204,Corporate Investment Buyers,34,M,Mexico,Puebla,Investment,2,Yes,Website
+C1205,Corporate Investment Buyers,67,M,Belgium,Flanders,Home,4,No,Website
+C1206,Personal-Use Buyers,69,F,USA,California,Investment,5,No,Website
+C1207,Personal-Use Buyers,53,F,USA,Texas,Home,5,Yes,Agency
+C1208,Corporate Investment Buyers,49,M,USA,Colorado,Home,1,No,Website
+C1209,Personal-Use Buyers,48,F,USA,California,Home,4,Yes,Website
+C1210,Corporate Investment Buyers,35,M,USA,California,Investment,1,No,Website
+C1211,Personal-Use Buyers,30,F,Canada,British Columbia,Home,5,Yes,Website
+C1212,Corporate Investment Buyers,69,M,USA,California,Home,1,No,Agency
+C1213,Investment-Oriented Buyers,33,F,Canada,Manitoba,Home,5,No,Website
+C1214,Personal-Use Buyers,26,F,USA,Florida,Home,1,No,Agency
+C1215,Corporate Investment Buyers,32,M,USA,California,Home,3,No,Website
+C1216,Personal-Use Buyers,29,F,France,Normandy,Home,4,No,Website
+C1217,Corporate Investment Buyers,29,M,USA,California,Investment,4,Yes,Website
+C1218,Personal-Use Buyers,85,F,USA,California,Home,1,Yes,Website
+C1219,Personal-Use Buyers,43,F,USA,Arizona,Home,1,Yes,Website
+C1220,Personal-Use Buyers,59,F,USA,Colorado,Investment,4,Yes,Website
+C1221,Personal-Use Buyers,42,F,USA,Nevada,Investment,2,No,Agency
+C1222,Corporate Investment Buyers,57,M,USA,Utah,Home,4,No,Website
+C1223,Personal-Use Buyers,74,F,USA,Washington,Home,4,No,Website
+C1224,Corporate Investment Buyers,84,M,USA,New York,Investment,5,Yes,Client
+C1225,Corporate Investment Buyers,36,M,USA,Oregon,Home,2,No,Website
+C1226,Corporate Investment Buyers,37,M,USA,Utah,Home,4,No,Website
+C1227,Corporate Investment Buyers,39,M,USA,Colorado,Home,3,Yes,Agency
+C1228,Corporate Investment Buyers,72,M,USA,California,Home,2,No,Website
+C1229,Personal-Use Buyers,32,F,UK,Scotland,Home,1,Yes,Website
+C1230,Corporate Investment Buyers,41,M,USA,California,Home,5,No,Client
+C1231,Personal-Use Buyers,72,F,USA,California,Home,2,No,Agency
+C1232,Personal-Use Buyers,37,F,Canada,British Columbia,Home,3,No,Website
+C1233,Corporate Investment Buyers,47,M,USA,Utah,Home,4,No,Website
+C1234,Personal-Use Buyers,69,F,USA,Colorado,Investment,1,No,Website
+C1235,Corporate Investment Buyers,69,M,USA,Arizona,Home,2,No,Website
+C1236,Corporate Investment Buyers,54,M,USA,Arizona,Home,4,Yes,Website
+C1237,Personal-Use Buyers,83,F,UK,Wales,Investment,4,Yes,Website
+C1238,Corporate Investment Buyers,80,M,USA,Nevada,Home,1,Yes,Agency
+C1239,Personal-Use Buyers,73,F,USA,Oregon,Home,3,No,Agency
+C1240,Personal-Use Buyers,42,F,USA,Nevada,Investment,4,Yes,Website
+C1241,Personal-Use Buyers,53,F,USA,California,Home,1,No,Agency
+C1242,Corporate Investment Buyers,65,M,USA,California,Home,3,Yes,Website
+C1243,Corporate Investment Buyers,78,M,USA,Colorado,Home,1,No,Website
+C1244,Corporate Investment Buyers,34,M,USA,Utah,Investment,5,Yes,Website
+C1245,Corporate Investment Buyers,63,M,USA,California,Home,3,Yes,Agency
+C1246,Personal-Use Buyers,83,F,Canada,Alberta,Home,2,No,Agency
+C1247,Personal-Use Buyers,69,F,USA,Nevada,Investment,2,No,Website
+C1248,Personal-Use Buyers,50,F,USA,Arizona,Home,3,No,Agency
+C1249,Personal-Use Buyers,55,F,USA,California,Investment,1,No,Website
+C1250,Corporate Investment Buyers,76,M,USA,Nevada,Home,5,No,Agency
+C1251,Corporate Investment Buyers,51,M,USA,Texas,Investment,5,No,Website
+C1252,Personal-Use Buyers,64,F,USA,Arizona,Home,3,Yes,Website
+C1253,Corporate Investment Buyers,35,M,USA,California,Home,2,No,Agency
+C1254,Corporate Investment Buyers,70,M,USA,California,Home,5,Yes,Agency
+C1255,Corporate Investment Buyers,27,M,USA,California,Home,3,No,Agency
+C1256,Mixed-Purpose Buyers,54,F,USA,California,Investment,4,No,Agency
+C1257,Corporate Investment Buyers,35,M,USA,California,Home,5,Yes,Agency
+C1258,Personal-Use Buyers,57,F,USA,Nevada,Home,1,No,Website
+C1259,Corporate Investment Buyers,55,M,USA,California,Investment,3,Yes,Agency
+C1260,Personal-Use Buyers,34,F,USA,California,Home,2,No,Agency
+C1261,Corporate Investment Buyers,50,M,USA,Utah,Home,3,No,Client
+C1262,Personal-Use Buyers,76,F,USA,California,Investment,4,No,Agency
+C1263,Corporate Investment Buyers,75,M,USA,California,Investment,3,No,Agency
+C1264,Personal-Use Buyers,27,F,USA,California,Investment,1,No,Agency
+C1265,Corporate Investment Buyers,83,M,USA,Washington,Home,1,Yes,Agency
+C1266,Corporate Investment Buyers,74,M,UK,England,Home,2,No,Website
+C1267,Personal-Use Buyers,61,F,USA,Colorado,Home,3,Yes,Website
+C1268,Personal-Use Buyers,31,F,UK,Northern Ireland,Investment,1,Yes,Website
+C1269,Corporate Investment Buyers,62,M,USA,California,Home,5,No,Website
+C1270,Personal-Use Buyers,48,F,USA,Texas,Home,4,No,Agency
+C1271,Corporate Investment Buyers,34,M,USA,California,Home,2,Yes,Agency
+C1272,Corporate Investment Buyers,85,M,France,Occitanie,Home,1,Yes,Website
+C1273,Corporate Investment Buyers,58,M,Canada,Alberta,Home,5,No,Website
+C1274,Personal-Use Buyers,47,F,USA,California,Investment,1,Yes,Website
+C1275,Personal-Use Buyers,57,F,USA,Georgia,Investment,1,No,Website
+C1276,Corporate Investment Buyers,86,M,Australia,Victoria,Home,1,Yes,Agency
+C1277,Personal-Use Buyers,45,F,USA,California,Investment,2,No,Agency
+C1278,Corporate Investment Buyers,29,M,USA,Utah,Home,4,No,Website
+C1279,Corporate Investment Buyers,83,M,USA,California,Home,4,Yes,Website
+C1280,Corporate Investment Buyers,73,M,USA,Texas,Home,2,Yes,Website
+C1281,Investment-Oriented Buyers,28,F,Canada,Manitoba,Investment,2,Yes,Website
+C1282,Personal-Use Buyers,30,F,USA,Colorado,Investment,3,Yes,Agency
+C1283,Personal-Use Buyers,81,F,USA,New York,Home,3,No,Agency
+C1284,Corporate Investment Buyers,71,M,USA,California,Home,2,No,Website
+C1285,Corporate Investment Buyers,72,M,USA,Utah,Home,4,Yes,Website
+C1286,Corporate Investment Buyers,63,M,USA,California,Home,5,No,Agency
+C1287,Personal-Use Buyers,28,F,USA,California,Investment,4,No,Website
+C1288,Corporate Investment Buyers,85,M,Belgium,Wallonia,Home,3,No,Agency
+C1289,Corporate Investment Buyers,53,M,Mexico,Jalisco,Investment,1,Yes,Agency
+C1290,Personal-Use Buyers,53,F,USA,Washington,Home,3,Yes,Website
+C1291,Corporate Investment Buyers,43,M,USA,California,Investment,5,Yes,Website
+C1292,Corporate Investment Buyers,49,M,USA,Texas,Investment,5,Yes,Website
+C1293,Personal-Use Buyers,54,F,USA,California,Home,1,No,Agency
+C1294,Corporate Investment Buyers,63,M,Canada,Ontario,Investment,3,Yes,Agency
+C1295,Personal-Use Buyers,34,F,USA,California,Investment,1,Yes,Website
+C1296,Corporate Investment Buyers,63,M,USA,Virginia,Home,1,No,Website
+C1297,Mixed-Purpose Buyers,43,M,Germany,Berlin,Home,5,No,Website
+C1298,Personal-Use Buyers,58,F,USA,California,Home,2,No,Agency
+C1299,Personal-Use Buyers,82,F,USA,California,Investment,3,No,Website
+C1300,Personal-Use Buyers,65,F,USA,California,Home,2,No,Website
+C1301,Corporate Investment Buyers,71,M,USA,Virginia,Home,2,No,Agency
+C1302,Corporate Investment Buyers,30,M,USA,Arizona,Investment,5,No,Website
+C1303,Corporate Investment Buyers,64,M,USA,Arizona,Home,3,Yes,Website
+C1304,Personal-Use Buyers,41,F,USA,California,Investment,1,No,Website
+C1305,Personal-Use Buyers,48,F,USA,Georgia,Home,4,No,Website
+C1306,Personal-Use Buyers,78,F,USA,Washington,Home,5,No,Website
+C1307,Personal-Use Buyers,33,F,USA,Colorado,Home,5,No,Agency
+C1308,Corporate Investment Buyers,26,M,USA,California,Investment,5,No,Agency
+C1309,Corporate Investment Buyers,27,M,USA,California,Home,5,No,Website
+C1310,Personal-Use Buyers,71,F,USA,New York,Home,5,No,Agency
+C1311,Corporate Investment Buyers,86,M,UK,England,Home,4,Yes,Client
+C1312,Corporate Investment Buyers,84,M,USA,New York,Home,5,No,Website
+C1313,Personal-Use Buyers,54,F,Australia,Western Australia,Investment,3,No,Website
+C1314,Personal-Use Buyers,62,F,USA,Arizona,Home,3,No,Website
+C1315,Corporate Investment Buyers,78,M,USA,Colorado,Home,3,No,Agency
+C1316,Personal-Use Buyers,33,F,USA,Colorado,Home,2,Yes,Website
+C1317,Mixed-Purpose Buyers,53,M,USA,Utah,Home,2,Yes,Website
+C1318,Corporate Investment Buyers,83,M,USA,Texas,Home,1,No,Website
+C1319,Personal-Use Buyers,72,F,USA,Florida,Home,3,Yes,Client
+C1320,Corporate Investment Buyers,57,M,USA,California,Investment,1,No,Website
+C1321,Corporate Investment Buyers,36,M,USA,Colorado,Investment,5,No,Client
+C1322,Personal-Use Buyers,32,F,USA,California,Home,5,No,Agency
+C1323,Corporate Investment Buyers,63,M,USA,Utah,Home,3,No,Website
+C1324,Corporate Investment Buyers,34,M,USA,Arizona,Investment,2,Yes,Agency
+C1325,Corporate Investment Buyers,52,M,Canada,Alberta,Home,5,Yes,Agency
+C1326,Corporate Investment Buyers,82,M,USA,Colorado,Investment,4,No,Website
+C1327,Personal-Use Buyers,33,F,USA,California,Home,4,Yes,Website
+C1328,Personal-Use Buyers,70,F,USA,Washington,Home,4,No,Website
+C1329,Corporate Investment Buyers,58,M,USA,California,Investment,3,Yes,Agency
+C1330,Personal-Use Buyers,51,F,USA,Colorado,Investment,2,No,Agency
+C1331,Personal-Use Buyers,40,F,USA,California,Investment,1,No,Agency
+C1332,Corporate Investment Buyers,31,M,USA,Washington,Investment,5,Yes,Agency
+C1333,Corporate Investment Buyers,38,M,USA,Nevada,Investment,2,Yes,Website
+C1334,Personal-Use Buyers,61,F,USA,California,Home,5,Yes,Agency
+C1335,Personal-Use Buyers,44,F,USA,Oregon,Investment,2,Yes,Website
+C1336,Personal-Use Buyers,78,F,USA,California,Home,5,No,Client
+C1337,Personal-Use Buyers,73,F,USA,California,Investment,5,No,Website
+C1338,Personal-Use Buyers,58,F,USA,California,Home,2,Yes,Website
+C1339,Mixed-Purpose Buyers,65,M,USA,Nevada,Home,4,Yes,Website
+C1340,Mixed-Purpose Buyers,38,M,USA,Colorado,Home,5,No,Website
+C1341,Personal-Use Buyers,74,F,USA,Colorado,Home,5,Yes,Website
+C1342,Personal-Use Buyers,62,F,USA,California,Home,1,Yes,Agency
+C1343,Personal-Use Buyers,31,F,Canada,Ontario,Home,5,No,Agency
+C1344,Corporate Investment Buyers,52,M,USA,Florida,Home,1,No,Agency
+C1345,Personal-Use Buyers,70,F,USA,Texas,Home,5,No,Website
+C1346,Mixed-Purpose Buyers,39,F,USA,Colorado,Investment,4,No,Agency
+C1347,Corporate Investment Buyers,70,M,USA,Washington,Home,2,No,Client
+C1348,Corporate Investment Buyers,28,M,USA,Oregon,Home,4,Yes,Client
+C1349,Personal-Use Buyers,44,F,USA,Virginia,Investment,3,No,Website
+C1350,Personal-Use Buyers,35,F,Germany,Hamburg,Home,5,No,Website
+C1351,Personal-Use Buyers,39,F,Australia,South Australia,Home,2,No,Client
+C1352,Corporate Investment Buyers,37,M,USA,California,Home,2,Yes,Agency
+C1353,Personal-Use Buyers,29,F,Canada,Alberta,Home,1,No,Agency
+C1354,Corporate Investment Buyers,85,M,USA,Florida,Home,5,No,Website
+C1355,Personal-Use Buyers,60,F,USA,California,Investment,2,Yes,Client
+C1356,Corporate Investment Buyers,32,M,USA,Oregon,Investment,4,No,Agency
+C1357,Personal-Use Buyers,39,F,USA,California,Home,5,Yes,Website
+C1358,Corporate Investment Buyers,83,M,USA,Texas,Home,4,No,Agency
+C1359,Corporate Investment Buyers,51,M,USA,Virginia,Home,3,No,Agency
+C1360,Corporate Investment Buyers,36,M,USA,Virginia,Home,4,No,Agency
+C1361,Personal-Use Buyers,83,F,USA,California,Home,3,No,Client
+C1362,Personal-Use Buyers,61,F,USA,California,Investment,1,Yes,Agency
+C1363,Corporate Investment Buyers,45,M,USA,Georgia,Home,5,Yes,Agency
+C1364,Personal-Use Buyers,28,F,USA,California,Investment,1,No,Website
+C1365,Personal-Use Buyers,57,F,Belgium,Brussels,Investment,5,Yes,Website
+C1366,Corporate Investment Buyers,31,M,USA,California,Home,1,No,Website
+C1367,Personal-Use Buyers,73,F,Germany,Berlin,Home,2,No,Client
+C1368,Corporate Investment Buyers,79,M,USA,California,Home,5,Yes,Client
+C1369,Corporate Investment Buyers,43,M,France,Brittany,Home,4,Yes,Agency
+C1370,Corporate Investment Buyers,61,M,USA,Colorado,Investment,1,No,Agency
+C1371,Corporate Investment Buyers,37,M,UK,England,Home,2,Yes,Website
+C1372,Personal-Use Buyers,45,F,USA,Washington,Investment,2,No,Website
+C1373,Personal-Use Buyers,34,F,USA,California,Home,3,Yes,Website
+C1374,Mixed-Purpose Buyers,36,M,France,Ile-de-France,Home,3,Yes,Agency
+C1375,Personal-Use Buyers,54,F,USA,California,Investment,4,Yes,Agency
+C1376,Personal-Use Buyers,39,F,USA,Arizona,Investment,3,Yes,Agency
+C1377,Personal-Use Buyers,42,F,USA,Utah,Investment,2,No,Website
+C1378,Personal-Use Buyers,50,F,USA,California,Investment,1,No,Website
+C1379,Corporate Investment Buyers,56,M,UK,Scotland,Home,2,No,Website
+C1380,Corporate Investment Buyers,77,M,Canada,Alberta,Investment,4,No,Website
+C1381,Corporate Investment Buyers,64,M,Germany,Hesse,Home,3,Yes,Website
+C1382,Corporate Investment Buyers,75,M,USA,Oregon,Home,2,No,Website
+C1383,Corporate Investment Buyers,34,M,USA,California,Home,2,No,Agency
+C1384,Personal-Use Buyers,38,F,USA,California,Home,2,Yes,Agency
+C1385,Corporate Investment Buyers,80,M,USA,California,Home,1,No,Agency
+C1386,Corporate Investment Buyers,79,M,USA,Washington,Home,4,Yes,Website
+C1387,Corporate Investment Buyers,83,M,Germany,Hamburg,Investment,4,No,Website
+C1388,Personal-Use Buyers,27,F,USA,Washington,Home,3,No,Website
+C1389,Corporate Investment Buyers,74,M,UK,Scotland,Home,2,No,Website
+C1390,Personal-Use Buyers,47,F,USA,Nevada,Home,3,No,Website
+C1391,Personal-Use Buyers,52,F,USA,Utah,Home,1,No,Website
+C1392,Corporate Investment Buyers,36,M,USA,Colorado,Home,4,Yes,Agency
+C1393,Personal-Use Buyers,45,F,Mexico,Baja California,Investment,1,No,Agency
+C1394,Personal-Use Buyers,49,F,USA,Nevada,Home,4,No,Website
+C1395,Personal-Use Buyers,38,F,Canada,Alberta,Investment,4,No,Website
+C1396,Investment-Oriented Buyers,55,M,Canada,Manitoba,Investment,3,Yes,Website
+C1397,Personal-Use Buyers,43,F,USA,Nevada,Home,4,No,Website
+C1398,Corporate Investment Buyers,60,M,USA,California,Home,5,Yes,Website
+C1399,Personal-Use Buyers,48,F,Canada,British Columbia,Home,5,No,Agency
+C1400,Personal-Use Buyers,35,F,UK,Northern Ireland,Home,4,No,Client
+C1401,Personal-Use Buyers,27,F,USA,Virginia,Investment,1,No,Website
+C1402,Personal-Use Buyers,58,F,USA,Utah,Home,3,No,Agency
+C1403,Personal-Use Buyers,43,F,USA,Oregon,Home,2,No,Website
+C1404,Personal-Use Buyers,76,F,USA,California,Home,4,No,Agency
+C1405,Corporate Investment Buyers,71,M,USA,Oregon,Home,5,No,Agency
+C1406,Personal-Use Buyers,56,F,USA,California,Home,3,No,Website
+C1407,Personal-Use Buyers,70,F,USA,California,Home,1,No,Agency
+C1408,Mixed-Purpose Buyers,63,F,USA,California,Home,2,No,Agency
+C1409,Personal-Use Buyers,69,F,USA,Oregon,Investment,2,No,Website
+C1410,Personal-Use Buyers,61,F,USA,Nevada,Home,2,No,Agency
+C1411,Corporate Investment Buyers,39,M,USA,California,Home,2,No,Client
+C1412,Mixed-Purpose Buyers,41,F,USA,Nevada,Home,2,No,Agency
+C1413,Personal-Use Buyers,58,F,USA,California,Home,4,No,Agency
+C1414,Personal-Use Buyers,51,F,USA,Florida,Home,4,No,Website
+C1415,Corporate Investment Buyers,67,M,USA,California,Investment,1,No,Website
+C1416,Corporate Investment Buyers,72,M,USA,Oregon,Home,2,No,Agency
+C1417,Corporate Investment Buyers,73,M,UK,Scotland,Home,5,No,Website
+C1418,Corporate Investment Buyers,72,M,USA,Ohio,Investment,2,No,Website
+C1419,Corporate Investment Buyers,55,M,Germany,Hamburg,Investment,4,Yes,Website
+C1420,Mixed-Purpose Buyers,45,M,UK,Wales,Home,5,No,Website
+C1421,Corporate Investment Buyers,69,M,USA,Colorado,Home,1,No,Website
+C1422,Corporate Investment Buyers,71,M,USA,Florida,Investment,1,Yes,Website
+C1423,Corporate Investment Buyers,71,M,UK,Northern Ireland,Home,4,Yes,Website
+C1424,Personal-Use Buyers,72,F,USA,Utah,Home,2,Yes,Agency
+C1425,Corporate Investment Buyers,55,M,Belgium,Flanders,Home,3,No,Website
+C1426,Personal-Use Buyers,62,F,USA,Washington,Home,2,No,Website
+C1427,Personal-Use Buyers,71,F,Australia,Victoria,Home,5,No,Website
+C1428,Personal-Use Buyers,73,F,USA,Oregon,Home,4,Yes,Agency
+C1429,Corporate Investment Buyers,35,M,USA,Nevada,Investment,5,No,Agency
+C1430,Corporate Investment Buyers,63,M,USA,Nevada,Home,4,No,Website
+C1431,Personal-Use Buyers,83,F,Germany,Hesse,Home,3,Yes,Website
+C1432,Corporate Investment Buyers,75,M,USA,Utah,Home,3,No,Agency
+C1433,Corporate Investment Buyers,73,M,Germany,Hamburg,Home,4,No,Website
+C1434,Mixed-Purpose Buyers,41,F,USA,California,Investment,5,No,Agency
+C1435,Corporate Investment Buyers,59,M,USA,Texas,Investment,2,No,Agency
+C1436,Corporate Investment Buyers,28,M,USA,California,Home,2,No,Website
+C1437,Corporate Investment Buyers,29,M,USA,Arizona,Investment,5,No,Agency
+C1438,Corporate Investment Buyers,38,M,USA,California,Home,2,Yes,Agency
+C1439,Personal-Use Buyers,26,F,USA,Virginia,Home,2,No,Agency
+C1440,Personal-Use Buyers,74,F,USA,Colorado,Investment,2,No,Agency
+C1441,Personal-Use Buyers,81,F,USA,California,Investment,5,No,Website
+C1442,Corporate Investment Buyers,26,M,USA,Colorado,Home,2,Yes,Client
+C1443,Personal-Use Buyers,47,F,USA,Florida,Home,2,No,Website
+C1444,Corporate Investment Buyers,45,M,USA,Colorado,Home,3,No,Website
+C1445,Corporate Investment Buyers,38,M,USA,Florida,Home,5,No,Website
+C1446,Personal-Use Buyers,75,F,USA,Ohio,Home,4,No,Website
+C1447,Personal-Use Buyers,54,F,USA,Nevada,Investment,4,Yes,Client
+C1448,Corporate Investment Buyers,67,M,Russia,Tatarstan,Home,1,No,Website
+C1449,Personal-Use Buyers,27,F,USA,California,Investment,5,No,Website
+C1450,Personal-Use Buyers,30,F,USA,Virginia,Home,5,No,Website
+C1451,Personal-Use Buyers,43,F,USA,California,Home,1,No,Website
+C1452,Personal-Use Buyers,33,F,Belgium,Wallonia,Home,3,No,Client
+C1453,Corporate Investment Buyers,45,M,USA,California,Home,2,No,Agency
+C1454,Personal-Use Buyers,78,F,USA,California,Investment,1,No,Client
+C1455,Personal-Use Buyers,37,F,USA,Colorado,Home,3,Yes,Agency
+C1456,Mixed-Purpose Buyers,34,F,USA,Oregon,Investment,1,Yes,Website
+C1457,Personal-Use Buyers,77,F,USA,California,Home,3,Yes,Agency
+C1458,Corporate Investment Buyers,76,M,USA,Arizona,Home,1,No,Website
+C1459,Corporate Investment Buyers,77,M,USA,Arizona,Home,5,No,Website
+C1460,Personal-Use Buyers,54,F,UK,England,Home,1,Yes,Agency
+C1461,Personal-Use Buyers,82,F,USA,California,Home,5,No,Website
+C1462,Personal-Use Buyers,42,F,Germany,Hamburg,Investment,3,No,Agency
+C1463,Corporate Investment Buyers,83,M,USA,California,Home,2,Yes,Website
+C1464,Corporate Investment Buyers,86,M,USA,Arizona,Home,1,No,Website
+C1465,Corporate Investment Buyers,36,M,USA,Ohio,Home,3,Yes,Website
+C1466,Personal-Use Buyers,27,F,Belgium,Flanders,Investment,2,No,Website
+C1467,Personal-Use Buyers,75,F,USA,California,Home,5,No,Client
+C1468,Investment-Oriented Buyers,86,M,Canada,Manitoba,Home,3,No,Website
+C1469,Corporate Investment Buyers,56,M,USA,Colorado,Home,1,No,Website
+C1470,Corporate Investment Buyers,86,M,USA,Colorado,Investment,3,Yes,Agency
+C1471,Personal-Use Buyers,86,F,UK,Northern Ireland,Home,1,Yes,Website
+C1472,Corporate Investment Buyers,35,M,USA,Washington,Home,1,No,Website
+C1473,Personal-Use Buyers,52,F,USA,California,Home,2,No,Agency
+C1474,Corporate Investment Buyers,57,M,USA,Oregon,Home,3,No,Website
+C1475,Corporate Investment Buyers,82,M,Mexico,Jalisco,Home,4,Yes,Agency
+C1476,Corporate Investment Buyers,26,M,USA,Nevada,Home,1,No,Agency
+C1477,Mixed-Purpose Buyers,58,F,USA,California,Investment,1,No,Agency
+C1478,Personal-Use Buyers,68,F,Canada,British Columbia,Investment,1,No,Agency
+C1479,Corporate Investment Buyers,58,M,USA,California,Investment,1,No,Website
+C1480,Personal-Use Buyers,41,F,USA,Virginia,Investment,3,No,Client
+C1481,Mixed-Purpose Buyers,42,F,USA,Arizona,Investment,3,No,Website
+C1482,Personal-Use Buyers,73,F,USA,Oregon,Home,2,Yes,Website
+C1483,Corporate Investment Buyers,51,M,USA,Colorado,Home,3,Yes,Agency
+C1484,Personal-Use Buyers,55,F,USA,Colorado,Home,3,No,Client
+C1485,Personal-Use Buyers,42,F,USA,Washington,Investment,4,No,Website
+C1486,Personal-Use Buyers,30,F,UK,Wales,Home,5,Yes,Website
+C1487,Personal-Use Buyers,61,F,USA,New York,Home,3,No,Agency
+C1488,Corporate Investment Buyers,51,M,USA,Florida,Investment,2,No,Website
+C1489,Personal-Use Buyers,75,F,USA,Arizona,Home,5,No,Agency
+C1490,Corporate Investment Buyers,32,M,UK,Wales,Investment,5,Yes,Client
+C1491,Personal-Use Buyers,29,F,USA,Georgia,Home,4,No,Agency
+C1492,Personal-Use Buyers,42,F,Germany,Bavaria,Home,2,No,Agency
+C1493,Corporate Investment Buyers,34,M,USA,Washington,Home,4,Yes,Agency
+C1494,Corporate Investment Buyers,30,M,USA,New York,Home,1,No,Client
+C1495,Corporate Investment Buyers,35,M,Denmark,Capital Region,Home,1,No,Website
+C1496,Corporate Investment Buyers,40,M,USA,Florida,Home,5,No,Agency
+C1497,Corporate Investment Buyers,86,M,USA,California,Investment,4,No,Agency
+C1498,Personal-Use Buyers,59,F,Mexico,Puebla,Investment,5,No,Website
+C1499,Personal-Use Buyers,29,F,Russia,Saint Petersburg,Home,3,Yes,Agency
+C1500,Personal-Use Buyers,31,F,Australia,Victoria,Home,2,No,Agency
+C1501,Personal-Use Buyers,75,F,USA,Oregon,Investment,4,No,Agency
+C1502,Personal-Use Buyers,32,F,UK,Wales,Home,5,Yes,Website
+C1503,Mixed-Purpose Buyers,40,M,USA,Arizona,Investment,5,No,Website
+C1504,Corporate Investment Buyers,80,M,USA,California,Home,4,No,Website
+C1505,Corporate Investment Buyers,32,M,USA,Virginia,Home,3,No,Agency
+C1506,Corporate Investment Buyers,76,M,USA,Utah,Investment,3,No,Website
+C1507,Personal-Use Buyers,75,F,USA,Florida,Home,3,No,Agency
+C1508,Corporate Investment Buyers,32,M,UK,Scotland,Home,3,No,Agency
+C1509,Personal-Use Buyers,80,F,USA,California,Home,3,No,Website
+C1510,Mixed-Purpose Buyers,64,M,USA,California,Home,5,No,Agency
+C1511,Personal-Use Buyers,37,F,France,Provence,Home,2,Yes,Website
+C1512,Personal-Use Buyers,71,F,USA,Nevada,Home,4,Yes,Client
+C1513,Personal-Use Buyers,31,F,USA,Florida,Home,2,No,Website
+C1514,Personal-Use Buyers,40,F,USA,New York,Home,4,No,Website
+C1515,Personal-Use Buyers,80,F,USA,Nevada,Investment,5,No,Website
+C1516,Personal-Use Buyers,73,F,USA,Texas,Home,4,No,Website
+C1517,Corporate Investment Buyers,48,M,USA,California,Investment,2,No,Agency
+C1518,Personal-Use Buyers,32,F,Australia,Victoria,Home,5,Yes,Agency
+C1519,Corporate Investment Buyers,54,M,USA,California,Home,1,No,Agency
+C1520,Corporate Investment Buyers,81,M,USA,Utah,Home,1,No,Website
+C1521,Corporate Investment Buyers,53,M,USA,Nevada,Home,4,No,Agency
+C1522,Personal-Use Buyers,62,F,USA,Washington,Home,5,No,Website
+C1523,Mixed-Purpose Buyers,45,M,Australia,Victoria,Investment,3,No,Website
+C1524,Corporate Investment Buyers,59,M,USA,Virginia,Home,2,No,Client
+C1525,Corporate Investment Buyers,67,M,USA,California,Home,1,No,Agency
+C1526,Personal-Use Buyers,70,F,USA,California,Home,3,No,Website
+C1527,Personal-Use Buyers,37,F,USA,California,Home,1,No,Agency
+C1528,Personal-Use Buyers,29,F,Germany,Hamburg,Home,1,Yes,Website
+C1529,Mixed-Purpose Buyers,37,M,USA,California,Home,4,No,Website
+C1530,Personal-Use Buyers,38,F,USA,California,Home,2,No,Website
+C1531,Corporate Investment Buyers,62,M,France,Brittany,Investment,2,No,Website
+C1532,Personal-Use Buyers,28,F,USA,Texas,Home,3,Yes,Website
+C1533,Corporate Investment Buyers,38,M,Canada,British Columbia,Home,4,No,Agency
+C1534,Personal-Use Buyers,30,F,USA,California,Home,4,Yes,Website
+C1535,Corporate Investment Buyers,32,M,UK,England,Investment,3,No,Agency
+C1536,Personal-Use Buyers,44,F,USA,Washington,Home,3,No,Website
+C1537,Personal-Use Buyers,27,F,USA,Arizona,Home,5,No,Website
+C1538,Personal-Use Buyers,79,F,USA,California,Investment,5,No,Website
+C1539,Corporate Investment Buyers,29,M,USA,Nevada,Home,1,No,Agency
+C1540,Corporate Investment Buyers,69,M,USA,California,Home,2,Yes,Client
+C1541,Corporate Investment Buyers,62,M,USA,California,Home,2,No,Website
+C1542,Corporate Investment Buyers,37,M,USA,Nevada,Home,1,Yes,Website
+C1543,Personal-Use Buyers,71,F,USA,New York,Investment,3,No,Agency
+C1544,Personal-Use Buyers,79,F,Russia,Tatarstan,Home,3,No,Website
+C1545,Personal-Use Buyers,34,F,USA,California,Investment,1,Yes,Website
+C1546,Personal-Use Buyers,60,F,Mexico,Puebla,Home,4,Yes,Agency
+C1547,Personal-Use Buyers,51,F,USA,Florida,Home,2,Yes,Agency
+C1548,Mixed-Purpose Buyers,59,M,USA,California,Home,2,Yes,Website
+C1549,Corporate Investment Buyers,65,M,Mexico,Nuevo Leon,Home,4,No,Client
+C1550,Corporate Investment Buyers,28,M,USA,California,Home,2,No,Agency
+C1551,Corporate Investment Buyers,35,M,USA,California,Home,2,No,Agency
+C1552,Corporate Investment Buyers,79,M,USA,California,Investment,2,Yes,Agency
+C1553,Mixed-Purpose Buyers,36,M,USA,Utah,Home,4,No,Agency
+C1554,Corporate Investment Buyers,28,M,Germany,Bavaria,Home,1,No,Website
+C1555,Personal-Use Buyers,80,F,UK,England,Home,5,No,Website
+C1556,Personal-Use Buyers,44,F,USA,Colorado,Investment,2,No,Agency
+C1557,Personal-Use Buyers,84,F,USA,New York,Home,2,Yes,Website
+C1558,Corporate Investment Buyers,82,M,Mexico,Baja California,Home,4,No,Website
+C1559,Personal-Use Buyers,51,F,UK,England,Home,2,No,Website
+C1560,Personal-Use Buyers,86,F,USA,California,Home,4,Yes,Client
+C1561,Corporate Investment Buyers,62,M,Mexico,Nuevo Leon,Investment,5,No,Agency
+C1562,Personal-Use Buyers,39,F,USA,California,Home,4,No,Client
+C1563,Personal-Use Buyers,39,F,USA,Utah,Home,5,No,Website
+C1564,Corporate Investment Buyers,62,M,USA,Washington,Investment,5,No,Website
+C1565,Corporate Investment Buyers,46,M,Mexico,Jalisco,Home,4,No,Agency
+C1566,Corporate Investment Buyers,31,M,USA,California,Home,3,No,Website
+C1567,Corporate Investment Buyers,49,M,USA,Georgia,Home,4,No,Client
+C1568,Personal-Use Buyers,36,F,USA,California,Home,5,No,Website
+C1569,Personal-Use Buyers,33,F,USA,California,Investment,1,Yes,Website
+C1570,Personal-Use Buyers,63,F,USA,Ohio,Home,5,No,Website
+C1571,Corporate Investment Buyers,48,M,USA,California,Home,2,No,Website
+C1572,Corporate Investment Buyers,66,M,Australia,Queensland,Home,3,No,Agency
+C1573,Personal-Use Buyers,80,F,USA,California,Home,1,No,Website
+C1574,Corporate Investment Buyers,42,M,USA,California,Home,4,No,Website
+C1575,Corporate Investment Buyers,26,M,USA,California,Home,2,No,Website
+C1576,Personal-Use Buyers,49,F,USA,Nevada,Investment,3,Yes,Website
+C1577,Corporate Investment Buyers,43,M,Germany,Bavaria,Home,3,No,Website
+C1578,Corporate Investment Buyers,30,M,USA,California,Investment,2,No,Website
+C1579,Corporate Investment Buyers,81,M,USA,Arizona,Investment,4,No,Website
+C1580,Corporate Investment Buyers,29,M,USA,Georgia,Investment,1,Yes,Website
+C1581,Corporate Investment Buyers,76,M,USA,California,Investment,1,No,Website
+C1582,Corporate Investment Buyers,71,M,France,Ile-de-France,Home,4,Yes,Client
+C1583,Corporate Investment Buyers,58,M,USA,California,Home,2,No,Agency
+C1584,Mixed-Purpose Buyers,41,M,France,Brittany,Investment,1,Yes,Website
+C1585,Corporate Investment Buyers,66,M,Canada,Ontario,Home,5,No,Website
+C1586,Personal-Use Buyers,59,F,Germany,Berlin,Home,3,No,Website
+C1587,Corporate Investment Buyers,83,M,Canada,Quebec,Investment,4,Yes,Agency
+C1588,Personal-Use Buyers,46,F,USA,Utah,Investment,5,No,Website
+C1589,Personal-Use Buyers,73,F,USA,California,Investment,4,No,Agency
+C1590,Mixed-Purpose Buyers,47,F,USA,Oregon,Home,1,No,Website
+C1591,Personal-Use Buyers,55,F,USA,California,Investment,4,No,Website
+C1592,Personal-Use Buyers,51,F,USA,Texas,Investment,2,Yes,Agency
+C1593,Corporate Investment Buyers,51,M,USA,California,Home,1,No,Website
+C1594,Personal-Use Buyers,57,F,USA,Colorado,Home,2,No,Agency
+C1595,Corporate Investment Buyers,71,M,USA,California,Home,5,No,Website
+C1596,Corporate Investment Buyers,47,M,Germany,Berlin,Investment,4,No,Website
+C1597,Personal-Use Buyers,77,F,USA,Nevada,Investment,4,Yes,Website
+C1598,Personal-Use Buyers,86,F,USA,Georgia,Home,4,Yes,Agency
+C1599,Personal-Use Buyers,46,F,USA,Virginia,Investment,5,Yes,Website
+C1600,Personal-Use Buyers,58,F,Belgium,Wallonia,Home,5,No,Website
+C1601,Personal-Use Buyers,30,F,Russia,Krasnodar Krai,Home,3,No,Website
+C1602,Corporate Investment Buyers,40,M,USA,Nevada,Investment,4,No,Website
+C1603,Personal-Use Buyers,64,F,UK,England,Home,5,No,Website
+C1604,Corporate Investment Buyers,77,M,USA,Texas,Home,4,No,Website
+C1605,Corporate Investment Buyers,27,M,UK,England,Investment,4,Yes,Website
+C1606,Corporate Investment Buyers,61,M,USA,Washington,Home,1,Yes,Agency
+C1607,Personal-Use Buyers,63,F,USA,California,Home,3,No,Agency
+C1608,Personal-Use Buyers,27,F,UK,England,Home,4,Yes,Website
+C1609,Corporate Investment Buyers,62,M,USA,California,Investment,2,No,Website
+C1610,Corporate Investment Buyers,59,M,USA,California,Investment,3,No,Website
+C1611,Personal-Use Buyers,51,F,USA,Nevada,Investment,4,No,Website
+C1612,Corporate Investment Buyers,36,M,USA,California,Home,1,No,Agency
+C1613,Corporate Investment Buyers,28,M,Denmark,Southern Denmark,Home,2,Yes,Agency
+C1614,Personal-Use Buyers,58,F,USA,Utah,Investment,4,No,Website
+C1615,Corporate Investment Buyers,63,M,USA,Utah,Home,5,No,Agency
+C1616,Corporate Investment Buyers,35,M,UK,Wales,Investment,5,Yes,Website
+C1617,Personal-Use Buyers,74,F,USA,California,Home,3,No,Website
+C1618,Personal-Use Buyers,64,F,USA,Washington,Home,2,Yes,Website
+C1619,Corporate Investment Buyers,74,M,Belgium,Wallonia,Home,2,No,Website
+C1620,Corporate Investment Buyers,82,M,USA,California,Home,1,Yes,Website
+C1621,Corporate Investment Buyers,72,M,USA,Oregon,Investment,2,No,Agency
+C1622,Personal-Use Buyers,65,F,USA,Oregon,Home,1,Yes,Website
+C1623,Personal-Use Buyers,32,F,USA,Oregon,Home,4,No,Website
+C1624,Personal-Use Buyers,75,F,USA,California,Home,4,Yes,Website
+C1625,Corporate Investment Buyers,26,M,Australia,Western Australia,Home,4,No,Agency
+C1626,Personal-Use Buyers,56,F,France,Provence,Home,2,Yes,Website
+C1627,Corporate Investment Buyers,53,M,USA,California,Investment,1,No,Website
+C1628,Mixed-Purpose Buyers,33,F,France,Normandy,Home,4,Yes,Website
+C1629,Personal-Use Buyers,70,F,USA,Utah,Home,5,No,Agency
+C1630,Mixed-Purpose Buyers,32,F,USA,Virginia,Investment,1,Yes,Website
+C1631,Personal-Use Buyers,60,F,UK,Northern Ireland,Home,5,No,Website
+C1632,Personal-Use Buyers,63,F,USA,California,Investment,3,Yes,Agency
+C1633,Personal-Use Buyers,49,F,Canada,Ontario,Home,2,No,Website
+C1634,Personal-Use Buyers,82,F,USA,Georgia,Investment,2,No,Website
+C1635,Corporate Investment Buyers,78,M,France,Brittany,Home,1,No,Website
+C1636,Mixed-Purpose Buyers,39,F,USA,Arizona,Home,5,Yes,Website
+C1637,Corporate Investment Buyers,57,M,Mexico,Nuevo Leon,Home,5,No,Agency
+C1638,Personal-Use Buyers,48,F,France,Occitanie,Investment,1,Yes,Agency
+C1639,Corporate Investment Buyers,83,M,USA,Colorado,Home,1,No,Website
+C1640,Personal-Use Buyers,60,F,USA,California,Home,1,Yes,Website
+C1641,Corporate Investment Buyers,54,M,USA,Utah,Home,1,No,Agency
+C1642,Personal-Use Buyers,45,F,Canada,British Columbia,Home,5,No,Website
+C1643,Corporate Investment Buyers,48,M,France,Ile-de-France,Home,4,No,Agency
+C1644,Personal-Use Buyers,82,F,USA,California,Home,1,No,Client
+C1645,Personal-Use Buyers,31,F,Australia,New South Wales,Investment,1,No,Website
+C1646,Corporate Investment Buyers,28,M,USA,Washington,Investment,4,Yes,Agency
+C1647,Corporate Investment Buyers,81,M,USA,Ohio,Home,4,Yes,Agency
+C1648,Personal-Use Buyers,77,F,Australia,New South Wales,Home,3,No,Website
+C1649,Personal-Use Buyers,44,F,USA,Oregon,Home,4,Yes,Agency
+C1650,Corporate Investment Buyers,57,M,USA,Washington,Investment,2,No,Website
+C1651,Corporate Investment Buyers,81,M,USA,California,Investment,4,No,Website
+C1652,Corporate Investment Buyers,62,M,USA,Nevada,Investment,4,Yes,Client
+C1653,Personal-Use Buyers,52,F,USA,Colorado,Investment,4,Yes,Website
+C1654,Personal-Use Buyers,58,F,USA,California,Home,1,No,Website
+C1655,Personal-Use Buyers,61,F,USA,Texas,Investment,2,No,Website
+C1656,Corporate Investment Buyers,35,M,Belgium,Wallonia,Investment,4,Yes,Website
+C1657,Corporate Investment Buyers,68,M,USA,California,Home,2,No,Website
+C1658,Corporate Investment Buyers,56,M,USA,California,Home,5,No,Agency
+C1659,Corporate Investment Buyers,80,M,Denmark,Zealand,Home,4,No,Website
+C1660,Corporate Investment Buyers,86,M,USA,Nevada,Home,4,Yes,Website
+C1661,Corporate Investment Buyers,51,M,USA,Washington,Home,4,No,Agency
+C1662,Corporate Investment Buyers,59,M,Russia,Tatarstan,Home,4,No,Website
+C1663,Corporate Investment Buyers,49,M,USA,Colorado,Investment,3,No,Agency
+C1664,Personal-Use Buyers,57,F,France,Occitanie,Investment,5,No,Agency
+C1665,Corporate Investment Buyers,31,M,USA,Arizona,Home,5,No,Website
+C1666,Personal-Use Buyers,64,F,USA,Ohio,Home,2,No,Website
+C1667,Personal-Use Buyers,59,F,USA,California,Investment,4,No,Agency
+C1668,Corporate Investment Buyers,69,M,Australia,Victoria,Home,5,No,Website
+C1669,Corporate Investment Buyers,66,M,Canada,Alberta,Investment,3,Yes,Agency
+C1670,Personal-Use Buyers,56,F,USA,Colorado,Home,3,Yes,Website
+C1671,Personal-Use Buyers,78,F,USA,California,Home,3,No,Agency
+C1672,Personal-Use Buyers,52,F,USA,Nevada,Investment,4,No,Website
+C1673,Personal-Use Buyers,34,F,USA,Washington,Home,1,Yes,Website
+C1674,Personal-Use Buyers,85,F,USA,California,Home,5,Yes,Website
+C1675,Personal-Use Buyers,41,F,Canada,Alberta,Investment,5,No,Website
+C1676,Personal-Use Buyers,27,F,USA,Washington,Home,2,No,Website
+C1677,Corporate Investment Buyers,62,M,USA,Texas,Home,1,Yes,Website
+C1678,Corporate Investment Buyers,65,M,USA,California,Home,1,Yes,Agency
+C1679,Personal-Use Buyers,40,F,USA,Nevada,Investment,4,No,Website
+C1680,Personal-Use Buyers,27,F,USA,California,Investment,4,No,Agency
+C1681,Corporate Investment Buyers,65,M,USA,Oregon,Home,3,Yes,Client
+C1682,Personal-Use Buyers,39,F,USA,Nevada,Home,2,No,Website
+C1683,Personal-Use Buyers,27,F,USA,Oregon,Investment,1,No,Client
+C1684,Personal-Use Buyers,49,F,USA,Colorado,Investment,4,No,Website
+C1685,Personal-Use Buyers,49,F,USA,California,Home,5,No,Agency
+C1686,Corporate Investment Buyers,49,M,USA,California,Investment,2,Yes,Agency
+C1687,Corporate Investment Buyers,59,M,USA,California,Home,4,Yes,Website
+C1688,Personal-Use Buyers,30,F,USA,Oregon,Home,5,No,Client
+C1689,Personal-Use Buyers,41,F,USA,Oregon,Investment,1,Yes,Client
+C1690,Corporate Investment Buyers,75,M,Denmark,North Denmark,Home,2,Yes,Agency
+C1691,Corporate Investment Buyers,80,M,USA,Arizona,Home,5,No,Website
+C1692,Corporate Investment Buyers,35,M,Canada,Ontario,Home,5,Yes,Agency
+C1693,Corporate Investment Buyers,36,M,Belgium,Flanders,Home,1,No,Website
+C1694,Personal-Use Buyers,69,F,USA,Virginia,Home,5,No,Agency
+C1695,Personal-Use Buyers,71,F,Belgium,Flanders,Home,5,No,Website
+C1696,Personal-Use Buyers,39,F,USA,Florida,Home,1,No,Website
+C1697,Personal-Use Buyers,46,F,Belgium,Brussels,Home,2,No,Client
+C1698,Corporate Investment Buyers,76,M,UK,Northern Ireland,Home,4,Yes,Website
+C1699,Corporate Investment Buyers,57,M,Australia,Western Australia,Home,3,Yes,Agency
+C1700,Corporate Investment Buyers,83,M,USA,Nevada,Home,3,No,Website
+C1701,Personal-Use Buyers,44,F,USA,Arizona,Home,1,No,Website
+C1702,Corporate Investment Buyers,36,M,USA,Washington,Investment,5,Yes,Website
+C1703,Corporate Investment Buyers,27,M,USA,Texas,Investment,4,No,Agency
+C1704,Personal-Use Buyers,63,F,Denmark,Capital Region,Home,4,No,Agency
+C1705,Corporate Investment Buyers,47,M,USA,Virginia,Investment,3,Yes,Website
+C1706,Corporate Investment Buyers,50,M,USA,California,Home,3,Yes,Website
+C1707,Corporate Investment Buyers,53,M,USA,Georgia,Home,1,Yes,Website
+C1708,Personal-Use Buyers,40,F,Germany,Hesse,Home,1,Yes,Agency
+C1709,Personal-Use Buyers,80,F,USA,Arizona,Investment,3,No,Agency
+C1710,Corporate Investment Buyers,69,M,Canada,Alberta,Investment,2,Yes,Website
+C1711,Personal-Use Buyers,45,F,USA,California,Investment,3,Yes,Website
+C1712,Corporate Investment Buyers,55,M,France,Occitanie,Home,5,No,Website
+C1713,Personal-Use Buyers,45,F,USA,Oregon,Home,1,No,Website
+C1714,Corporate Investment Buyers,78,M,USA,Colorado,Home,3,No,Website
+C1715,Personal-Use Buyers,63,F,USA,Florida,Home,3,Yes,Agency
+C1716,Personal-Use Buyers,46,F,USA,California,Home,1,No,Website
+C1717,Personal-Use Buyers,85,F,USA,California,Home,4,Yes,Website
+C1718,Personal-Use Buyers,31,F,USA,California,Home,1,No,Website
+C1719,Mixed-Purpose Buyers,66,M,USA,Florida,Home,2,No,Agency
+C1720,Personal-Use Buyers,30,F,USA,California,Home,5,Yes,Website
+C1721,Corporate Investment Buyers,40,M,USA,Nevada,Home,2,No,Agency
+C1722,Personal-Use Buyers,44,F,USA,Nevada,Home,3,No,Website
+C1723,Personal-Use Buyers,28,F,Canada,Quebec,Home,2,Yes,Agency
+C1724,Corporate Investment Buyers,70,M,USA,Virginia,Home,4,No,Website
+C1725,Personal-Use Buyers,67,F,USA,Nevada,Home,3,Yes,Website
+C1726,Personal-Use Buyers,78,F,UK,Northern Ireland,Home,3,No,Website
+C1727,Personal-Use Buyers,81,F,USA,New York,Home,3,No,Website
+C1728,Personal-Use Buyers,82,F,USA,Oregon,Home,3,Yes,Client
+C1729,Corporate Investment Buyers,71,M,Canada,British Columbia,Home,3,Yes,Website
+C1730,Corporate Investment Buyers,47,M,Mexico,Puebla,Investment,5,Yes,Agency
+C1731,Corporate Investment Buyers,55,M,USA,California,Home,4,Yes,Website
+C1732,Personal-Use Buyers,56,F,Canada,Alberta,Investment,2,No,Agency
+C1733,Personal-Use Buyers,78,F,USA,California,Home,3,Yes,Agency
+C1734,Corporate Investment Buyers,51,M,USA,California,Home,5,No,Website
+C1735,Personal-Use Buyers,57,F,USA,Utah,Investment,3,No,Website
+C1736,Personal-Use Buyers,37,F,USA,California,Investment,4,Yes,Website
+C1737,Personal-Use Buyers,34,F,USA,California,Investment,3,No,Website
+C1738,Personal-Use Buyers,49,F,USA,California,Home,5,No,Website
+C1739,Corporate Investment Buyers,41,M,Russia,Novosibirsk,Investment,3,Yes,Website
+C1740,Personal-Use Buyers,75,F,USA,California,Home,5,Yes,Website
+C1741,Corporate Investment Buyers,50,M,USA,Virginia,Home,5,No,Website
+C1742,Mixed-Purpose Buyers,38,F,USA,California,Home,5,No,Agency
+C1743,Personal-Use Buyers,80,F,Belgium,Flanders,Home,1,No,Client
+C1744,Corporate Investment Buyers,65,M,Russia,Krasnodar Krai,Investment,1,No,Website
+C1745,Personal-Use Buyers,50,F,USA,California,Home,1,No,Website
+C1746,Personal-Use Buyers,67,F,Belgium,Flanders,Home,3,No,Website
+C1747,Corporate Investment Buyers,61,M,USA,Colorado,Home,5,No,Client
+C1748,Corporate Investment Buyers,76,M,USA,California,Home,4,Yes,Website
+C1749,Corporate Investment Buyers,70,M,USA,California,Home,3,No,Website
+C1750,Mixed-Purpose Buyers,35,M,USA,Colorado,Home,3,No,Website
+C1751,Personal-Use Buyers,71,F,USA,Ohio,Home,5,No,Website
+C1752,Corporate Investment Buyers,46,M,USA,California,Investment,1,Yes,Website
+C1753,Corporate Investment Buyers,81,M,USA,Georgia,Investment,3,Yes,Website
+C1754,Corporate Investment Buyers,31,M,USA,Virginia,Home,2,Yes,Website
+C1755,Corporate Investment Buyers,28,M,USA,Nevada,Home,1,Yes,Website
+C1756,Corporate Investment Buyers,36,M,USA,Utah,Home,1,No,Website
+C1757,Corporate Investment Buyers,41,M,Germany,Bavaria,Home,3,No,Client
+C1758,Corporate Investment Buyers,41,M,USA,Oregon,Investment,4,Yes,Agency
+C1759,Corporate Investment Buyers,52,M,USA,California,Investment,1,No,Website
+C1760,Personal-Use Buyers,51,F,Belgium,Brussels,Home,2,No,Website
+C1761,Corporate Investment Buyers,71,M,USA,Washington,Home,1,No,Website
+C1762,Corporate Investment Buyers,62,M,USA,Virginia,Home,1,No,Website
+C1763,Personal-Use Buyers,72,F,USA,New York,Home,3,No,Website
+C1764,Personal-Use Buyers,80,F,USA,Nevada,Home,2,No,Agency
+C1765,Personal-Use Buyers,29,F,USA,Colorado,Home,1,Yes,Client
+C1766,Personal-Use Buyers,33,F,USA,California,Home,4,No,Website
+C1767,Corporate Investment Buyers,48,M,USA,Colorado,Home,3,No,Website
+C1768,Personal-Use Buyers,83,F,Russia,Saint Petersburg,Home,4,No,Website
+C1769,Mixed-Purpose Buyers,41,M,USA,Oregon,Home,1,Yes,Client
+C1770,Personal-Use Buyers,81,F,USA,Washington,Home,1,Yes,Agency
+C1771,Mixed-Purpose Buyers,51,M,USA,Georgia,Home,3,Yes,Client
+C1772,Mixed-Purpose Buyers,51,F,Canada,Alberta,Investment,5,Yes,Agency
+C1773,Corporate Investment Buyers,46,M,USA,Nevada,Investment,3,Yes,Agency
+C1774,Corporate Investment Buyers,42,M,USA,Oregon,Home,4,No,Agency
+C1775,Personal-Use Buyers,56,F,USA,California,Home,3,No,Agency
+C1776,Personal-Use Buyers,53,F,France,Occitanie,Home,1,No,Website
+C1777,Corporate Investment Buyers,52,M,USA,California,Investment,5,No,Client
+C1778,Corporate Investment Buyers,32,M,USA,Georgia,Investment,4,Yes,Website
+C1779,Personal-Use Buyers,47,F,USA,California,Home,5,No,Client
+C1780,Corporate Investment Buyers,70,M,USA,Utah,Investment,1,No,Website
+C1781,Personal-Use Buyers,58,F,USA,California,Home,4,No,Website
+C1782,Personal-Use Buyers,27,F,UK,England,Investment,1,No,Website
+C1783,Corporate Investment Buyers,72,M,USA,California,Home,3,No,Website
+C1784,Corporate Investment Buyers,28,M,Australia,Western Australia,Home,3,No,Client
+C1785,Personal-Use Buyers,70,F,USA,Colorado,Home,1,Yes,Website
+C1786,Corporate Investment Buyers,31,M,USA,California,Home,1,No,Website
+C1787,Corporate Investment Buyers,71,M,USA,Georgia,Investment,5,No,Agency
+C1788,Corporate Investment Buyers,37,M,USA,California,Home,3,No,Website
+C1789,Corporate Investment Buyers,44,M,USA,Colorado,Home,5,Yes,Agency
+C1790,Corporate Investment Buyers,86,M,USA,Nevada,Investment,5,No,Client
+C1791,Corporate Investment Buyers,60,M,USA,California,Home,5,No,Agency
+C1792,Corporate Investment Buyers,31,M,USA,California,Home,3,No,Agency
+C1793,Corporate Investment Buyers,57,M,USA,Utah,Investment,1,No,Website
+C1794,Corporate Investment Buyers,31,M,USA,Colorado,Home,3,No,Website
+C1795,Corporate Investment Buyers,81,M,USA,California,Home,5,Yes,Website
+C1796,Personal-Use Buyers,76,F,USA,California,Investment,5,Yes,Client
+C1797,Personal-Use Buyers,69,F,USA,Oregon,Home,3,Yes,Website
+C1798,Corporate Investment Buyers,60,M,USA,Arizona,Investment,1,Yes,Website
+C1799,Personal-Use Buyers,76,F,USA,Colorado,Home,5,No,Agency
+C1800,Corporate Investment Buyers,82,M,USA,Oregon,Home,1,No,Client
+C1801,Corporate Investment Buyers,62,M,USA,California,Home,5,Yes,Website
+C1802,Corporate Investment Buyers,78,M,USA,Nevada,Investment,1,No,Client
+C1803,Personal-Use Buyers,39,F,Canada,Quebec,Investment,5,No,Agency
+C1804,Corporate Investment Buyers,37,M,USA,California,Home,1,No,Website
+C1805,Corporate Investment Buyers,73,M,UK,Northern Ireland,Investment,3,No,Website
+C1806,Personal-Use Buyers,59,F,Australia,New South Wales,Investment,2,No,Agency
+C1807,Personal-Use Buyers,69,F,France,Brittany,Home,5,No,Website
+C1808,Personal-Use Buyers,36,F,USA,Washington,Investment,2,No,Client
+C1809,Personal-Use Buyers,45,F,USA,New York,Home,4,Yes,Agency
+C1810,Personal-Use Buyers,81,F,USA,Texas,Home,3,No,Agency
+C1811,Personal-Use Buyers,68,F,USA,California,Home,3,Yes,Agency
+C1812,Corporate Investment Buyers,49,M,France,Provence,Home,5,Yes,Website
+C1813,Corporate Investment Buyers,79,M,Germany,Hamburg,Investment,3,Yes,Website
+C1814,Corporate Investment Buyers,39,M,Denmark,North Denmark,Home,2,No,Website
+C1815,Corporate Investment Buyers,77,M,USA,California,Home,5,No,Agency
+C1816,Corporate Investment Buyers,64,M,Canada,Quebec,Home,2,No,Website
+C1817,Personal-Use Buyers,82,F,USA,Virginia,Home,1,No,Agency
+C1818,Personal-Use Buyers,32,F,USA,Washington,Investment,5,Yes,Website
+C1819,Corporate Investment Buyers,63,M,Russia,Krasnodar Krai,Home,1,No,Website
+C1820,Corporate Investment Buyers,47,M,France,Provence,Home,3,No,Website
+C1821,Corporate Investment Buyers,82,M,USA,Nevada,Home,5,No,Website
+C1822,Corporate Investment Buyers,30,M,USA,Oregon,Investment,5,Yes,Website
+C1823,Corporate Investment Buyers,59,M,USA,Oregon,Home,4,Yes,Website
+C1824,Corporate Investment Buyers,64,M,USA,California,Home,3,No,Website
+C1825,Corporate Investment Buyers,70,M,Mexico,Nuevo Leon,Home,2,No,Agency
+C1826,Corporate Investment Buyers,75,M,USA,Ohio,Home,4,No,Client
+C1827,Corporate Investment Buyers,53,M,USA,New York,Home,5,Yes,Website
+C1828,Corporate Investment Buyers,35,M,USA,California,Investment,2,Yes,Website
+C1829,Personal-Use Buyers,29,F,USA,California,Home,5,Yes,Agency
+C1830,Personal-Use Buyers,67,F,USA,Arizona,Home,3,No,Website
+C1831,Personal-Use Buyers,76,F,Russia,Tatarstan,Home,3,No,Website
+C1832,Corporate Investment Buyers,39,M,USA,Oregon,Investment,1,Yes,Website
+C1833,Personal-Use Buyers,78,F,USA,Arizona,Investment,1,Yes,Website
+C1834,Corporate Investment Buyers,63,M,Belgium,Flanders,Investment,5,No,Agency
+C1835,Personal-Use Buyers,67,F,Canada,Alberta,Investment,4,Yes,Agency
+C1836,Personal-Use Buyers,66,F,USA,California,Investment,1,Yes,Website
+C1837,Personal-Use Buyers,76,F,USA,California,Home,2,Yes,Client
+C1838,Personal-Use Buyers,61,F,Canada,Alberta,Investment,1,No,Agency
+C1839,Corporate Investment Buyers,83,M,USA,California,Investment,2,No,Agency
+C1840,Corporate Investment Buyers,40,M,UK,England,Investment,3,No,Website
+C1841,Corporate Investment Buyers,79,M,USA,New York,Home,4,No,Website
+C1842,Mixed-Purpose Buyers,48,M,Canada,Alberta,Home,3,Yes,Agency
+C1843,Corporate Investment Buyers,74,M,Germany,Hesse,Home,4,No,Website
+C1844,Personal-Use Buyers,48,F,USA,Ohio,Home,1,No,Agency
+C1845,Corporate Investment Buyers,77,M,USA,California,Investment,1,Yes,Website
+C1846,Personal-Use Buyers,41,F,Russia,Novosibirsk,Home,5,Yes,Agency
+C1847,Corporate Investment Buyers,74,M,USA,Utah,Home,4,No,Website
+C1848,Personal-Use Buyers,33,F,USA,California,Home,2,No,Website
+C1849,Corporate Investment Buyers,50,M,Canada,Alberta,Investment,3,Yes,Website
+C1850,Corporate Investment Buyers,55,M,USA,New York,Investment,5,Yes,Agency
+C1851,Personal-Use Buyers,72,F,UK,England,Home,3,Yes,Agency
+C1852,Personal-Use Buyers,29,F,USA,Virginia,Home,4,No,Website
+C1853,Personal-Use Buyers,77,F,USA,Virginia,Investment,4,No,Website
+C1854,Mixed-Purpose Buyers,66,M,France,Ile-de-France,Investment,1,No,Client
+C1855,Personal-Use Buyers,42,F,USA,California,Home,2,Yes,Website
+C1856,Mixed-Purpose Buyers,32,M,USA,Virginia,Home,2,No,Website
+C1857,Corporate Investment Buyers,39,M,USA,California,Investment,2,Yes,Website
+C1858,Personal-Use Buyers,68,F,USA,Colorado,Home,5,No,Website
+C1859,Corporate Investment Buyers,83,M,USA,California,Home,5,Yes,Client
+C1860,Mixed-Purpose Buyers,56,F,USA,California,Home,4,Yes,Agency
+C1861,Corporate Investment Buyers,44,M,USA,California,Investment,3,Yes,Website
+C1862,Corporate Investment Buyers,73,M,USA,California,Home,1,Yes,Website
+C1863,Personal-Use Buyers,78,F,UK,Scotland,Home,3,No,Website
+C1864,Personal-Use Buyers,54,F,USA,New York,Home,5,Yes,Website
+C1865,Corporate Investment Buyers,52,M,USA,Arizona,Investment,4,No,Website
+C1866,Personal-Use Buyers,55,F,USA,Nevada,Home,2,No,Agency
+C1867,Corporate Investment Buyers,74,M,USA,California,Home,2,Yes,Website
+C1868,Personal-Use Buyers,51,F,UK,Wales,Home,1,No,Website
+C1869,Personal-Use Buyers,51,F,Mexico,Nuevo Leon,Home,5,No,Client
+C1870,Corporate Investment Buyers,46,M,USA,Washington,Investment,1,No,Agency
+C1871,Personal-Use Buyers,65,F,USA,Texas,Home,1,Yes,Website
+C1872,Corporate Investment Buyers,86,M,Mexico,Mexico City,Home,5,No,Client
+C1873,Personal-Use Buyers,67,F,Canada,British Columbia,Home,5,No,Agency
+C1874,Corporate Investment Buyers,54,M,USA,Colorado,Investment,1,No,Agency
+C1875,Personal-Use Buyers,83,F,USA,Nevada,Home,2,No,Client
+C1876,Mixed-Purpose Buyers,45,M,USA,Ohio,Investment,4,Yes,Website
+C1877,Corporate Investment Buyers,65,M,USA,Arizona,Home,5,No,Agency
+C1878,Corporate Investment Buyers,59,M,USA,Washington,Home,5,No,Agency
+C1879,Personal-Use Buyers,49,F,USA,New York,Home,3,No,Website
+C1880,Personal-Use Buyers,28,F,USA,California,Home,5,Yes,Client
+C1881,Personal-Use Buyers,37,F,USA,Oregon,Home,2,Yes,Website
+C1882,Personal-Use Buyers,66,F,USA,Virginia,Investment,3,No,Website
+C1883,Corporate Investment Buyers,85,M,USA,California,Home,1,No,Agency
+C1884,Corporate Investment Buyers,72,M,USA,Nevada,Home,5,Yes,Website
+C1885,Corporate Investment Buyers,59,M,Germany,Hamburg,Home,1,Yes,Agency
+C1886,Personal-Use Buyers,27,F,USA,California,Home,5,No,Website
+C1887,Personal-Use Buyers,40,F,USA,Oregon,Investment,1,No,Agency
+C1888,Corporate Investment Buyers,64,M,USA,California,Home,3,No,Website
+C1889,Corporate Investment Buyers,39,M,USA,California,Home,4,Yes,Website
+C1890,Corporate Investment Buyers,72,M,Canada,Ontario,Home,4,No,Client
+C1891,Corporate Investment Buyers,54,M,USA,Oregon,Home,2,No,Agency
+C1892,Personal-Use Buyers,75,F,USA,Nevada,Investment,5,Yes,Agency
+C1893,Personal-Use Buyers,64,F,USA,Washington,Home,1,Yes,Website
+C1894,Personal-Use Buyers,82,F,USA,Texas,Investment,4,No,Website
+C1895,Mixed-Purpose Buyers,57,M,USA,Nevada,Investment,4,No,Agency
+C1896,Corporate Investment Buyers,71,M,USA,Virginia,Investment,3,No,Agency
+C1897,Personal-Use Buyers,76,F,Canada,Ontario,Home,2,No,Website
+C1898,Corporate Investment Buyers,47,M,USA,New York,Home,1,Yes,Website
+C1899,Corporate Investment Buyers,30,M,UK,England,Home,3,No,Website
+C1900,Personal-Use Buyers,28,F,UK,England,Investment,4,No,Client
+C1901,Corporate Investment Buyers,44,M,Canada,British Columbia,Home,4,No,Agency
+C1902,Mixed-Purpose Buyers,46,M,USA,Colorado,Investment,2,No,Agency
+C1903,Personal-Use Buyers,35,F,USA,Nevada,Home,2,No,Website
+C1904,Corporate Investment Buyers,77,M,USA,Texas,Home,2,Yes,Website
+C1905,Corporate Investment Buyers,65,M,USA,Virginia,Home,1,No,Website
+C1906,Personal-Use Buyers,71,F,USA,California,Home,2,No,Agency
+C1907,Corporate Investment Buyers,76,M,USA,Colorado,Home,3,No,Website
+C1908,Personal-Use Buyers,50,F,USA,California,Home,2,No,Website
+C1909,Personal-Use Buyers,41,F,USA,California,Investment,2,No,Agency
+C1910,Mixed-Purpose Buyers,41,M,USA,California,Home,2,Yes,Agency
+C1911,Corporate Investment Buyers,37,M,USA,California,Home,5,No,Agency
+C1912,Personal-Use Buyers,72,F,USA,Utah,Investment,1,No,Website
+C1913,Corporate Investment Buyers,46,M,France,Provence,Home,5,No,Website
+C1914,Personal-Use Buyers,33,F,UK,Scotland,Home,4,Yes,Website
+C1915,Personal-Use Buyers,62,F,USA,Arizona,Investment,4,No,Client
+C1916,Corporate Investment Buyers,78,M,USA,California,Investment,2,No,Website
+C1917,Personal-Use Buyers,55,F,Australia,New South Wales,Home,2,No,Client
+C1918,Personal-Use Buyers,86,F,USA,California,Home,1,No,Client
+C1919,Mixed-Purpose Buyers,58,F,USA,Nevada,Investment,1,No,Website
+C1920,Corporate Investment Buyers,57,M,Germany,North Rhine-Westphalia,Home,5,No,Agency
+C1921,Personal-Use Buyers,70,F,France,Provence,Home,5,No,Website
+C1922,Personal-Use Buyers,38,F,USA,California,Home,1,No,Agency
+C1923,Personal-Use Buyers,79,F,Mexico,Jalisco,Investment,1,Yes,Client
+C1924,Corporate Investment Buyers,68,M,USA,California,Home,3,No,Client
+C1925,Corporate Investment Buyers,84,M,USA,Colorado,Home,2,No,Agency
+C1926,Corporate Investment Buyers,29,M,Mexico,Puebla,Home,1,Yes,Website
+C1927,Personal-Use Buyers,74,F,USA,California,Investment,1,Yes,Website
+C1928,Corporate Investment Buyers,28,M,Australia,New South Wales,Home,4,Yes,Client
+C1929,Personal-Use Buyers,85,F,Mexico,Jalisco,Home,1,Yes,Agency
+C1930,Personal-Use Buyers,60,F,USA,Colorado,Investment,3,No,Agency
+C1931,Personal-Use Buyers,31,F,USA,Utah,Home,5,Yes,Website
+C1932,Personal-Use Buyers,64,F,USA,California,Investment,2,No,Website
+C1933,Mixed-Purpose Buyers,32,F,Australia,Queensland,Home,1,No,Client
+C1934,Corporate Investment Buyers,48,M,France,Ile-de-France,Investment,4,Yes,Client
+C1935,Personal-Use Buyers,43,F,USA,Arizona,Home,5,No,Website
+C1936,Corporate Investment Buyers,42,M,Russia,Krasnodar Krai,Home,1,Yes,Agency
+C1937,Personal-Use Buyers,65,F,USA,Arizona,Home,3,Yes,Website
+C1938,Corporate Investment Buyers,53,M,Canada,Quebec,Home,4,Yes,Website
+C1939,Personal-Use Buyers,47,F,USA,Florida,Investment,1,Yes,Agency
+C1940,Investment-Oriented Buyers,29,F,Canada,Manitoba,Home,4,No,Agency
+C1941,Personal-Use Buyers,83,F,USA,Nevada,Home,5,No,Client
+C1942,Mixed-Purpose Buyers,42,F,USA,Nevada,Home,2,Yes,Agency
+C1943,Corporate Investment Buyers,53,M,USA,Arizona,Home,1,No,Website
+C1944,Corporate Investment Buyers,40,M,USA,California,Investment,1,No,Website
+C1945,Corporate Investment Buyers,59,M,Mexico,Mexico City,Investment,3,No,Website
+C1946,Corporate Investment Buyers,71,M,USA,California,Home,1,No,Agency
+C1947,Corporate Investment Buyers,47,M,USA,Nevada,Home,3,No,Website
+C1948,Personal-Use Buyers,71,F,USA,Arizona,Home,2,No,Agency
+C1949,Personal-Use Buyers,71,F,USA,Colorado,Home,2,Yes,Agency
+C1950,Corporate Investment Buyers,51,M,USA,Ohio,Home,4,No,Agency
+C1951,Corporate Investment Buyers,30,M,USA,Utah,Home,1,Yes,Website
+C1952,Mixed-Purpose Buyers,34,M,USA,Nevada,Home,3,No,Agency
+C1953,Corporate Investment Buyers,54,M,Germany,Bavaria,Home,1,Yes,Website
+C1954,Personal-Use Buyers,60,F,Australia,Western Australia,Investment,3,No,Website
+C1955,Corporate Investment Buyers,28,M,Canada,Quebec,Home,1,No,Website
+C1956,Personal-Use Buyers,59,F,USA,Oregon,Home,2,No,Agency
+C1957,Corporate Investment Buyers,64,M,USA,California,Home,4,Yes,Website
+C1958,Personal-Use Buyers,56,F,USA,California,Home,3,No,Website
+C1959,Personal-Use Buyers,84,F,USA,Texas,Home,1,No,Website
+C1960,Personal-Use Buyers,39,F,USA,Colorado,Home,2,Yes,Website
+C1961,Corporate Investment Buyers,32,M,USA,California,Home,5,No,Agency
+C1962,Personal-Use Buyers,31,F,Mexico,Puebla,Home,5,No,Agency
+C1963,Mixed-Purpose Buyers,58,M,USA,Texas,Home,5,No,Website
+C1964,Corporate Investment Buyers,54,M,USA,Virginia,Home,5,No,Agency
+C1965,Corporate Investment Buyers,29,M,USA,California,Home,4,No,Agency
+C1966,Corporate Investment Buyers,62,M,Canada,British Columbia,Home,1,No,Agency
+C1967,Corporate Investment Buyers,69,M,USA,Oregon,Investment,4,No,Agency
+C1968,Personal-Use Buyers,68,F,USA,California,Investment,3,Yes,Client
+C1969,Corporate Investment Buyers,33,M,USA,Colorado,Investment,2,Yes,Agency
+C1970,Corporate Investment Buyers,48,M,USA,Arizona,Investment,4,Yes,Website
+C1971,Personal-Use Buyers,50,F,USA,Virginia,Home,5,No,Website
+C1972,Personal-Use Buyers,54,F,USA,California,Home,4,Yes,Website
+C1973,Mixed-Purpose Buyers,33,M,USA,Washington,Home,4,Yes,Agency
+C1974,Corporate Investment Buyers,76,M,USA,Nevada,Home,5,Yes,Agency
+C1975,Personal-Use Buyers,51,F,Belgium,Wallonia,Home,4,No,Agency
+C1976,Corporate Investment Buyers,31,M,USA,Florida,Home,5,No,Client
+C1977,Corporate Investment Buyers,32,M,USA,Virginia,Home,1,No,Website
+C1978,Mixed-Purpose Buyers,59,F,USA,California,Investment,5,Yes,Website
+C1979,Corporate Investment Buyers,84,M,USA,Colorado,Home,3,Yes,Agency
+C1980,Personal-Use Buyers,70,F,USA,Texas,Investment,4,No,Website
+C1981,Personal-Use Buyers,34,F,Canada,Quebec,Home,5,No,Agency
+C1982,Corporate Investment Buyers,79,M,USA,California,Home,4,Yes,Website
+C1983,Corporate Investment Buyers,65,M,UK,Northern Ireland,Home,3,No,Website
+C1984,Corporate Investment Buyers,70,M,USA,California,Home,4,No,Website
+C1985,Corporate Investment Buyers,63,M,UK,Scotland,Home,1,Yes,Agency
+C1986,Corporate Investment Buyers,49,M,USA,New York,Investment,1,No,Website
+C1987,Corporate Investment Buyers,40,M,Belgium,Wallonia,Investment,5,No,Website
+C1988,Corporate Investment Buyers,32,M,USA,California,Home,5,Yes,Website
+C1989,Corporate Investment Buyers,67,M,USA,Texas,Home,3,No,Agency
+C1990,Corporate Investment Buyers,50,M,USA,Texas,Investment,5,No,Agency
+C1991,Personal-Use Buyers,76,F,USA,California,Home,3,No,Website
+C1992,Personal-Use Buyers,83,F,USA,Texas,Home,3,Yes,Website
+C1993,Corporate Investment Buyers,41,M,USA,New York,Home,2,No,Website
+C1994,Personal-Use Buyers,32,F,USA,Oregon,Investment,3,Yes,Website
+C1995,Personal-Use Buyers,33,F,USA,California,Investment,4,No,Agency
+C1996,Personal-Use Buyers,34,F,USA,Nevada,Home,1,Yes,Website
+C1997,Corporate Investment Buyers,84,M,USA,Arizona,Home,4,Yes,Website
+C1998,Corporate Investment Buyers,63,M,USA,Virginia,Home,5,Yes,Website
+C1999,Corporate Investment Buyers,82,M,USA,Ohio,Home,4,Yes,Client
+C2000,Personal-Use Buyers,30,F,USA,Georgia,Home,1,Yes,Agency

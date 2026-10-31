@@ -1,0 +1,5 @@
+buyer_segment,Segment Name,Buyer_Count,Buyer Percentage (%),Average_Age,Median Age,Average_Satisfaction,Investment Buyers,Investment Buyers (%),Loan Applicants,Loan Application Rate (%),Dominant Gender,Dominant Country,Dominant Region,Dominant Acquisition Purpose,Dominant Referral Channel
+Corporate Investment Buyers,,942,47.1,56.92,57.0,3.02,291,30.89,348,36.94,M,USA,California,Home,
+Investment-Oriented Buyers,,15,0.75,51.8,54.0,3.27,5,33.33,5,33.33,F,Canada,Manitoba,Home,
+Mixed-Purpose Buyers,,103,5.15,48.07,49.0,3.07,36,34.95,43,41.75,M,USA,California,Home,
+Personal-Use Buyers,,940,47.0,56.22,57.0,3.03,283,30.11,340,36.17,F,USA,California,Home,
